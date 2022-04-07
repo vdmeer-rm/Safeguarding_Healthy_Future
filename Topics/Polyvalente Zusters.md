@@ -1,0 +1,1 @@
+Holistic combination of district nursing and consultation office nursing, was opposed to [[Specifieke Zusters]] and formed the core of [[Oranje-Groene Kruis Utrecht]]

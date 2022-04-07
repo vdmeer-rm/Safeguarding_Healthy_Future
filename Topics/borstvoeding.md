@@ -1,0 +1,3 @@
+The emphasis on [[borstvoeding]] in [[Consultatiebureau]] can be explained as a the result of the wider trend [[A transition can be observed from a focus on infectious disease and nutrition before WW2 to a focus on physical, mental, and social wellbeing after WW2.]] According to [[Mooij Israels - 2001 - Aan de Achtergracht; 100 jaar GGD in Amsterdam]] (p.78), [[Child health intervention took shape by health resources to excecute child health.]]
+
+Quite some studies around 1900 (see Lucie Bastiaans) had proven that lack of [[borstvoeding]] was the most important cuase of mortality rates.

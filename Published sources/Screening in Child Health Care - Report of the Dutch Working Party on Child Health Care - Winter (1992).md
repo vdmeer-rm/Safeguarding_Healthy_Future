@@ -1,0 +1,916 @@
+# Screening in Child Health Care - Report of the Dutch Working Party on Child Health Care - Winter (1992)
+
+|Variable |  |
+|:--------------|:-----------|
+| **Author**			|   [[Micha de Winter]]  | 
+| **Year**				| 	1992		 | 
+| **Title**				| 	'# Screening in Child Health Care - Report of the Dutch Working Party on Child Health Care'		 | 
+| **Kind**				| report	 | 
+| **Journal/Publisher**				| 	*Chapman and Hall*		 | 
+| **Date read**				| 	2022-03-14	 | 
+| **Cite Key**				| 	[[@dewinterScreeningChildHealth1995]]		 |
+| **tags**				| #readingnote  			 | 
+
+**Take-home message**:
+
+---
+## Reading notes
+
+Annotations  
+(14-3-2022 16:40:52)
+
+“Introduction a critical evaluation of Dutch preventive Child Health Care” (De Winter, 1995, p. ix)
+
+“To put it briefly: Dutch Child Health Care, which for a long time had enjoyed wide social support and appreciation, found itself faced with the obligation to legitimize itself under the influence of new political developments; society demanded a more accurate insight into the results of its efforts. Within this context, the project called 'Integral Evaluation of Child Health Care' was initiated. The Board of the National Association for Community Nursing and Home Carel commissioned the Centre for Research and Development of Youth Health Care and Youth Social Work of the University of Utrecht to subject the Dutch Child Health Care system to a scientific study.” (De Winter, 1995, p. ix)
+
+“On the basis of the literature studies, consensus meetings were held concerning the following subjects: the objectives of the Child Health Care system, immunizations, phenylketonuria (PKU) and congenital hypothyroidism (CHT) screenings, hearing examinations, visual examinations, language/speech examinations, periodic medical examinations, prevention of psychosocial and educational problems, health education, activities aimed at influencing social and physical environmental factors, and, finally, the quality and the organization of the Child Health Care system.” (De Winter, 1995, p. xi)
+
+“The Integral Evaluation Project was an effort to provide the best possible survey of the effectiveness and quality of the Dutch Child Health Care system.” (De Winter, 1995, p. xi)
+
+“The most remarkable conclusion of the project is that the Dutch Child Health Care system maybe considered a very solid kind of organized programmed prevention. The system owes its strength to its thorough national organization, and its firm establishment at community and district levels. The great trust this form of preventive care enjoys with the public is an essential precondition for an invariably high population coverage, which in its turn is responsible for the high degree of health benefit that is obtained with the system.” (De Winter, 1995, p. xi)
+
+“1.1 Aims of pre-school Child Health Care” (De Winter, 1995, p. 2)
+
+“What then, exactly, are the aims and functions of pre-school Child Health Care? To begin with these do not, of course, constitute a static whole. At the time the first Child Health Clinics were established, some 100 years ago, the health of children was far worse than it is now. Because of poverty, ignorance of essential hygiene and lack of facilities, rampant infectious diseases and so on, infant mortality was very high (25% on average). Obviously, the main objective of 'Child Health Care' then was to fight such evils. The means used included social action, collective and individual education of mothers, the distribution of good quality milk and the opening of Child Health Clinics. As mortality and morbidity (from infectious diseases) decreased, the objectives of Child Health Care shifted. Gradually child development and 'mental hygiene' came into view as objects of care.” (De Winter, 1995, p. 2) This clearly explains the aims as expanding from body to system
+
+“The main aim of pre-school Child Health Care, as expressed in 1972 by the Netherlands League of Maternity Care and Child Health Hygiene (Nederlandse Bond van Moederschapszorg en Kinderhygiene) was 'the promotion and safeguarding of the health, growth and development of young people'.” (De Winter, 1995, p. 2)
+
+“In 1985 the Dutch Association of Child Health Care (Nederlandse Vereniging voor Jeugdgezondheidszorg) widened the aim: 'Child Health Care, within the welfare and health care system, aims to provide the longitudinal socia-medical guidance that will enable each individual, as a young person and as an adult, to function at his/her best individually and in a social context'.” (De Winter, 1995, p. 2)
+
+“In the last few years, finally, a case has been argued for making more room within the system of care for the parents' responsibility for and contribution to the health and development of their children, as well as for considering the living environment of the child and its parents an object of Child Health Care. 1” (De Winter, 1995, p. 2)
+
+“From this perspective the aim of pre-school Child Health Care can now be defined as follows: 'The promotion and safeguarding of a healthy physical, mental and social development of the population of pre-school children, starting from the parents' personal responsibility, by means of influencing the relevant health determinants, namely physical factors, health behaviour and relevant environmental factors, including the system of care itself'.” (De Winter, 1995, p. 3) Would make a case that as a result of its success, its scope became broader - not smaller, as is often suggested
+
+“It is the objective of pre-school Child Health Care to improve immunity against infectious diseases.” (De Winter, 1995, p. 3)
+
+“It is the objective of pre-school Child Health Care to detect the threat of individual health risks and disorders in time and, if necessary, refer.” (De Winter, 1995, p. 3)
+
+“It is the objective of pre-school Child Health Care to promote, at an individual and collective level, the personal competence and the responsibility of parents with regard to their children, if necessary by advancing their understanding of the health condition and (potential) development of their child and by increasing their competence (health promoting behaviour).” (De Winter, 1995, p. 3)
+
+“It is the objective of pre-school Child Health Care to provide insight into the health condition of (groups of) young people, to point out social risk factors that threaten health and to contribute to the elimination of such factors.” (De Winter, 1995, p. 3)
+
+“1.2 Procedures in pre-school Child Health Care” (De Winter, 1995, p. 3)
+
+“One important reason for this is that the methods at the service of pre-school Child Health Care are not at all of equal order. On the one hand, for instance there are specific, unambiguous interventions such as immunizations and screenings that serve a well defined health target; on the other hand there are activities with a much wider scope, such as counselling or giving advice and information on the development of children and so on. Finally the presence, accessibility and social roots of the system of care are major preconditions themselves.” (De Winter, 1995, p. 4)
+
+“An adequate organization of the system itself, in other words, is a necessary condition for the effectiveness of the whole of pre-school Child Health Care.” (De Winter, 1995, p. 4)
+
+“Therefore, if we are to chart pre-school Child Health Care, two levels should be distinguished. The first level is the provision of the required conditions: the organized system of care, the extensive network of clinics for babies and young children, from which numerous preventive and health promotion activities are developed.” (De Winter, 1995, p. 4)
+
+“The second level consists of the specific medical, nursing and educational methods for prevention and intervention, including immunization, screenings, counselling and the drawing up of health profiles.” (De Winter, 1995, p. 4)
+
+“1.2.1 The organized system of care” (De Winter, 1995, p. 4)
+
+“For decades, pre-school preventive health care in the Netherlands has been carried out by the 'Cross' organizations.2 Amsterdam, where this care is provided by the Municipal Health Service, is an exception to the rule.” (De Winter, 1995, p. 4)
+
+“2For a long time 'Cross Associations' (Kruisverenigingen) have been active in the Netherlands in the fields of social and preventive medicine and home nursing on behalf of their members as well as of the general public. The National Cross Association (National Kruisvereniging) represented the regional cross associations at national level. In 1990 the National Cross Association merged with the National Council for Home Help (Centrale Raad voor de Gezinsverzorging) to form the National Association for Community Nursing and Home Care (Landelijke Vereniging voor Thuiszorg), established at Bunnik. In this book the regional organizations will be referred to as 'Community Health Care'.” (De Winter, 1995, p. 4) Notion of "community health care is effective"
+
+“school Child Health Care takes place in a number of different ways: in Child Health Clinics, in home visits, group education and 'external' activities including participation in working groups on Early Detection and in neighbourhood networks for youth welfare work.” (De Winter, 1995, p. 5)
+
+“In the course of years, a very close national network for pre-school Child Health Care has been built up through local organizations. Both the population and the authorities consider the clinics and the connected activities as a basic facility; practically every parent in the Netherlands made and makes regular use of them.” (De Winter, 1995, p. 5)
+
+“The basic character of this facility can also be seen from the way it is financed: pre-school Child Health Care is largely paid for under the Exceptional Medical Expenses Act (Algemene Wet op de Bijzondere Ziektekosten AWBZ), which makes this form of care accessible to everyone and thus provides a nationwide guaranteed basic package.” (De Winter, 1995, p. 5)
+
+“The baby clinics have a stable coverage of over 95%, the clinics for preschool children some 85%. PKU/CHT screening covers 99.6%, the immunization level is more than 93% (Drewes 1989), and the range of hearing screening by the Ewing method is 86% (NSDSK 1989)3. No percentages are known of the number of home visits made annually by district nurses, but they are estimated at one million per year (Bos & De Winter 1989). International comparison shows that, certainly as far as immunizations, PKU/CHT screening and hearing screening are concerned, these figures are among the highest in the world. Partly for these reasons, the Netherlands has the lowest child mortality among the under-fives in the world after Japan, Sweden and Finland.” (De Winter, 1995, p. 5)
+
+“Another important criterion for assessing the Dutch system of Child Health Care is the quality of the system and its reaction speed. Health and health care are not static. The health situation of the population in care changes, old threats lessen and new risks may present themselves. Scientific opinions change, making new forms of intervention possible. For this reason the system of care should possess some degree of flexibility and the ability to meet new challenges with new methods. In the past few years the effectiveness of a soundly organized and flexibly operating pre-school Child Health Care has been demonstrated several times. One example of this is the introduction of a new vaccination against measles, mumps and rubella (MMR) a few years ago, which, within a year of its introduction, achieved the same high degree of immunization of over 90% as the long established” (De Winter, 1995, p. 5) This is exteremely fascinating - because it shows that scientific findings were indeed rapidly disseminated to the population through the network of consultation offices.
+
+“immunizations of the National Immunization Programme (Rijksvaccinatie Programma RVp)4. Another example concerns health education: by changing the advice about laying babies on their stomachs a quick and sharp decrease in the incidence of cot death was brought about (De Jonge 1992).” (De Winter, 1995, p. 6)
+
+“Finally, in a recent recommendation, the National Health Council (Nationale Raad voor de Volksgezondheid NRV) focused attention on the notion of 'programmed prevention,.5 Programmed prevention is described as: 'systematically executed preventive activities carried out according to a fixed division of tasks and procedure and aimed at a defined target group, the coverage of the target group being monitored' (Van de Water & Davidse 1992)” (De Winter, 1995, p. 6) This is interesting and not yet on the radar. From the 1990s, the preventive child health care was organised through a project base.
+
+“sThis NRV recommendation is partly based on a preliminary report called Organizational strengthening of prevention in primary care (Organisatiorische versterking van preventie in de eerstelijnszorg), published by NIPG/TNO, Leiden (Van de Water & Davidse 1992).” (De Winter, 1995, p. 6)
+
+“Pre-school Child Health Care in its entirety may be described as a mainly individually targeted form of organized programmed prevention. Collectively, targeted programmed prevention mainly takes place outside the sector's field of responsibility.” (De Winter, 1995, p. 7) So in the 1990, preventive child health care is understood as individually oriented
+
+“In this report the latter category will be referred to as 'prevention to measure' (or individually geared 'prevention'). Examples of standardized prevention programmes are: the National Immunization Programme; PKU and CHT screening; hearing screening; checks for visual disorders; developmental surveillance; detection of language and speech disorders; as well as some types of health education (for instance Accident Prevention Cards)6.” (De Winter, 1995, p. 7)
+
+“1.3 Outcome measurement” (De Winter, 1995, p. 10)
+
+“In the course of the project however, the conclusion was reached that a specific set of instruments should be developed for a permanent and comprehensive insight into the cost-effectiveness ratios within pre-school Child Health Care. The Institute for Social Health Care (Instituut voor Maatschappelijke Gezondheidszorg) of the Erasmus University of Rotterdam was commissioned to undertake this. In the research project the outcomes and costs of screening methods will be reviewed first, based on the following broad definition of the concept of screening: 'when (at fixed times and according to a fixed protocol) parents are asked questions and observations are being carried out on children to ascertain whether a number of defined health disorders (a) are probably present or threaten to arise and/or (b) further diagnosis and/or therapy is needed, it may be said that screening takes place for this series of defined disorders' (Van der Maas 1991).” (De Winter, 1995, p. 11)
+
+“According to Van der Maas, the outcomes of screening fall into two main groups: bringing forward diagnosis and the health benefits achieved by this.” (De Winter, 1995, p. 11)
+
+“2 Immunizations” (De Winter, 1995, p. 15)
+
+“Internationally, the Netherlands has a name for its excellent prevention of infectious diseases, resulting from a very high immunization uptake. Since 1979, the national average for all immunizations has been more than 90% (GHI 1981a, 1991a, 1992). This has been accomplished thanks to excellent computerized administration, to a great willingness (virtually 100%) on the part of the public to make use of the National Immunization Programme (RVP) 1, to a well-developed and easily accessible network of Child Health Clinics and the Child Health Care Departments of the District and Municipal Health Services (GGD).” (De Winter, 1995, p. 15)
+
+“2.1 The National Immunization Programme (RVP)” (De Winter, 1995, p. 15)
+
+“ach year, the Minister for Welfare, Public Health and Cultural Affairs (WVC) lays down the R VP for that year on the recommendations of the National Health Council (N ationaleRaad voor de Volksgezondheid NRV),” (De Winter, 1995, p. 15)
+
+“having listened to the recommendations of the Chief Medical Inspector (Geneeskundige Hoofdinspecteur GHI), the Director-General of the National Institute of Public Health and Environmental Protection (Rijksinstituut voor Volksgezondheid en Milieuhygiene RIVM) and the Health Insurance Board (Ziekenfondsraad).” (De Winter, 1995, p. 16)
+
+“Each year the Inspectorate publishes a leaflet setting out the immunization programme for that year, and distributes this among the officials responsible for implementation.” (De Winter, 1995, p. 16)
+
+“The immunizations of the R VP have not always been the same: adjustments are made from time to time as a result of new epidemiological insights and technical possibilities.” (De Winter, 1995, p. 16)
+
+“The initial impetus for the R VP was the polio epidemic in 1956 which claimed 2206 victims. A diphtheria-pertussis-tetanus vaccine (DPT) had been available in the Netherlands since 1952, and was extensively used in the child health clinics, so that 70% of the children had been immunized with DPT by the time (1957) the RVP was introduced (Hannik 1963).” (De Winter, 1995, p. 16)
+
+“At an even earlier stage, children in the Netherlands were being immunized against smallpox and diphtheria. With the introduction of the RVP in 1957, inactivated triple polio vaccine (Salk vaccine) was used, initially as a separate polio vaccine and from 1962 onwards as a combined diphtheriatetanus-pertussis-polio vaccine.” (De Winter, 1995, p. 16)
+
+“The use of the Salk vaccine makes the Netherlands fairly exceptional because in most other countries live oral polio vaccine (Sabin vaccine) is used.” (De Winter, 1995, p. 16)
+
+“In 1974, the immunization of ll-year-old girls against rubella (German measles) was started as a separate immunization, followed by a separate immunization against measles in 1976. In 1987, both disappeared again from the RVP with the introduction of the combined immunization against mumps, measles and rubella (MMR).” (De Winter, 1995, p. 16)
+
+“On 1 April 1993, the immunization against Haemophilus Influenzae type b was added to the RVP.” (De Winter, 1995, p. 16)
+
+“However, before any further additions are made, it must be quite clear that the practicability of the programme will not be jeopardized, and that the motivation of parents and professionals will not diminish as a” (De Winter, 1995, p. 16)
+
+“result (Bijkerk 1986a).” (De Winter, 1995, p. 17)
+
+“However, logistic and financial limitations also contribute to the ultimate form of the schedule (Bijkerk 1986b).” (De Winter, 1995, p. 17)
+
+“2.1.1 Implementation of the RVP” (De Winter, 1995, p. 17)
+
+“The RVP is implemented by the two Child Health Care systems in the Netherlands. The first are the Community Health Care Organizations, which are responsible for preventive health care services for pre-school children. From the moment children go to school, preventive health care is carried out by the departments of Child Health Care of the District and Municipal Health Authorities (GGD). These authorities also conduct campaigns for schoolchildren who, for some reason or other, have been incompletely, or not at all, immunized. Implementation of the R VP is the responsibility of the Provincial Immunization Administration (ProvinciaIe Entadministratie PEA).” (De Winter, 1995, p. 17)
+
+“The administrative organization has been assigned to the Provincial Immunization Adminstration PEA (Ministry of Public Health and Environmental Protection 1974a,b). The provinces of Overijssel and Flevoland share one PEA, the other 10 provinces have a PEA of their own, as do the cities of Amsterdam and Rotterdam, so that there are 13 PEAs in the country. In addition to the administrative organization of the R VP, the PEAs have also been charged with the administration of the screening programmes for phenylketonuria (PKU), congenital hypothyroidism (CHT) and of the combined screening and immunization programme for hepatitis B.” (De Winter, 1995, p. 18)
+
+“The vaccines for the R VP are procured by the PEAs from, or via, the RIVM. The PEAs take care of the distribution to the Child Health Clinics and the District and Municipal Health Services where the immunizations are gIven.” (De Winter, 1995, p. 18)
+
+“For the benefit of those responsible for implementation, details of the RVP are set out in guidelines, which were originally published by the Medical Inspectorate (GHI 1981b). Because these guidelines had never been updated, most child health clinics used a publication of the Overijssel and Flevoland PEA with practical guidelines and background information (Burgmeijer & Bolscher 1990). Recently, the information was updated and published in book form, together with useful information about other immunizations frequently given to children (Burgmeijer & Bolscher 1993).” (De Winter, 1995, p. 18)
+
+“2.1.2 Financing of the RVP” (De Winter, 1995, p. 18)
+
+“Since 1 January 1974, the RVP has been financed by the Exceptional Medical Expenses Act (Algemene Wet Bijzondere Ziektekosten AWBZ) (Ministry of Public Health and Environmental Protection 1974c).” (De Winter, 1995, p. 18)
+
+“As already mentioned, the Minister for Welfare, Public Health and Cultural Affairs lays down the immunization programme, which states which groups of insured persons” (De Winter, 1995, p. 18) Interesting that with immunization the state plays a much bigger role than with all the other activities
+
+“qualify for immunization with the named vaccines.” (De Winter, 1995, p. 19)
+
+“The processing and storage of data concerning the insured persons with respect to the R VP, up to and including the twelfth year of life, is carried out by the PEA. In practice this means that, within the framework of the R VP (and consequently financed in pursuance of the AWBZ), immunizations may be given up to the twelfth birthday.” (De Winter, 1995, p. 19)
+
+“2.2 Effects of immunization” (De Winter, 1995, p. 19)
+
+“2.2.1 Effects at individual level” (De Winter, 1995, p. 20)
+
+“2.2.1.1 Immunity by seroconversion after immunization” (De Winter, 1995, p. 20)
+
+“2.2. I.2 Side effects” (De Winter, 1995, p. 21)
+
+“2.2.1.3 Risks of immunization versus the risks of wild infection” (De Winter, 1995, p. 23)
+
+“2.2.2 Effects at pOpu lation level” (De Winter, 1995, p. 24)
+
+“2.2.2.1 Protection through herd immunity” (De Winter, 1995, p. 24)
+
+“2.2.2.2 Decreasing mortality and morbidity” (De Winter, 1995, p. 25)
+
+“Diphtheria (D)” (De Winter, 1995, p. 25)
+
+“Pertussis or whooping cough (P)” (De Winter, 1995, p. 25)
+
+“Tetanus (T)” (De Winter, 1995, p. 27)
+
+“Poliomyelitis (polio)” (De Winter, 1995, p. 28)
+
+“Haemophilus influenzae type b (Hib)” (De Winter, 1995, p. 28)
+
+“Mumps (M)” (De Winter, 1995, p. 29)
+
+“Measles (M)” (De Winter, 1995, p. 29)
+
+“Rubella (R)” (De Winter, 1995, p. 30)
+
+“Hepatitis B (HB)” (De Winter, 1995, p. 31)
+
+“2.3 Costs of the RVP and the hepatitis B screening and immunization” (De Winter, 1995, p. 32)
+
+“2.3.1 Costs of the RVP” (De Winter, 1995, p. 32)
+
+“2.3.2 Costs of hepatitis B screen ing and immunization” (De Winter, 1995, p. 34)
+
+“2.4 Cost-effectiveness and cost-benefit ratios” (De Winter, 1995, p. 34)
+
+“2.4.1 General” (De Winter, 1995, p. 34)
+
+“2.4.2 National Immunization Programme (RVP)” (De Winter, 1995, p. 35)
+
+“2.4.3 Hepatitis B screening and immunization” (De Winter, 1995, p. 35)
+
+“2.4.4 Haemophilus influenzae type B immunization” (De Winter, 1995, p. 36)
+
+“2.5 Conclusions” (De Winter, 1995, p. 36)
+
+“On the basis of the available literature it can be said that the present immunizations in the Netherlands are highly effective. The effectiveness is demonstrated by the fact that, after the introduction of immunizations against diphtheria, whooping cough, tetanus, polio, measles and rubella, the incidence rates went down to the present, extremely low, levels. Even though, as a result of improvements in conditions of social hygiene and the availability of sophisticated diagnostic procedures and therapeutics, the drop in mortality and morbidity rates had already started before immunization was introduced. The effect of the introduction of each immunization is clearly demonstrable.” (De Winter, 1995, p. 36)
+
+“Considering the wide range of the R VP, Child Health Clinics obviously offer a good infrastructure for implementing the National Immunization Programme.” (De Winter, 1995, p. 37)
+
+“2.6 Recommendations” (De Winter, 1995, p. 37)
+
+“It is recommended that the R VP with its executive, administrative, monitoring and evaluation functions be maintained. In connection with the reorganization of the Community Health Care Organizations and the PEAs, and the PEAs switch to a new computerized administration system on 1 January 1993, alertness is required to ensure that these functions are maintained.” (De Winter, 1995, p. 37) Interesting that in 1993 stuff was administrated through computer-based operations
+
+“3 Screening for phenylketonuria and congenital hypothyroidism” (De Winter, 1995, p. 50)
+
+“Phenylketonuria (PKU) and congenital hypothyroidism (CHT) are congenital disorders which, if they are not treated promptly lead to, among other things, serious mental retardation. In the Netherlands, virtually all neonates are screened for PKU and CHT. PKU screening was introduced in 1974, CHT screening in 1981. The screening for PKU and CHT is a form of standardized programmed prevention. The aim of the screening is to detect the disorders at the earliest possible stage so that, through prompt treatment, the consequences of the diseases can be prevented. In this chapter, the disorders are described, then the organization of the screening is discussed.” (De Winter, 1995, p. 50)
+
+“3.1 Phenylketonuria (PKU)” (De Winter, 1995, p. 50)
+
+“PKU is an autosomal recessive hereditary metabolic disorder that is caused by the virtual inactivity of the enzyme phenylalanine hydroxylase.” (De Winter, 1995, p. 50)
+
+“3.2 Congenital hypothyroidism (CHT)” (De Winter, 1995, p. 51)
+
+“'CHT is a congenital deficient functioning of the thyroid gland that results in disorders of physical growth and development and serious permanent retardation of mental development..” (De Winter, 1995, p. 51)
+
+“3.3 Organization of the screening” (De Winter, 1995, p. 52)
+
+“The effectiveness and efficiency of a screening programme is partly determined by good organization, continuous monitoring and evaluation. Meijer (1984) gives a description of the organization on the basis of the following functions:” (De Winter, 1995, p. 52)
+
+“The implementation of the screening is the responsibility of the Provincial Doctors Immunization Administration (Provinciaal Artsen Entadministratie) and, in Amsterdam and Rotterdam, of the Municipal Health Authority (GGGD) doctor concerned. The administration is carried out by the immunization administrations.” (De Winter, 1995, p. 52)
+
+“There is a centralized system of quality control for the five PKU and CHT laboratories.” (De Winter, 1995, p. 52)
+
+“Continuing evaluation of the screening is carried out by the National Institute for Preventive Medicine (NIPG) together with the Dutch organization for Applied Scientific Research (TNO). These activities are financed under the provisions of the A WBZ (Exceptional Medical Expenses Act).” (De Winter, 1995, p. 53)
+
+“Research on the occurrence of serious retardation in general mental, psychomotor and behavioural development, essential for the assessment of the effect of CHT screening, is made p” (De Winter, 1995, p. 53)
+
+“3.4 Implementation of the screening” (De Winter, 1995, p. 53)
+
+“The implementation of the screening is as follows: a blood sample is taken from the infant by means of a heel prick; this is done by the general practitioner, the obstetrician, district nurse, or by a staff member of the maternity hospital. The recommended age for carrying out this test is 6-8 days2. At this recommended age, 68% of children are screened: 4% are screened after the age of 14 days (Verkerk & Vaandrager 1990b).” (De Winter, 1995, p. 53)
+
+“3.10 Conclusions” (De Winter, 1995, p. 60)
+
+“Screening procedures for PKU and CHT are good examples of carefully standardized preventive screening. The screening procedures are well organized, each year a careful evaluation is done, the screenings have a very wide range and, it would seem, a positive cost-benefit ratio. Nevertheless, there still appear to be some questions with respect to the treatment of PKU, the method of screening for CHT, and the false-positive results in screening for CHT.” (De Winter, 1995, p. 60)
+
+“3.1 1 Recommendations” (De Winter, 1995, p. 62)
+
+“It is recommended that the present situation with respect to the organization of both screenings be continued. The costs of implementing the screenings should be shown.” (De Winter, 1995, p. 62)
+
+“4 Screening for hearing impairment” (De Winter, 1995, p. 66)
+
+“Hearing is an important sensory function. The development of good hearing is of great significance for development as a whole and notably for speech development and language acquisition. Late discovery ofhearing impairment may result in a disruption of development. At Child Health Clinics the hearing functions of young children have always been checked, but from the 1960s onward this has takenplace systematically on all children by means of a standardized screening method: the Ewing test (Ewing & Ewing 1944). The aim of this method is to detect all hearing impairments at the age of about 9 months. In this chapter, normal hearing is briefly discussed, then the various types of impairment. Subsequently, attention is given to the problem of secretory otitis media (SOM) and its detection, the objective and function of screening and the methodsof measuring whether or not the objectivehas been or is being attained. Then two other methods for the detection of hearing impairment used in the Netherlands are discussed and finally the recommendations by the project group are given.” (De Winter, 1995, p. 66)
+
+“4.1 Hearing” (De Winter, 1995, p. 66)
+
+“4.2 Hearing impairments” (De Winter, 1995, p. 66)
+
+“To sum up, it may be said that there is no consensus on the degree of hearing loss that impedes children in the developmentofspeech and language.” (De Winter, 1995, p. 67)
+
+“4.5 Screening for hearing impairment” (De Winter, 1995, p. 71)
+
+“4.6 Screening tests” (De Winter, 1995, p. 71)
+
+“4.7 Conclusions” (De Winter, 1995, p. 73)
+
+“The Ewing test is a relatively good screening method for the detection of hearing impairment in children about 9 months old. The test has good coverage, the validity data available present a positive picture of it. During the Project Group's discussions however the point was raised that the follow-up (after a negative result) often leaves a lot to be desired. Frequently, too much time elapses between a disorder being suspected and the diagnosis being made (and the start of treatment).” (De Winter, 1995, p. 73)
+
+“In reply, the Netherlands Foundation for the Deaf and Hearing Impaired Child (Nederlandse Stichting voor het Dove en Slechthorende Kind), which takes care of training for the Ewing test as well as its organization and administration, stated that they are drawing up a national referral protocol.” (De Winter, 1995, p. 73)
+
+“Finally, a point that is stressed by many national and international authors: good, regularly repeated information for parents, in which the importance of screening is explained and which explains the significance of an insufficient reaction and of its repetition is of great importance. This will prevent much unnecessary worry by parents.” (De Winter, 1995, p. 73)
+
+“Nationale Kruisvereniging: Jaarrapportage jeugdgezondheidszorg o-schoolgaand, Kruiswerk 1987, Bunnik 1989.” (De Winter, 1995, p. 75) Interesting to look into!
+
+“Plateringen, M.M. van: Follow-up van Rotterdamse zuigelingen, die i.a.a. een gehoorscreening volgens de methode Ewing zijn verwezen, Leiden: NIPG/ TNO, 1987 (scriptie gelntegreerde opleiding jeugdgezondheidszorg).” (De Winter, 1995, p. 75)
+
+“5 Early detection and prevention of vision defects” (De Winter, 1995, p. 77)
+
+“The importance of normal visual development is generally recognized and therefore the significance of early detection of disorders in this development (such as squint and amblyopia, major refractive errors and serious structural disorders) is important. Vision defects that are unidentified or are identified too late may lead to (irreparable) impairment of vision, which can cause delayed and/or disturbed general development. Until a few years ago, there was no systematic method for the detection of visual defects that was workable in the clinic. Even though the Van Wiechen check-lise includes a number of items aimed at the assessment of the visual faculty, there was a clear need for standardization of research, evaluation of results, uniformity and promotion of quality and expertise in this field (Lantau 1989). To meet this need a standardized method was introduced aimed at the detection of visual defects at the clinic, Early Detection of Vision Defects (VOV: Vroegtijdige Opsporing van Visuele stoornissen).” (De Winter, 1995, p. 77)
+
+“5.3 The importance of early detection (and treatment) of vision defects” (De Winter, 1995, p. 79)
+
+“The importance of early detection of visual defects is generally acknowledged. Most defects can be treated with reasonable success. In the case of defects which are not or are hardly treatable, detection is worthwhile because of the genetic implications and the guidance of parent and child. The most common arguments for the detection of amblyopia are firstly that persons with amblyopia run a greater risk of sustaining a disorder in the healthy eye3 and secondly that in certain occupations ever higher demands are made on the acuity of vision of both eyes (Loewer-Sieger et al. 1987, National Counselling Committee for Early Detection of Vision Defects (LBC-VOV) 1988)” (De Winter, 1995, p. 79)
+
+“5.5 Tests for early detection of vision defects in the Netherlands” (De Winter, 1995, p. 82)
+
+“5.5.1 The Early Detection method” (De Winter, 1995, p. 82)
+
+“The Early Detection method is a systematized method of examination to detect defects of the eyes, their position and movement in babies and young children. Particular attention is paid to the position and the movement of the eyes. The method is not primarily aimed at the identification of acuity deviations or refraction errors (Lantau 1989).” (De Winter, 1995, p. 82)
+
+“In addition to taking down a short historl the method comprises:” (De Winter, 1995, p. 82)
+
+“inspection of the eyes: clarity and diameter of the cornea (inter alia in connection with high eye pressure with congenital glaucoma) form and colour of the pupil; in connection with structural defects such as cataract and retinoblastoma reaction of the pupil to light • (ascertaining the position of) reflex images: in this way a straight eye position and manifest squint are differentiated • cover test to confirm a straight eye position or a manifest squint and for the detection of a latent squint; the cover test acts as a check on the reflex images method • following movements: these must be checked binocularly as well as monocularly. Notably the monocular following movements are important, as defects in central fixation, a feature of amblyopia at an early age, become evident in faltering following movements. These can best be established by comparing the left and right eyes;” (De Winter, 1995, p. 82)
+
+“The examination is carried out by clinical medical officers (who are trained by orthoptists) with simple tools (a fixation light and perhaps a small toy animal) and, according to the compilers, does not take long. In a trial test in Amsterdam the time per child proved to be about 2 minutes (Lan tau & Loewer-Sieger 1987).” (De Winter, 1995, p. 83)
+
+“he Amsterdam Municipal Health Service has recently carried out research” (De Winter, 1995, p. 83)
+
+“into the applicability of this method in its Pre-school Child Health Care. Results of this research were published in 1992.” (De Winter, 1995, p. 84)
+
+“5.7 Conclusions” (De Winter, 1995, p. 90)
+
+“At present, the Early Detection method developed in the Netherlands is being implemented nationally; about half (30-35) of the regional” (De Winter, 1995, p. 90)
+
+“Community Nursing Service organizations use the test. Up to now the method seems to function well and to be cost effective. In view of the lack of clarity still existing regarding the desired ages for and the frequency of testing, the Project Group recommended that the method be again submitted to a cost-effectiveness analysis by means of the Erasmus University model. The follow-up of preventive screening should also be included in the test. After all, the final cost-effectiveness ratio is also determined by the result of diagnosis and treatment. This 'follow-up route' does not appear to have been very well streamlined in all places, anyway; often months pass by between a referral by the clinic and subsequent specialist assessment.” (De Winter, 1995, p. 91)
+
+“5.8 Recommendations” (De Winter, 1995, p. 91)
+
+“In view of the positive results in other countries with tests for stereoscopic vision for the detection of amblyopia, it is recommended that the applicability of this method within the Child Health Services for pre-school children be further investigated in the short term.” (De Winter, 1995, p. 91) Again: methods are adopted to its organised context
+
+“It is recommended that the Early Detection programme be continued for the time being. The Follow-up Committee will have to consider, on the basis of further cost-effectiveness analysis, if and if so in what respect, the programme needs to be adjusted. In particular the health effects of the detection of functional defects should be given attention. Explicit attention is also required for more precise determination of the time and frequency at which Early Detection is to be carried out. It is also recommended that the effects at the level of health of the British Working Party on Child Health Surveillance procedure be taken into consideration.” (De Winter, 1995, p. 91)
+
+“Finally, it is recommended that attention be paid to the follow-up procedure (diagnosis and treatment), with regard to both cost effectiveness and the course of the follow-up process.” (De Winter, 1995, p. 91)
+
+“Balledux, M., Mare, j. de, Winter, M. de: Project Integrale Evaluatie Jeugdgezondheidszorg voor kinderen van 0-4 jaar. Literatuurstudies, Utrecht: Rijksuniversiteit Utrecht, 1991.” (De Winter, 1995, p. 95)
+
+“6 Developmental surveillance” (De Winter, 1995, p. 96)
+
+“In the first years of life, psychomotor and neurological development take place rapidly. The development in these fields is characterized by its great complexity. Although insight into the causes and the course of developmental disorders is still limited, there is consensus that development and therefore developmental impairment can be multi-causally determined. Expressed in the terminology of the ecological health model described in Chapter 1, causes of developmental impairment can be found in physical factors or their interaction (endogenous causes), and in both behavioural factors (child's or parents' lifestyle) and socio-physical environment.” (De Winter, 1995, p. 96)
+
+“The care system itself may also influence the disorder (exogenous causes). A gross motor impairment, for instance, can be due to a physical factor (e.g. a muscle disease), to a behavioural factor (e.g. too little stimulation from parents), or to a factor in the socio-physical environment (e.g. not enough play opportunities at home and/or in the neighbourhood).” (De Winter, 1995, p. 96) Interesting how the care systems seems to have agency
+
+“From the establishment of the first child health clinics, major tasks of Child Health Care have been to give attention to children's development and to detect disorders in such development early on. In the past there were no simple Dutch testsl available for such purposes; children's development was followed and disorders were detected (as early as possible) by the 'clinical eye' of the experienced doctor.” (De Winter, 1995, p. 96)
+
+“In the early 1980s, a tool was developed in the Netherlands for systematic and standardized developmental surveillance: the Van Wiechen check-list.” (De Winter, 1995, p. 96)
+
+“lSome clinical medical officers used Illingworth's 'screening booklet' (1973).” (De Winter, 1995, p. 96) !!!!!
+
+“6.1 Development” (De Winter, 1995, p. 97)
+
+“The following theories can be distinguished, in roughly chronological order: development models attributing prime importance to the constitution or to the environment (so-called main-effect models) and models attributing the development to an interaction of constitutional and environmental factors (interactive models). Nowadays preference is given to a transactional model in which development is seen as a discontinuous process, whereby constitutional and environmental characteristics affect and modify one another2.” (De Winter, 1995, p. 97)
+
+“6.2 Developmental impairments” (De Winter, 1995, p. 97)
+
+“Clearly the great number of theoretical concepts lead to just as many descriptions or definitions of the concept developmental impairment. In the biological model, a developmental impairment is seen to be caused by constitutional abnormalities or disorders. In the environmental model, negative environmental influences are blamed; in the interactive model both factors may be considered to give rise to impairment. Finally, in the transactional view, developmental impairments are seen to be the result of unfavourably proceeding transactions (interactions) between child and environment, whereby the child gets insufficient or no chance to adapt to its world, and then to (re)organize and to (re)structure its world. It is assumed in this view that man possesses a 'self-regulating power' (Sameroff 1975). The breadth of the concept of development, as outlined above, constitutes an extra complication when describing the concept of developmental impairment, particularly in the framework of a transactional model.” (De Winter, 1995, p. 97)
+
+“Thus the age at which the abnormality is established determines its prevalence in an age group. There is a rather broad range of prevalence figures in the literature: Campbell & Camp (1975) mention a percentage of 0.5, the National Committee on Early Detection speaks of 5-10% (in its first report of 1979), Rutter et al. (1970) estimate prevalence at 15% and Brandon (cited by Camp 1975) at 20%. Finally, in a study by Schlesinger-Was in 1981, which to some extent formed the basis of the Van Wiechen check-list, a prevalence figure of 3-5% was established.” (De Winter, 1995, p. 98)
+
+“6.3 Aim and outcome measures of developmental surveillance” (De Winter, 1995, p. 98)
+
+“The general objective of pre-school Child Health Care is to secure and advance health, growth and development. In the context of developmental surveillance this is achieved on the one hand by early detection of disorders (aimed at securing healthy development) and on the other hand by increasing the knowledge and competence of parents (aimed at promoting healthy development).” (De Winter, 1995, p. 98)
+
+“6.4 Developmental surveillance methods” (De Winter, 1995, p. 99)
+
+“The first method is surveillance, by which a simple test is used to divide the population into two groups, one with a high and one with a low chance of an abnormality or disorder.” (De Winter, 1995, p. 99)
+
+“A second possibility is the regular examination of all individual children (generally called developmental surveillance), and finally the approach to groups of children at risk can be chosen.” (De Winter, 1995, p. 99)
+
+“Up till now surveillance for developmental impairments has not been a successful undertaking. Although an untold number of attempts have been made to develop reliable, valid and efficient surveillance tests, the results have been inadequate on all counts. The most well-known, and most frequently reviewed, test is the Denver Developmental Screening Test (DDST) (Frankenburg 1967), adapted for use in the Netherlands by Cools and Hermanns (1977) as the Denver Ontwikkeling Screeningtest (DOS).” (De Winter, 1995, p. 99)
+
+“Although the DDST is a reasonably reliable tool, its poor validity makes it unsuitable for surveillance. Particularly for this reason, its use in such tests has been advised against” (De Winter, 1995, p. 99)
+
+“ne of the main reasons for the failure of surveillance tests for development probably lies in the complexity of the problem being investigated. Surveillance can only be successful when it concerns simple, stable forms of retardation or pathology. In the detection of developmental impairments, the problems concerned are dynamic, are not stable in time and moreover are extremely diverse in nature.” (De Winter, 1995, p. 99)
+
+“Although there is consensus in national and international scientific literature on the necessity of individual developmental surveillance - with eminent authors such as Frankenburg (e.g. 1975), Illingworth (e.g. 1971), Drillien & Drummond (e.g. 1983), Hall (1989) and Dworkin (1989) defending its importance in the context of Early Detection - there is less agreement on the way in which such surveillance should be carried out, and how often.” (De Winter, 1995, p. 99)
+
+“For instance, the British Joint Working Party on Child Health Surveillance (Hall 1989) recommends a schedule of appointments of eight medical encounters in the age group from birth to 5 years of” (De Winter, 1995, p. 99)
+
+“age, while advising against both routine use of surveillance tests and routine carrying out of developmental examinations.” (De Winter, 1995, p. 100)
+
+“In contrast, the American Association of Pediatrics (AAP 1988) recommends a schedule of appointments of 12 times in the period from birth to 5 years of age, focused on history and appropriate physical examination. Although these programmes differ in method and frequency, the term developmental surveillance is used in both cases4 •” (De Winter, 1995, p. 100)
+
+“6.5 Developmental surveillance in the Netherlands” (De Winter, 1995, p. 100)
+
+“In the Netherlands, developmental surveillance in the pre-school age group is carried out with the aid of the Van Wiechen check-list developed in the early 1980s (Schlesinger-Was 1981, Van Wiechen working party 1983). The aim of the check-list is:” (De Winter, 1995, p. 100)
+
+“promoting systematic examination of development for the guidance of normal development for early detection of deviations in development and of pathological development” (De Winter, 1995, p. 100)
+
+“achieving uniform national registration, enabling transfer of the data, which is a condition for longitudinal counselling in preschool Child Health Care.” (De Winter, 1995, p. 100)
+
+“The developmental characteristics applied 10 the check-list were chosen” (De Winter, 1995, p. 100)
+
+“4Butler (1989) gives extensive consideration to the lack of standardization in the use of this term: in fact, 'developmental surveillance', 'child health surveillance' and 'surveillance' are used alongside one another. In one publication 'developmental surveillance' indicates the totality of all activities in child health surveillance, whereas in another the term is reserved for what in the Netherlands is called developmental surveillance.” (De Winter, 1995, p. 100)
+
+“from publications by, among others, Gese1l5, who has divided the developmental process of young children into five development fields: • gross motor competence • fine motor competence (eye-hand coordination) • adaptation (use of the motor function in daily life) • speech and language (all the ways in which a child communicates with its surroundings) • personality and social behaviour.” (De Winter, 1995, p. 101)
+
+“The Van Wiechen check-list consists of two parts: • the baby check-list (birth to 15 months) comprises 37 items divided over seven surveillance sessions (1, 2, 3, 6, 9, 12 and 15 months) • the pre-school check-list (18-54 months) comprises 39 items divided over six surveillance sessions (1.5 years, 2 years, 2.5 years, 3 years, 3 years and 9 months, and 4.5 years).” (De Winter, 1995, p. 101)
+
+“The choice of age for the surveillance sessions was determined by what (in the opinion of the designers of the check-list) appeared to be feasible in preschool Child Health Care practice, and was adapted to the most common frequency of and intervals between attendances. In practice, development surveillance is a part of the periodic health examination (PHE). Classification in surveillance sessions of the current check-list can be a problem when the frequency and/or age at which surveillance takes place is changed. In principle it is possible to adjust the check-list to any ages on the basis of the study by Schlesinger-Was (1981).” (De Winter, 1995, p. 101)
+
+“The basic assumptions here were that abnormalities may occur simultaneously in several fields, and that an abnormality which is originally restricted to one field may eventually have an effect in the others.” (De Winter, 1995, p. 101)
+
+“The baby check-list differs slightly in structure from the pre-school check-list in that other aspects of development come to the fore in the 1-4 year age group. In the baby list emphasis is on the gross motor system and in the pre-school list it is on fine motor activity, adaptation, speech/language development and social skills.” (De Winter, 1995, p. 101)
+
+“The Van Wiechen check-list also includes a parent registration card, kept in the 'Growth Book,6.” (De Winter, 1995, p. 101)
+
+“The idea behind this is that parents are the most” (De Winter, 1995, p. 101)
+
+“5See among others Gesell and Amatruda (1974), Illingworth (1972).” (De Winter, 1995, p. 101)
+
+“6The 'Growth Book' has been issued to all parents of new-born babies in the Netherlands since 1978. It aims to give parents the information to help them care for and raise their children. For further details see section 10.1.2.” (De Winter, 1995, p. 101)
+
+“obvious people to provide information about the development of their children. Moreover, in this way, parents are involved in following this development.” (De Winter, 1995, p. 102)
+
+“The Van Wiechen check-list is not specifically based on a theoretical model about development and developmental impairments. In the checklist manual (Van Wiechen Working Party 1983) a developmental impairment (for want of an unequivocal definition) is described as follows: 'Development is a ripening process of the central nervous system and the senses. A developmental impairment is the result of a disturbance of this process, manifested by a different progress in functioning to that expected. What must be understood by "normal" or "expected" depends on culture, socio-economic circumstances, the child's sex, the constellation of the family or home environment, the physical environment (town or country) and on many other factors. Thus the child's situation at the time that its development is screened must not differ too much from the situation in which what is considered "normal" was determined. This is resolved in the new check-list by making as much use as possible of the reference values established at child health clinics for healthy children' (Schlesinger-Was 1981) (Van Wiechen Working Party 1983). A later addition stated that assessment of development may never take place solely on the basis of the Van Wiechen check-list but must also take account of the following:” (De Winter, 1995, p. 102)
+
+“rate and stability of development • presence of neuro-pathological symptoms • the current condition of the child, as apparent from the general impression, the general physical examination and the biometric data • the impressions of the parents • family and interval histories • occurrence of risk factors in the prenatal, perinatal and postnatal periods and in family history • the impressions obtained by the clinical medical officer and nurse.” (De Winter, 1995, p. 102)
+
+“Such an integration of developmental surveillance in a total assessment of a child does justice to the transactional view on development.” (De Winter, 1995, p. 102)
+
+“This deviation may be a reason for referral, but must always be seen in relation to the quality of the execution of the item and the integral assessment of the child.” (De Winter, 1995, p. 103)
+
+“The use of the check-list in practice has been investigated (among others by Wilbrink-Griffioen & Van Eyck 1989)7” (De Winter, 1995, p. 103)
+
+“The major conclusions of Wilbrink-Griffioen & Van Eyck's study are that the check-list (and particularly the baby check-list) is appreciated by a great majority of doctors as being an aid in following development, but that a number of hindrances to its use have been noted:” (De Winter, 1995, p. 103)
+
+“A great number of doctors had difficulty in eliciting and interpreting a number of items, so that development surveillance took a lot of time.” (De Winter, 1995, p. 103)
+
+“Because the restricted registration possibilities of the check-list were found unsatisfactory, many doctors used their own registration methods; this hindered the transfer and interpretation of data.” (De Winter, 1995, p. 103)
+
+“e of the check-list proved difficult with children from ethnic groups, owing to a language and communication problem and because the list is standardized for Dutch children.” (De Winter, 1995, p. 103) !!!
+
+“Finally there proved to be doubts about the value of the check-list for the detection of disorders; many clinical medical officers had the impression that the disorders that they found using the checklist would also have come to light without it.” (De Winter, 1995, p. 103)
+
+“6.6 Conclusions” (De Winter, 1995, p. 103)
+
+“The objective of the study of development cannot be unequivocally described, partly because of the lack of generally accepted definitions of development and developmental impairment.” (De Winter, 1995, p. 103) Fascinating - there is not a clear goal defined
+
+“Therefore it is not clear in advance what research on outcome must be aimed at. A number of developmental characteristics are employed in the Van Wiechen check-list;” (De Winter, 1995, p. 103)
+
+“7Chatab (1989) studied the application of the Van Wiechen check-list. It appeared from the study that the check-list was not suitable for standardized application. However, it is questionable whether such a conclusion may be drawn on the basis of this study. It was a cross·sectional investigation (one point of time at which measurements are taken) which may have given some distortion, particularly in regard to age-linked care.” (De Winter, 1995, p. 103)
+
+“this standardization is profitable and makes evaluation and quality control possible. However, its value in regard to health has not been established; to do this a cost-effectiveness analysis must be carried out.” (De Winter, 1995, p. 104)
+
+“In preparation for the execution of such an analysis the Netherlands Institute for Preventive Medicine/Organization for Applied Scientific Research (NIPG/TNO), at the instigation of the Working Party, carried out a study on the identifying function of the check-list and on the application of the check-list in practice. The study is based on the data collected in the Social Medical Survey of Children attending Child Health Clinics (Sociaal Medisch Onderzoek Consultatiebureaukinderen SMOCK) by NIPG/TNO (Herngreen et al. 1986, Reerink 1989).” (De Winter, 1995, p. 104)
+
+“The key questions are: • Are the item reference values established in the Schlesinger-Was study (1981) in conformity with what is found in child health clinic practice? • Are there items which are frequently omitted? • Are there, in regard to the score of certain items, considerable differences between the participating child health clinics, which cannot be explained by possible differences in the composition of the group investigated? • What proportion of the children attending the clinic are referred before the age of two in connection with a possible developmental impairment, and how does this compare with the number of children known from the literature to have such an impairment?” (De Winter, 1995, p. 104) Good questions. It also shows
+
+“It should be noted here that the extent to which the Van Wiechen check-list has contributed to referral decisions could not be verified. The check-list is not intended to be a screening instrument and thus no criteria were drawn up as to when a child should be referred.” (De Winter, 1995, p. 104) Schlesinger-was did investigate referrals
+
+“What could be investigated was which items pertaining to those referred were (repeatedly) abnormal in relation to the original reference values. The proposal for the study also formulates the anticipated results and applications, as well as the policy relevance as outlined below.” (De Winter, 1995, p. 104)
+
+“A comparison of the frequency distribution of the items of the Van Wiechen check-list up to the age of two that were collected in the SMOCK study with those of the Schlesinger-Was study. Should there be clinically relevant discrepancies between the original reference values and the references found in this study, adjustment would have to be considered. After all, when establishing the references it is essential that the measuring tool be used in the way” (De Winter, 1995, p. 104)
+
+“in which it will later be applied in practice (Bezemer 1981). The SMOCK study approaches practice more nearly than the earlier Schlesinger-W as study.” (De Winter, 1995, p. 105)
+
+“The frequency of non-coding (registration) of an item. Items which are frequently not coded are apparently difficult to fit into the regular PHE. Their omission should be considered.” (De Winter, 1995, p. 105)
+
+“A comparison of the percentage of referrals on the basis of abnormal psychomotor development with the percentage that might be expected on the basis of the literature. This will give an indication whether there is possibly an excessively high number of referrals in relation to the expected prevalence (over-referral). An attempt will be made to obtain a more accurate impression of the value for prognosis by checking the diagnoses of the referred children. Although the final diagnosis is not included as a separate question in the check-list, the preliminary impression from the material now available is that it is known for a great proportion of the children.” (De Winter, 1995, p. 105)
+
+“The real effectiveness, or cost effectiveness, of standardized developmental surveillance at the child health clinics can only be reliably measured by a longitudinal study. But such an investigation is a lengthy one and therefore a costly matter. The retrospective study at present being carried out by the NIPG/TNO on the basis of the SMOCK data will however provide further insight into the method of application and the prediction value of the Van Wiechen check-list.” (De Winter, 1995, p. 105)
+
+“The Follow-Up Committee should establish, in consultation with potential financiers, whether longitudinal outcome research is required in order to draw policy conclusions regarding maintaining the Van Wiechen check-list. This should be done on the basis of the NIPG/TNO study and of the Erasmus University study into the possibilities for cost-effectiveness research in pre-school Child Health Care.” (De Winter, 1995, p. 105)
+
+“nce both the NIPG/TNO study and the Erasmus University study provide an insight only into the identifying function of the check-list and into the method of its application, the health promotion function should also be taken into consideration in the final decision-making on the Van Wiechen check-list.” (De Winter, 1995, p. 105)
+
+“In the last few years, Dutch Child Health Care for pre-school children has paid more and more attention to the detection of speech and language disorders. Until recently no specific method had been available for this purpose. The Van Wiechen1 check-list (for psychomotor development) does indeed include a few speech and language items, but there proved to be a need for a standardized research instrument more specifically addressing linguistic and speech development (Schlesinger-Was 1986).” (De Winter, 1995, p. 110)
+
+“With the aid and cooperation of the National Committee for the Early Detection of Developmental Disorders (Landelijke Commissie Vroegtijdige Onderkenning van Ontwikkelingsstoornissen) it was decided to construct a detection and surveillance test that would allow detection, within Child Health Care, of Dutch pre-school children with delayed and/or deviant linguistic development. The Early Detection test has two parts: there is a detection and information part targeting the communicative development of children between birth and 3 years of age (De Ridder-Sluiter 1990) and there is a surveillance part targeted at the language acquisition of children between the ages of 3-6 years (Gerritsen 1988)” (De Winter, 1995, p. 110)
+
+“lpartly based on the Denver Developmental Scale, the Van Wiechen check-list was developed in the early 1980s to promote the systematic examination of development (motor development, language and speech, personality and social behaviour) and to achieve uniform national registration. For details see Chapter 6, section 5.” (De Winter, 1995, p. 110)
+
+“7.2 Disorders in speech and language acquisition” (De Winter, 1995, p. 111)
+
+“There is a lack of clarity about the definition and description of language acquisition disorders. Since various disciplines conduct research in this field and each one employs its own terminology, it is difficult to compare research from different disciplines. For this reason, the percentages for prevalence that come up in various studies are markedly divergent: they vary between 1% and 19.2% (MacKeith & Rutter 1972, Morley 1972, Richman & Stevenson 1973, Snow 1977, Cantwell & Baker 1985, Kalverboer 1985, Richman & Landsdown 1988, De Ridder-Sluiter 1990). According to Rescorla (1989) prevalence decreases as the child grows older: she finds a higher prevalence among 2-year-olds than among 3-year-olds. This author ascribes the difference to a large number of late-developers4•” (De Winter, 1995, p. 112)
+
+“7.3 Causes of disorders In language acquisition” (De Winter, 1995, p. 112)
+
+“Eight factors which may cause and/or influence disorders in linguistic development can be deduced from the two major approaches to linguistic development disorders: the psychomedical and the psycholinguistic (Goorhuis-Brouwer 1988):” (De Winter, 1995, p. 112)
+
+“• hearing disorders • abnormalities of the speech organs • insufficient motor control of the speech organs • brain damage in early childhood • language offered by the environment • cognition • emotional development • genetic factors.” (De Winter, 1995, p. 112)
+
+“7.5 Aim and outcome measurement of speech and language surveillance” (De Winter, 1995, p. 113)
+
+“As indicated in the introduction to this chapter, speech and language surveillance has two functions: detection (standardized programmed prevention) and support. To evaluate the detection function the following outcome measures may be considered: • reduction of the number of infants/children suffering from linguistic development disorders • fewer referrals to special schools because of communication disorders • earlier diagnosis and treatment of speech and language problems.” (De Winter, 1995, p. 113)
+
+“The speech/language assessment should be part of the Periodic Health Examination (PHE) and the development examination. Data on validity and effectiveness are not available.” (De Winter, 1995, p. 119) The Dutch word is "Periodiek Gezondheidsonderzoek" and it is the first time I hear of this word
+
+“7.6.4 Minimum speech standards” (De Winter, 1995, p. 119)
+
+“These minimum speech standards were drawn up by Goorhuis-Brouwer (1986) as a help for ' ... general practitioners, paediatricians and other specialists, in general the people who are the first to be confronted with questions from worried parents.. .'. The minimum speech standards (six in the period 1-5 years of age) are minimum standards (with reference to the use of language) a child has to meet; if it falls short of these minimum standards, further assessment is desirable.” (De Winter, 1995, p. 119)
+
+“7.6.5 The use of parents' information” (De Winter, 1995, p. 119)
+
+“Many speech and language tests (including the Early Detection language test) use information from parents. Parents were given such an important role on the one hand out of necessity: very young children in particular are” (De Winter, 1995, p. 119)
+
+“not easily inclined to talk to strange people in a strange situation; on the other hand many authors13 are of the opinion that parents are the most suitable and most expert informants as far as their child's speech and linguistic development is concerned. The measure of reliability of parental information is a generally recognized problem. Attempts are made to overcome this drawback by structuring questionnaires and interviews so as to ensure that the information is as reliable as possible. A number of authors14 hold that the problem cannot be solved by well-structured questionnaires and interviews; they believe that parents can supply reliable information only on the child's use of language and not about its comprehension, because parents often (wrongly) take for granted that their child understands all they say.” (De Winter, 1995, p. 120) This is interesting in concretising the role of parents in examination
+
+“7.6.6 Com pari ng the various methods” (De Winter, 1995, p. 120)
+
+“A comparison of the above methods shows there to be considerable differences between the tests as far as the ages are concerned at which they are used for the first time. Apparently there is no consensus about the age at which the detection of disorders or deviations can or should be started; normal communicative development is characterized by large variations in pace and pattern; the distinction between late developers and those whose are language impaired is hard to make: identification at an early age yields many false positives; but later on (when late developer is out of the question) may easily be too late to intervene successfully.” (De Winter, 1995, p. 120)
+
+“Moreover, such longitudinal examining takes into account, so they say, the spread in the course of communicative development (De Ridder-Sluiter & Van der Lem 1988). Finally, there appears to be no consensus on the question of what could or should be the minimum examination frequency in order to allow the detection of disorders. In the methods described above different frequencies are used.” (De Winter, 1995, p. 120)
+
+“7.8 Conclusions” (De Winter, 1995, p. 121)
+
+“With the development of the Early Detection language test another step was taken in the standardization of the detection of developmental disorders in young children. Although the Early Detection language test for birth to 3year-olds has proved to be an adequate test for detection, the follow-up route after identification (diagnosis and treatment) is still insufficiently known. The Early Detection language test is being put into use in a number of trial areas.” (De Winter, 1995, p. 121)
+
+“8 The periodic health examination” (De Winter, 1995, p. 126)
+
+“In the day-to-day practice of clinics in the Netherlands, various methods of prevention are used. These are integrated in a single coordinated procedure: the giving of check ups, health education and advice by the doctor and/or nurse at regular intervals, on the basis of a fixed notification schedule.” (De Winter, 1995, p. 126)
+
+“Until now, this was referred to as the periodic medical examination. The definition and description of the periodic medical examination involves numerous problems. Taken literally, periodic medical examination means regular (periodic) examination by a doctor (medical examination).” (De Winter, 1995, p. 126)
+
+“Obviously, this description as it stands is not satisfactory; it conveys no more than that a certain official regularly does something on the basis of his or her professional background. What this official does, and how often he or she does it, appears to be flexible: time and time again, the content and procedures of the periodic medical examination have been adapted to changing insights, not only in the course of the history of pre-school Child Health Care, but also today there are enormous differences internationally. In the Netherlands, for example, the term periodic medical examination has come to refer to the longitudinal follow-up and assessment of the growth and development of the young child including, of course, history taking and the giving of advice as needed. Depending on the definition that is chosen, the periodic medical examination is taken to mean either the regular physical examination alone, or a combination of the physical examination, screenings, developmental assessment, educational prevention activities and counselling, health education, and sometimes also immunization.” (De Winter, 1995, p. 126)
+
+“A broad definition of this kind is similar to what is referred to in the English-speaking world as Child Health Surveillance.1” (De Winter, 1995, p. 126) Good to know
+
+“IHall (1989) describes Child Health Surveillance as 'a set of activities which are initiated by professionals. It includes the oversight of the physical, social and emotional health and development of all children; measurement and recording of physical growth; monitoring of developmental progress; offering and arranging intervention when necessary; prevention of disease by immunization and other means; and health education'.” (De Winter, 1995, p. 126)
+
+“For various reasons, the term periodic medical examination is no longer adequate. Firstly, the methods available for health assessment have become highly differentiated over the past decades. In various domains in the field of health and development, specific research methods, often standardized, have been developed which now operate more or less independently within the structure of the clinics. In chronological order, the most striking examples of these are the hearing test (Ewing method), developmental assessment (Van Wiechen check-list3), examination of the eyes (Early Detection vision) and the language/speech test (Early Detection language).” (De Winter, 1995, p. 127)
+
+“Secondly, the term medical puts too much emphasis on somatic aspects. Although physical health is a decisive factor in the overall wellbeing of the child, its psychosocial development, its upbringing and social background are also important factors and are given a lot of attention in pre-school Child Health Care. In this connection, De Jonge (1992) points out that the term medical is somewhat inappropriate, precisely because of its curative connotation. In most cases, the children who are being examined are healthy and do not require a cure” (De Winter, 1995, p. 127)
+
+“Thirdly, the work of the clinics is traditionally multidisciplinary: for many years now, the process of promoting, monitoring and securing the health and welfare of the child and its parents, has involved both doctors and nurses, assisted in recent years by nutritionists and educational” (De Winter, 1995, p. 127)
+
+“any years now, the process of promoting, monitoring and securing the health and welfare of the child and its parents, has involved both doctors and nurses, assisted in recent years by nutritionists and e” (De Winter, 1995, p. 127)
+
+“specialistsS• Nurses prove to fulfil an important role as observers of the combined mental and physical aspects of health.” (De Winter, 1995, p. 128)
+
+“As a result of these developments, the term periodic medical examination no longer fills the bill. It wrongly suggests a kind of methodological and disciplinary uniformity, while the practical situation that has developed is actually one of diversity. However, because the concept of periodic medical examination has been generally adopted by professionals, there have been many attempts to give the old term a new meaning. An unwelcome result of this is that quite a few, often contradictory, definitions of periodic medical examination are used, varying from very narrow definitions (the aggregate of scientifically recognized screening methods), to very broad definitions (the integral assessment and promotion of health and welfare).” (De Winter, 1995, p. 128)
+
+“The Project Group that was assigned the integral evaluation of Dutch pre-school Child Health Care devoted many discussions to this definition issue. These discussions have encompassed the whole topic of pre-school Child Health Care. Indeed, proponents of the broad definition think of the examination as a periodic health examination, which is nothing more, nor less, than the totality of the activities that are carried out by clinics in the Netherlands. The integral promotion and assessment of the health and welfare of the child and its parents includes history taking, physical and psychosocial examination, the drawing up of a health profile, health education, and counselling. Proponents of a narrow definition (as reflected, for example, in the British model put forward by Hall and others, which is discussed in detail below) tend to hold the view that a programme for periodic health examination that is actively offered to parents should include only screenings that have been proved reliable and valid.” (De Winter, 1995, p. 128) Nice - classic boundary work
+
+“The conclusion that the term periodic medical examination obscures rather than clarifies, seems justified. The concept of a periodic medical examination, which may formerly have served a purpose, today appears to obstruct clear thinking about the desirable content of modern pre-school Child Health Care.” (De Winter, 1995, p. 128)
+
+“For all these reasons, we use the term periodic health” (De Winter, 1995, p. 128)
+
+“SThe appointment of nutritionists and educational experts depends on the policy of the regional Community Health Care organization in question.” (De Winter, 1995, p. 128)
+
+“examination here in its broadest sense, which we define as follows: the periodic health examination in pre-school Child Health Care is a system of longitudinal observation and counselling, aimed at monitoring and supervising growth and development, at promoting health, as well as at the identification of diseases, disorders or health-threatening factors. It includes history-taking, preventive physical and psychosocialexamination, screening, health education, giving advice, counselling and, if necessary, referral.” (De Winter, 1995, p. 129)
+
+“8.1 The periodic health examination: history taking, examination and interview” (De Winter, 1995, p. 129)
+
+“In the Netherlands, the periodic health examination session takes approximately 10 minutes on average. It will be obvious that not all the aspects of the periodic health examination mentioned below can be dealt with in each session.” (De Winter, 1995, p. 129)
+
+“8.1.1 History taki ng” (De Winter, 1995, p. 129)
+
+“History taking involves the gathering of information about the period prior to the session. The parents are asked whether there is anything that they are concerned about or whether they have any questions. This is followed by functional assessment geared to the age of the child concerned.” (De Winter, 1995, p. 129)
+
+“Questions” (De Winter, 1995, p. 129)
+
+“are asked about aspects of care, safety and family life.” (De Winter, 1995, p. 130)
+
+“With the help of this information, a health profile of the child can be drawn up (Dutch Association for Child Health Care; Nederlandse Vereniging voor Jeugdgezondheidszorg NVJG 1990).” (De Winter, 1995, p. 130)
+
+“To do this, indicators for the state of health can be used as a guideline. The Dutch Association for Child Health Care (NVJG) lists the following: 'composition of the family (mother/mother role, fatherlfather role, children, other members of the household), hereditary defects (a dozen diseases and deviations), history (illnesses, accidents, traumatic events, vaccinations), appearance (general impression, skin, neck, trunk, extremities, genitalia), growth (height and weight), development (motor, mental, including language skills and speech), and vital functions (sleeping, playing, eating/excretion, sensorimotor functions, control of bodily functions, independence, autonomic reactions' (NVJG 1990).” (De Winter, 1995, p. 130)
+
+“8.1.2 The exam i nation” (De Winter, 1995, p. 130)
+
+“Moreover, a distinction can be made between standardized prevention measures and prevention to measure. Standardized prevention measures are formalized prevention programmes that are actively offered to all children at fixed moments (that is, without there being any question of a request for help). Prevention to measure concerns matters that are raised during the contact with the health worker, or on the initiative of the health worker on the basis of his findings and his knowledge of individual health risks, or at the request of the client. 6,7” (De Winter, 1995, p. 130) Difference between "gestandaardiseerde preventie en maatwerkpreventie" is important. It makes wonder what it specifically is that standardized meassures do IN ADDITION to prevention to meassure.
+
+“6The category examination requested occurs regularly during sessions, for example, with respect to so-called minor ailments. These are external 'defects' that can be observed in an infant, which the parents do not know the seriousness of. Examples of such minor ailments are: cutis marmorata, haemangioma cavernosum, nappy rash, mastitis neonatorum, milia, mongolian spot, congenital umbilical hernia, tightness of the foreskin, seborrheic eczema (cradle cap), and stasis of (purulent) lacrimal fluid in the corner of the eye during the first month of life (Van Wieringen 1991, personal communication).” (De Winter, 1995, p. 130)
+
+“7In addition to standardized screenings, Butler distinguishes two other components of individual Child Health Surveillance namely, case-finding (also called opportunistic screening) and non-specific oversight. He describes the latter component as 'the vigilant supervision of all aspects of the health and wellbeing of children whenever they come into contact with health care professionals'. It is concerned with 'seeing whether anything is wrong' rather than with 'looking for a particular condition'. However, with respect to this surveillance component, Butler draws attention to an important evaluation problem: whatever the importance of this form of 'many-faceted diagnostic awareness' might be, it is virtually impossible to quantify or measure. 'How much of this kind of oversight is done, by whom, at what cost, and to what effect, are questions upon which the literature can throw almost no light' (Butler 1989).” (De Winter, 1995, p. 130)
+
+“In addition to the observation of the child, and of the interaction between the child and its parents, the child may be examined for various aspects of health: physical health, growth and development (including biometric tests, examination of the eyes, ear-nose-throat, digestive system, heart and blood vessels, urogenital tract, locomotor and skin), psychomotor development and examination of language and speech development. Apart from the standardized components (such as screenings, the Van Wiechen check-list, Early Detection vision and suchlike), there appears to be little consistency regarding which aspects are examined in each individual child, either in the Netherlands (Chatab 1989) or internationally.” (De Winter, 1995, p. 131)
+
+“8.1.3 The interview” (De Winter, 1995, p. 131)
+
+“Each session is concluded with an interview in which, on the basis of the findings of the history and the physical examination, the health, growth and development of the child are discussed with the parents. This interview can cover various topics, the parents may be given advice and information (geared to the individual situation of the child and the parent, but also about general matters that are relevant for all children and their parents. These are matters concerning vaccinations, development, upbringing, care, nutrition and safety);” (De Winter, 1995, p. 131) This interview shows the importance of parents in medical checks
+
+“also, parents who are concerned about their child can be reassured. With other parents the suspicion that there is a disorder may be discussed, or the parent-child relationship, problems of upbringing and so on.” (De Winter, 1995, p. 131) Again the cruciality of reassurance
+
+“8.2 Towards further formalization of the periodic health examination in the Netherlands” (De Winter, 1995, p. 131)
+
+“In recent years, the groups of professionals involved in pre-school Child Health Care have striven for further standardization of components of the periodic health examination. An appropriate method is protocol develop-” (De Winter, 1995, p. 131)
+
+“ment, a procedure that is used in medical research in primary and secondary health care (Vissers 1983” (De Winter, 1995, p. 132)
+
+“A protocol is defined as 'the operational reflection of the information that is available at any given time' (Vissers, 1983), and constitutes the explicit formulation of a procedure based on scientific consensus that can serve as a guideline and as an instrument for evaluating professional action.” (De Winter, 1995, p. 132)
+
+“With respect to the periodic health examination, a Working Party consisting of former Provincial Child Health Care Officers (Provinciaal Artsen Jeugdgezondheidszorg) recently published a report that can be regarded as a first step towards formalization (Burgmeijer et al. 1991). The aim of the study was to provide a sound basis for the work of doctors in clinics. In his foreword, Vaandrager states 'this manual for periodic health examination in clinics can be regarded as a first step on the way to a protocol'. The authors hope that, with the publication of this manual, the variations in what is examined in individual children, as well as the different ways of carrying out the examinations will be reduced on the basis of the conviction that 'insight and self-confidence of both the clinical team and the parents can be increased by standardization of the follow-up of the child's development' (Burgmeijer et al. 1991).” (De Winter, 1995, p. 132)
+
+“In the manual, the working definition of periodic health examination used by the Working Party is: patient history and physical examination. A number of components of the periodic health examination found in the outline of the programme have not been included in the study itself because detailed descriptions of these are already available. Examples are: auditory screening, testing on the basis of the Van Wiechen check-list, implementation of the Early Detection method, and immunization.” (De Winter, 1995, p. 132)
+
+“With regard to the aims of the periodic health examination, the manual states: 'periodic health examination enables the doctor in the clinic to assess the state of health of children who visit the clinic at fixed times'. Two questions need to be answered: does the child have any disorders/defects? and - the question that parents ask - 'Is my child healthy, and if so, is he/ she as healthy as possible?'” (De Winter, 1995, p. 132)
+
+“9In the outline of the programme in the book by Burgmeijer et al (1991), the administering of the Van Wiechen check-list at 6 months was erroneously omitted.” (De Winter, 1995, p. 135)
+
+“A more detailed version of this scheme, in Dutch, is given in: Burgmeijer, R.].F., Boeken Kruger-Mangunkusumo, R.S. Fernandes, ]. (ed.): Periodiek Geneeskundig Onderzoek: een praktijkboek voor de jeugdgezondheidszorg, Utrecht, 1991.” (De Winter, 1995, p. 138)
+
+“8.3 The British Joint Working Party on Child Health Surveillance” (De Winter, 1995, p. 139)
+
+“8.4 Similarities and differences between the Netherlands and the United Kingdom” (De Winter, 1995, p. 143)
+
+“8.4.1 Content and freq uency” (De Winter, 1995, p. 143)
+
+“8.4.2 Open clinics and the role of parents” (De Winter, 1995, p. 144)
+
+“So far, attitudes in the Dutch Child Health Care system have been rather sceptical about the role ascribed to parents in the United Kingdom. The lack of insight into the reliability of parent information probably has a lot to do with this. Moreover, the need to reassure parents (in answer to the question: 'Is my child healthy, and if so, is it as healthy as possible?') is highly rated among Dutch Child Health Care professionals. While, in the United Kingdom, parents can consult a doctor when they are concerned about their child, the system in the Netherlands is such that there are frequent contacts with the parents to prevent a situation developing in which parents become worried about the health and/or development of their child.” (De Winter, 1995, p. 144)
+
+“The Netherlands” (De Winter, 1995, p. 144)
+
+“A frequent notification schedule, care is highly-structured, but (as yet) standardized only to a limited extent. The implementation of neonatal examination and the transfer of the results to the Child Health Care has not” (De Winter, 1995, p. 144)
+
+“yet been formalized. Basically, there are no open clinics exclusively for Child Health Care (although many clinical teams have set up facilities for telephone enquiries).” (De Winter, 1995, p. 145)
+
+“United Kingdom” (De Winter, 1995, p. 145)
+
+“Extensive neonatal examination as part of Child Health Surveillance. A far less frequent notification schedule, care is less structured (limited notification schedule in addition to open clinics), but the core programme has been virtually fully standardized.” (De Winter, 1995, p. 145)
+
+“8.4.3 The possibilities for comparison” (De Winter, 1995, p. 145)
+
+“The differences mentioned here are interesting because they reflect the discussions that have been going on for a number of years with respect to: the organization of the Dutch periodic health examination concerning the frequency of the notification schedule; the implementation of the neonatal examination; the recording of the results of this examination in the Child Health Care file; the role of parents; and the open clinic. The fact that a new form of organization and content has been realized in a number of districts in the United Kingdom, now makes empirical comparison of the two systems possible. Of course, the first question to ask is: to what extent are the two systems comparable, considering the different organizational and epidemiological contexts of the Dutch and British health care systems? A second question is whether the differences are as great in practice as the ideal programmes would suggest. One might, for example, assume that the total number of visits that parents pay to consultatiebureaus or Child Health Clinics does not differ very much: parents who are seldom called up may well make frequent use of open clinics. In view of the fact that there is practically no data on outcomes available for either of the s~stems, it would seem evident that a study should be done on this aspect 7. Such a study should answer the following questions:” (De Winter, 1995, p. 145)
+
+“Taking into account the different organizational and epidemiological contexts of the Dutch and British systems of Child Health Care, is it possible to compare the two programmes in terms of quality, effects, and costs?” (De Winter, 1995, p. 145)
+
+“Within the framework of the Project on the Integral Evaluation of Child Health Care (Project Integrale Evaluatie Jeugdgezondheidszorg), NIPGI TNO has been requested to formulate a proposal for a study to answer these questions.” (De Winter, 1995, p. 146)
+
+“Finally, the Utrecht Research Centre for Child Health Care and Child Welfare (Centrum voor Onderzoek en Ontwikkeling van Jeugdgezondheidszorg) at the University of Utrecht is preparing a study on the role of parents. This study will focus on the question what Dutch parents (for example, in comparison with their British counterparts) think of the way in which their responsibility for the health of their children is reflected within the pre-school Child Health Care system, The advantages and disadvantages of the so-called parent-held record will also be discussed 18•” (De Winter, 1995, p. 146)
+
+“8.5 Recommendations” (De Winter, 1995, p. 146)
+
+“The Project Group recommends that the term periodic medical examination in pre-school Child Health Care be replaced by periodic health examination in accordance with the definition given in this chapter.” (De Winter, 1995, p. 146)
+
+“The Project Group recommends that, within the framework of the further development of a protocol of the periodic health examination, studies on the programme proposed by the Working Party on PHE (Burgmeijer et al. 1991), aimed at feasibility, effectiveness and cost effectiveness, be carried out in one or more trial regions.” (De Winter, 1995, p. 147)
+
+“In order to be able to make well-considered decisions regarding the desired frequency, the degree of structuring and standardization of the periodic health examination, it is desirable that, in addition to the study mentioned in the second recommendation, a comparative study be done on the Dutch and British periodic” (De Winter, 1995, p. 147)
+
+“Cuisinier, M.C]. & Jonkers, R.: Onderzoek en protocolontwikkeling bij patientenvoorlichting, Tljdschrift Socia Ie Gezondheidszorg 64 (1986) 2,34--37.” (De Winter, 1995, p. 147)
+
+“Nederlandse Vereniging voor Jeugdgezondheidszorg: De Jeugdgezondheidszorg in 2000; Beleidsplan, Utrecht 1990.” (De Winter, 1995, p. 148)
+
+“Vissers, T.C.G.M.: Protocollaire Geneeskunde, Medisch Contact 23 (1983) 685-688.” (De Winter, 1995, p. 148)
+
+“9 Prevention of psychosocial and educational problems” (De Winter, 1995, p. 149)
+
+“The promotion of optimal psychosocial development and the promotion of good parent-child relationships constitute a major part of pre-school Child Health Care work. Distinguishing signs that point to disorders and/or problems in this field is one of the objectives of this type of care. In the social context such attention is certainly called for: parents have a lot of questions on development and upbringing and want support and professional advice from the clinical team (Kousemaker et al. 1987).” (De Winter, 1995, p. 149)
+
+“Parental trust in preschool Child Health Care and high coverage are held to be major advantages. Within pre-school Child Health Care, there are various working methods to tackle such problems. At visits to the clinic, psychosocial development and upbringing are recurring themes. These matters are often discussed during examinations, for instance that with the Van Wiechen check-listl or the periodic health examination. Sometimes parents ask explicit questions, or they indicate implicitly that they are worried or have problems. Nurses and Clinical Medical Officers, sometimes supported by educational counsellors, give 'anticipatory guidance' during home visits, clinics and/or group meetings: information on possible problems that in specific stages of development may present themselves, either with the child or in the parent-child relationship.” (De Winter, 1995, p. 149)
+
+“Some elements of the working methods described above can be characterized as standardized programmed prevention. This applies notably to the developmental examination making use of the Van Wiechen check-list, in which psychosocial development plays a major part (see Chapter 6). The Early Detection language test discussed in Chapter 7 may be considered important in identifying aspects of psychosocial problems2•” (De Winter, 1995, p. 150) Interesting that Early Detection Language test is used to identify aspects of psychosocial problems
+
+“9.1 Psychosocial problems” (De Winter, 1995, p. 150)
+
+“There is some ambiguity about the definition and classification of psychosocial problems with children. Verhulst (1985) argues that the ambiguities are inherent to the subject: it is about the behaviour of children.” (De Winter, 1995, p. 150)
+
+“The assessment of childlike behaviour also has a strongly subjective component: it is grown-ups (parents or experts) who assess specific behaviour as problematic or deviant. The adult's individual standards will always playa part, but so will social and cultural standards.” (De Winter, 1995, p. 150)
+
+“On the other hand, the experts may also call certain behaviour problematic on the basis of more objective professional knowledge and/ or experience with many children. On this basis, an expert can assess whether specific behaviour is common, or exceptional (and therefore deviant or problematic). Among scientists, but also in society as a whole however, there are different notions about what is to be considered normal behaviour and what is considered pathological and/or problematic behaviour.” (De Winter, 1995, p. 151)
+
+“The lack of clarity described above makes itself felt at the level of research into these problems among (small) children.” (De Winter, 1995, p. 151)
+
+“9.2 Educational problems” (De Winter, 1995, p. 151)
+
+“9.3 Working methods in pre-school Child Health Care” (De Winter, 1995, p. 154)
+
+“Right from the time the well-baby clinics were founded, parental questions and problems with respect to child-rearing have been given attention. This is done both during regular sessions of the clinics and during home visits by the district nurse. The local Community Health Care services have, in addition, deployed many initiatives, such as group clinics, group education, counselling by educationalists in a clinic and the development of toddler information leaflets5•” (De Winter, 1995, p. 154)
+
+“In many cases there is cooperation between a number of organizations, including the ,Community Health Care, the Municipal Health Services Departments for Child Health Care for 4-19year-olds, Childline, Health and Education, the Ambulant Mental Health Care (RIAGGs) and community youth welfare networks.” (De Winter, 1995, p. 154)
+
+“n overview of the 97 projects set up in this field is given in the report on the investigation Preventie van opvoedingsprobJemen by 0-12 jarigen (Prevention of Educational Problems between birth and the age of 12) (WilbrinkGriffioen & Van Eijck 1990).” (De Winter, 1995, p. 154)
+
+“As stated in the introduction to this chapter, the majority of the activities in this field can be classified as prevention to measure. The objective, however, of many of the projects mentioned above is to give a number of these activities (notably anticipatory information and the identifying of problems and disorders) a more standardized character by means of thorough research into the causes of disorders and problems and thorough research” (De Winter, 1995, p. 154)
+
+“5Toddler information leaflets are folders with age-specific information on the development of the child. Subjects include: eating, sleeping, play, behaviour, toilet training, obstinacy.” (De Winter, 1995, p. 154) I want to see those!!!
+
+“9.4 Scientific state-of-the-art” (De Winter, 1995, p. 155)
+
+“9.4.2 Problems in outcome measurement” (De Winter, 1995, p. 156)
+
+“9.5 First step towards a prevention model” (De Winter, 1995, p. 158)
+
+“Wilbrink-Griffioen and Van Eijck (1990), in their extensive investigation into the prevention of problems of upbringing, attempted to draw up a model for successful prevention activities. They did so on the basis of national and international research data. With reference to the projects abroad they concluded that a number of elements contribute to the success of such projects:” (De Winter, 1995, p. 158)
+
+“• parental involvement” (De Winter, 1995, p. 158)
+
+“close cooperation of parents and professionals” (De Winter, 1995, p. 159)
+
+“transfer of responsibility to the parents, which proves to be a way of enhancing interest, motivation and participation” (De Winter, 1995, p. 159)
+
+“home visits, which make those concerned feel that there is real interest in their problems” (De Winter, 1995, p. 159)
+
+“the possibility to continue the newly learned actIvmes at home; parents prefer to see immediate results from what they have learned; therefore it makes sense to learn activities that can be applied at once;” (De Winter, 1995, p. 159)
+
+“an approach involving a larger community, for instance one focused on a district with cooperation between the various agencIes” (De Winter, 1995, p. 159)
+
+“several agencies working on the same project widens its range” (De Winter, 1995, p. 159)
+
+“attention paid to the prenatal and perinatal periods.” (De Winter, 1995, p. 159)
+
+“Projects aimed at parents and children should as far as possible be targeted on one neighbourhood and set up in a familiar and accessible location (such as the clinic)” (De Winter, 1995, p. 159)
+
+“A community focus promotes the cooperation between various agencies working on education in a district (networking)” (De Winter, 1995, p. 159)
+
+“Information on the raising and development of children should be tangible, practical and focused on one subject.” (De Winter, 1995, p. 159)
+
+“A central role was given to a youth welfare community network;” (De Winter, 1995, p. 159)
+
+“using all agencies concerned with the birth-12-year-olds • developing individual and collective prevention strategies • paying attention, geared to the specific problems of a community, to special risk groups • fulfilling all the teaching preventive functions described and linking up with the Early Detection organizations and the facilities for youth welfare' (Wilbrink-Griffioen & Van Eijck 1990).” (De Winter, 1995, p. 160)
+
+“9.6 Conclusions” (De Winter, 1995, p. 160)
+
+“Although in the practice of pre-school Child Health Care there is no lack of interest in this field, there is not yet a good conceptual framework from which these activities can be initiated and evaluated. Activities in the field could be made systematic, and effective identification and counselling methods should be developed for children's psychosocial problems and for parental uncertainty on questions of upbringing.” (De Winter, 1995, p. 160)
+
+“Further systematizing of methods in this field, as indicated above, may well be of great help.” (De Winter, 1995, p. 161)
+
+“9.7 Recommendations” (De Winter, 1995, p. 161)
+
+“The Project Group take the view that early identification of educational and psychosocial problems and support for parents (by means of anticipatory information, for instance) constitutes an integral element of pre-school Child Health Care. Quality improvement in this field should especially be effected by means of promoting expertise, clear task descriptions and further systematizing of methods.” (De Winter, 1995, p. 161)
+
+“The Project Group attach great value to close cooperation and coordination with other agencies that target on prevention and aid in the field of psychosocial and educational problems. As appears from sections 9.3 and 9.5 there are a large number of agencies active in this field. In the policy memorandum of the Ministry of Welfare, Public Health and Cultural Affairs (1992) Opvoedingssteun op maat (Educational Support to Measure) the cooperation between various agencies is specifically given high priority.” (De Winter, 1995, p. 161)
+
+“Swaak, A.J., Kousemaker, N.P.]., Wilbrink-Griffioen, D.W.: Consultatiebureaus en opvoeding. Een kort selectief verslag van onderzoek in Noord-Brabant,” (De Winter, 1995, p. 164)
+
+“Tljdschri{t voor Jeugdgezondheidszorg 19 (1987) 3, 35-37.” (De Winter, 1995, p. 165)
+
+“I0 Health education” (De Winter, 1995, p. 166)
+
+“Informing parents about all aspects of the development and health of children is an essential part of the work of pre-school Child Health Care. Indeed information is pre-eminently a method to 'advance parental understanding of the health condition and (potential) development of their child and to increase their competence (health promoting behaviour)' (see Chapter 1).” (De Winter, 1995, p. 166)
+
+“Even though health education has a long history, especially in pre-school Child Health Care (information on healthy nutrition, baby and child care and hygiene was one of the most important weapons against infant mortality), it is only in the last 20 years that the methods have been given scientific attention. Nowadays health education is interpreted as: 'all activities aimed at influencing the target group's attitudes and behaviour in the desired direction by means of communication' (Kok 1991).” (De Winter, 1995, p. 166)
+
+“Health education can only fractionally be distinguished as a separate activity within pre-school Child Health Care. The bulk of the information after all is given during the regular contacts between clinical team and parent.” (De Winter, 1995, p. 166)
+
+“Generally, this is so-called anticipatory information; that is information on the physical and psychosocial development to be expected, anticipating the questions and problems that may arise as a result. Such information may in principle concern all subjects that are relevant in the context of child health and the development of the child or the parent-child relationship: care, nutrition, safety, growth, maturing, development, sensory organs, disturbances in development, education and so on.” (De Winter, 1995, p. 166)
+
+“nformation is also given about the various examinations carried out at the clinic. Parents are informed about immunizations, about screening, about the periodic health examination. This is usually done implicitly, that is to say during the dialogue between clinical medical officer or district nurse and parents around a specific action, as for instance the conducting of items of the Van Wiechen check-list!.” (De Winter, 1995, p. 166)
+
+“Since the content of health education as well as the form in which it is given are to a high degree determined by the individual needs of the parents and the specific characteristics of the” (De Winter, 1995, p. 166)
+
+“IPartly based on the Denver Developmental Scale, the Van Wiechen check-list was developed in the early 1980s to promote the systematic examination of development (motor development, language and speech, personality and social behaviour) and to achieve uniform national registration. For details see Chapter 6, section 5.” (De Winter, 1995, p. 166)
+
+“individual child, formalization, although highly desirable, is extremely difficult. Its success moreover, is highly dependent on the measure in which there is a confidential relationship between the parent and the professional” (De Winter, 1995, p. 167)
+
+“Health education that is concerned with individual parent and child characteristics must therefore of necessity be considered prevention to measure. In previous chapters we have pointed out the problems this entails for outcome assessment: it is practically impossible to assess results on the basis of criteria formulated in terms of objective 'gain in health'. This is not a matter of an unequivocal, once-only intervention, but rather a matter of recurring subjects of conversation. This makes it difficult to ascertain the time gap between the moment of information transfer and the moment at which outcome could be ascertained.” (De Winter, 1995, p. 167)
+
+“Moreover, the subjects concerned are often treated in other places and at other points of time (by the media for instance). Next to this individually keyed education however, information activities of a more standardized character also take place within pre-school Child Health Care.” (De Winter, 1995, p. 167)
+
+“Aspects are concerned that lend themselves to a population-directed approach: general information on growth and development and child-raising (the Growth Book, toddler information leaflets2), information relating to PKU/CHT screening (brochures), information on nutrition, safety (the Accident Prevention Cards3) and dental care.” (De Winter, 1995, p. 167)
+
+“2The Growth Book has been issued to all parents of new-born babies in the Netherlands since 1978. It aims to give parents the information to help them care for and raise their children. For further details see section 10.1.2. Toddler information leaflets are folders with age-specific information on the development of the child. Subjects include: eating, sleeping, play, behaviour, toilet training, obstinacy.” (De Winter, 1995, p. 167)
+
+“3Accident Prevention Cards are a tool to promote safety, accidents being the major cause of death of children. Each card contains safety information aimed at a specific age group. They are handed out at child health clinics to make parents aware of accident risks at specific stages of the child's development. This helps parents to take safety measures in time.” (De Winter, 1995, p. 167)
+
+“10.1 Investigation into the effectiveness of health education” (De Winter, 1995, p. 168)
+
+“10.1.1 Education on nutrition” (De Winter, 1995, p. 168)
+
+“In view of its primary preventive nature, information on nutntIOn has always been an important task of pre-school Child Health Care. To determine the content of the information, there must first be an understanding of the epidemiological relations between nutrition and health4• In the past, lack of clarity about these relationships often hampered effective education on nutrition. An example is the information on infant feeding. It appeared in practice that parents received diverse advice, depending on the clinic they attended and the person who gave the advice (Van der Avert 1986).” (De Winter, 1995, p. 168)
+
+“In 1983, criticism occasioned the setting up of a study group that was commissioned to draw up general principles for the nutrition of healthy full-term babies in their first year of life. In 1985, the first edition was published of a literature search commissioned by this study group (Uitentuis 1985), supplemented by practical experience from the study group members.” (De Winter, 1995, p. 168)
+
+“In 1991, this new version was published as a bulletin from the Chief Medical Inspector: Zuigelingenvoeding. Uitgangspunten en praktische aanbevelingen (Infant feeding. Principles and practical recommendations).” (De Winter, 1995, p. 169)
+
+“10.1.2 The Growth Book: information on ch iId care and child raising” (De Winter, 1995, p. 169)
+
+“The Growth Book is issued to all parents of new-born children in the Netherlands5,6. The booklet was first published in 1978 (5000 copies); by 1983 the annual issue was 200,000 copies and this number was maintained in subsequent years” (De Winter, 1995, p. 169)
+
+“Voorhoeve (1991) characterizes the Growth Book as a national document and a bestseller. For each new issue of the Growth Book the contents are adapted as necessary. 'As a result of remarks from users which the editors received through district nurses and clinical medical officers, adaptations were made in every reprint (Voorhoeve 1991).” (De Winter, 1995, p. 169)
+
+“SThe publication of the Growth Book is financed out of the Special Medical Expenses Act (AWBZ).” (De Winter, 1995, p. 169)
+
+“6The Growth Book is available in several languages including English, Turkish, Moroccan and Chinese.” (De Winter, 1995, p. 169)
+
+“Hopman et al. (1992) investigated the contents of this national information medium and the degree to which the contents are based on scientific knowledge and social needs, concentrating on the teaching content of the Growth Book.” (De Winter, 1995, p. 170) !!!!!!
+
+“They analysed the contents of the Growth Book for this aspect and sounded out the opinions of 183 parents of underfives on the value of the Growth Book. 'The results were extremely clear.' the investigators state, 'the Growth Book appears to be unequalled as an information medium -the whole target group have the Growth Book, use it and actually understand its contents - but the contents gave them little satisfaction. It appears that the parents of toddlers are not able t6 find nearly enough child raising information in the Growth Book. The information it does contain, does not always satisfy their needs.” (De Winter, 1995, p. 170)
+
+“Present conditions are optimal for this. The investigation shows that the Growth Book fulfils a number of functions for the parents: they use it as a baby book (they record events in it as well as the baby's development), it serves administrative purposes (parents apparently use the Growth Book as a file and safekeeping for all papers concerning the child and the clinic), has a reminder function (parents make notes in it on such things as nutritional advice and weight), is a source of information (parents use it as a reference book) and finally the Growth Book also has a communicative function (it provides parents with an incentive for talking to clinical staff).” (De Winter, 1995, p. 170)
+
+“It was assumed when preparing the first edition that the Growth Book should contain 50% guidance on child care and 50% guidance on upbringing. Hopman and Vroonhof however, find that the quantity of child rearing guidance does not meet this aim. Moreover they argue that the information is included in the Growth Book in the form of advice, which is outdated from the point of view of modern information science. They contend that the parents, being primarily responsible for their child, are quite capable of making their own choices about what to do, provided they are well-informed. Finally the guidance is found to be in disagreement with new scientific opinion and current social developments. The writers give three examples.” (De Winter, 1995, p. 170)
+
+“The Growth Book states that a baby should preferably not be cared for by more than two or three adults; not only is this advice scientifically disputed (Van zerdoorn 1988 quoted in Hopman & Vroonhof 1992), but it is no longer socially acceptable (more and more often both parents remain in employment after the birth).” (De Winter, 1995, p. 170)
+
+“The Growth Book emphasizes breast feeding, especially in view of the bonding of mother and child. 'Research however, shows that the quality of the bonding is not dependent on care ...but on the carer's sensitivity for signals from the child' (Hopman & Vroonhof 1992).” (De Winter, 1995, p. 171)
+
+“Watching television just before bedtime is advised against in the Growth Book; in reality watching Sesame Street is part of the going to bed ritual in many Dutch families.” (De Winter, 1995, p. 171)
+
+“Some advice is out-of-date, some ignores social developments and some does not link up with present-day parental needs. In conclusion, the writers say that, even though the content of the Growth Book does not meet current scientific and social demands, its educational possibilities are unique. The contents, according to the writers, should be adapted to new scientific views (both as to content and in the field of information science) and to new social developments and parents' needs.” (De Winter, 1995, p. 171) Growth book has a clear institutionalizing role!
+
+“A more or less concurring plea comes from Merkx (1992) and concerns a Personal Health Record for Child Health Care from birth to 19 years (analogous to the personal health records already developed in France, New Zealand and the United Kingdom); the main characteristic of such a record is that it is held by the parents. Merkx is of the opinion that a transformation of the present Growth Book in this direction would be the obvious course.” (De Winter, 1995, p. 171)
+
+“Advantages of such a record according to Merkx are: • improved continuity of care (the transfer of data from the Community Health Care to the Municipal Health Services • permanent availability of information to all medical care levels • increased parental understanding of the information on their child's growth and development • solution of the privacy problem: parents themselves can decide with whom they want to share specific information regarding their child • greater parental involvement in the preventive care of their children.” (De Winter, 1995, p. 171)
+
+“Merkx however, also thinks the personal health record could have drawbacks: firstly, in the hands of parents the record could often be lost; secondly, recording sensitive information becomes more difficult and parents could get worried unnecessarily or misinterpret the information. As to the first objection, Merkx states that the experience with the Growth Book is that the percentage of lost copies is low. Hopman and Vroonhof (1992) arrive at the same result: the 183 parents polled by them kept the Growth Book carefully. With regard to the second objection, Merkx poses that openness on sensitive subjects (for instance suspected child abuse) may assist early detection. Moreover, experts will always have the option of making notes outside the personal health record in the regular medical record (which will be retained).” (De Winter, 1995, p. 172)
+
+“10.1.3 Dental health education For a number of reasons, dental health e” (De Winter, 1995, p. 172)
+
+“10.1.3 Dental he” (De Winter, 1995, p. 172)
+
+“alth education” (De Winter, 1995, p. 172)
+
+“For a number of reasons, dental health education has a special place within health education. It is one of the first fields in which large scale information activities were held.” (De Winter, 1995, p. 172)
+
+“The first projects in this field in the Netherlands were set up in the late 1960s and were notably targeted at reduction of the high incidence of caries (at that time).” (De Winter, 1995, p. 172)
+
+“10.1.4 Accident prevention” (De Winter, 1995, p. 173)
+
+“Every year accidents claim more children's lives than the six major childhood diseases taken together (Rogmans 1984, De Leeuw 1988). In regard to morbidity as a result of accidents pre-school children are a major high-risk group too” (De Winter, 1995, p. 173) This is new - accidents kill more children that childhood diseases together (in the 1990s, of course)
+
+“In the past 10 years increasing attention has been paid to the prevention of accidents involving young children; the 2000 Memorandum (Ministry of Welfare, Health and Cultural Affairs 1986) gives high priority to the pre-school age group.” (De Winter, 1995, p. 173)
+
+“Accidents can be prevented by means of passive prevention (making the environment safer9), as well as by active prevention (endeavouring to influence parental behaviour that affects the safety of the environment). The emphasis in accident prevention is now on safety education” (De Winter, 1995, p. 173)
+
+“10.1.4.1 The size of the problem” (De Winter, 1995, p. 173)
+
+“10.1.4.2 Education in the cl i nic on accident prevention” (De Winter, 1995, p. 175)
+
+“The aim of accident prevention education in the clinic is to motivate parents to adopt safety conscious behaviour (Rogmans 1984).” (De Winter, 1995, p. 175)
+
+“Influencing behaviour by increasing the knowledge and changing the attitudes of parents is the core of accident prevention. Various studies have shown that parents have insufficient insight into the relationship between the normal development of children and the attendant risks of accidents (Rivara & Howard 1982, Rogmans 1984, Worrel & Ooyendijk 1988).” (De Winter, 1995, p. 175)
+
+“In 1984 and 1985, the Foundation for Consumer and Safety, in cooperation with the then National Cross Association11 and the Institute for Information on Education and Play (Stichting Spel-en Opvoedingsvoorlichting) developed written information for individual accident prevention in pre-school Child Health Care.” (De Winter, 1995, p. 175)
+
+“lIFor a long time Cross Associations (Kruisverenigingen) have been active in the Netherlands in the fields of social and preventive medicine and home nursing on behalf of their members as well as of the general public. The National Cross Association (Nationale Kruisvereniging) represented the regional cross associations at national level. In 1990, the National Cross Association merged with the National Council for Home Help (Centrale Raad voor de Gezinsverzorging) to form the National Association for Community Nursing and Home Care (Landelijke Vereniging voor Thuiszorg), established at Bunnik. In this book the regional organizations will be referred to as Community Health Care.” (De Winter, 1995, p. 175)
+
+“Individual education, targeted at influencing attitudes, has hardly taken shape. Partly as a result, the printed material functions as an aim in itself rather than as a (supportive) means.” (De Winter, 1995, p. 176)
+
+“Individual education does not adequately live up to its promise. This partly results from objective factors such as lack of money and heavy work loads and partly from individual factors such as motivation, knowledge and skills.” (De Winter, 1995, p. 176)
+
+“The following recommendations are made: • to formulate a well defined framework (prevention policy, underpinning consistent with information science, targets) within which education on accident prevention in the clinics should take place • to maintain the Child Health Clinic channel because of the potentially vast range • to remove as many impediments as possible in methods of giving information: increasing the time available for a visit; specific extra training of clinical staff; adaptation of the methods of working with the information material.” (De Winter, 1995, p. 176)
+
+“10.2 A model for the systematic setting up, implementation and assessment of health education” (De Winter, 1995, p. 176)
+
+“10.3 Conclusions” (De Winter, 1995, p. 179)
+
+“Health education is a major aspect of pre-school Child Health Care. From the historical point of view, education has been one of the more important means since the founding of Child Health Clinics and has probably contributed to a considerable degree to improved public health. The practice established through the years however is still poorly standardized at present. It lacks a system for:” (De Winter, 1995, p. 179)
+
+“setting priorities for health problems (it should be noted that priorities can or must be established at different levels: national, regional and local; it is important that health profiles of the groups to be distinguished are available at these different levels)” (De Winter, 1995, p. 179)
+
+“developing programmes for health education • assessing present and future education programmes.” (De Winter, 1995, p. 180)
+
+“10.4 Recommendations” (De Winter, 1995, p. 180)
+
+“It is recommended that priorities be established among the major issues and problems in which health education can play a part.” (De Winter, 1995, p. 180)
+
+“It is recommended that the information methods now in practical use in pre-school Child Health Care be assessed as far as possible, in accordance with the model mentioned in section 10.” (De Winter, 1995, p. 180)
+
+“In case of further assessment of the Growth Book, attention should be paid not only to the content of the book as a means of information, but also the interrelationship should be established with the possible development of a personal health record.” (De Winter, 1995, p. 180)
+
+“Further gearing should take place of health education offered within the framework of pre-school Child Health Care and what is offered in other sectors, notably Child Health Care for 4-19-yearolds” (De Winter, 1995, p. 180)
+
+“Hopman, M.J.G. & Vroonhof, C.E.M.: Ouders van een- tot vierjarigen zoeken vergeefs antwoord op opvoedingsvragen, Maatschappelijke Gezondheidszorg 20 jan/febr (1992) 34-37.” (De Winter, 1995, p. 181)
+
+“Kok, G.J. & Green, L.W.: Onderzoek ter ondersteuning van de GVO-praktijk: een pleidooi voor meer samenwerking, Tijdschnft Gezondheidsbevordering 11 (1990) 5-12.” (De Winter, 1995, p. 181)
+
+“Kok, G.J.: Jeugdgezondheidszorg en gezondheidsvoorlichting (GVO), interne publikatie Project Integrale Evaluatie Jeugdgezondheidszorg, Utrecht: Rijksuniversiteit Utrecht, 1991.” (De Winter, 1995, p. 181)
+
+“Merkx, J.A.M.: Pleidooi voor een Persoonlijk Gezondheidsdossier, Maatschappelijke Gezondheidszorg 20 January/February (1992) 24-26.” (De Winter, 1995, p. 181)
+
+“Uitentuis, J.: Zuigelingenvoeding, de huidige inzichten, Tijdschrift voor Kindergeneeskunde 53 (1985) suppl. 1-48.” (De Winter, 1995, p. 182)
+
+“Voorhoeve, H.W.A.: 14e druk Groeiboek, Ti}dschrift voor Jeugdgezondheidszorg 23 (1991) 6, 96.” (De Winter, 1995, p. 182)
+
+“Quant, W. & Willemse, C: Het consultatiebureau mag geen testbatterij worden, Tijdschnft voor Gezondheid en Politiek December (1990) 19-20” (De Winter, 1995, p. 183)
+
+“II Activities directed at the social and physical environment of children and parents” (De Winter, 1995, p. 184)
+
+“In Chapter 1 of this report the so-called ecological health model was chosen as the conceptual framework for pre-school Child Health Care. In the model, health and sickness are described as the product of four determinants: physical factors, health behaviour, the social and physical environment, and finally the care system. In this chapter the focus is on the social and physical environment of children and parents as a health determinant.” (De Winter, 1995, p. 184)
+
+“11.1 Health and environment factors” (De Winter, 1995, p. 184)
+
+“Today, illness, health, and normal or problematic development are generally seen against the background of a complex combination of personally or environmentally linked variables. In the medical world the term multi-causality is often used in this context; in the social sciences that specifically concern themselves with child development, the concept transactional development! is current.” (De Winter, 1995, p. 184)
+
+“In both branches of science there has recently been renewed appreciation of the environment as a determinant of health and development. This appreciation is modern, but far from new. Pre-school health care, as the successor to social hygiene, has its historical roots in the relationship between health and environment.” (De Winter, 1995, p. 184)
+
+“11.1.1 Social inequal ity” (De Winter, 1995, p. 185)
+
+“Although the general health condition of the population has improved considerably since the beginning of this century, owing in part to increased prosperity and to improved facilities, the philosophy of the hygienists has lost little topicality.” (De Winter, 1995, p. 185)
+
+“After all, in the present day there is also every reason to view the health and development of children in the light of social relationships. Now too, there are still major socio-economic and sociocultural differences in children's health and development chances (Municipal Health Service Amsterdam 1980, Scientific Council on National Policy; see: WRR 1987).” (De Winter, 1995, p. 185)
+
+“Thus social inequality may be taken to be an important environmental determinant of children's health and wellbeing. On a material level, that is to say in the daily reality of parents and children, this inequality is manifested in, among other things, the material quality of primary living conditions (including housing, finances, safety) and the quality of the facilities (after-school care possibilities, education, play space in the neighbourhood).” (De Winter, 1995, p. 185)
+
+“11.1.2 Physical environment” (De Winter, 1995, p. 186)
+
+“In addition to considering health determinants that are linked to the phenomenon of social inequality (that is to say determinants which especially concern children in socially deprived situations), account must be taken of environmental determinants which operate at the level of the entire population.” (De Winter, 1995, p. 186)
+
+“I 1.1.3 Pri mary Iifeworld” (De Winter, 1995, p. 186)
+
+“3 Pri mary Iifeworld Children's primary lifeworld, the family, is a major source of socio-cultural influence on the health and wellbeing of, notably, young children. It is probably typical of the fast changes taking place within this sphere of influence that the term family life has itself become too restricted to describe the variety of arrangements within which children grow up.” (De Winter, 1995, p. 186)
+
+“As the individualization of family members intensifies (Brinkgreve & De Regt 1990), so the availability of social support outside the family becomes even more important. In a recent study on the determinants of mental health, Bosma and Hosman (1990) point to the protective character a social support network can have with regard to mental health.” (De Winter, 1995, p. 187) Interesting to connect individualisation of family life to professional care that is needed
+
+“11.104 Professional ization” (De Winter, 1995, p. 187)
+
+“The last socio-cultural environmental determinant to which attention should be drawn in this regard, is the (alleged) parental uncertainty on upbringing and the related professionalization of the primary lifeworld. The current cultural pattern of relations with children and of their upbringing is sometimes described as the helping mode, an expression of a highly developed psychological consciousness in relation to children, whereby the parental task is placed under a magnifying-glass (DeMause 1976).” (De Winter, 1995, p. 187)
+
+“Where traditional frames of reference, such as religion and family traditions are gradually being eroded, a growing need for and supply of professional information and help is created. Besides the undoubtedly positive aspects, this professionalization of parenthood also has disadvantages. Liljestrom (1983) considers the almost unlimited trust that parents in the Western world appear to place in science and professionalism, to be a demoralizing factor in the process of upbringing” (De Winter, 1995, p. 187)
+
+“arents are in danger of becoming ever greater laymen in their own field, that of parenthood (De Winter 1986).” (De Winter, 1995, p. 187) this is actually more interesting than it sounds - professionalisation of care is indeed a successor of traditional family life.
+
+“his is important for pre-school Child Health Care; since specifically in the period when parents have young children they are confronted with numerous questions and uncertainties, whereby they may drift into a dependency relationship with professionals. So it is of even greater importance that pre-school Child Health Care explicitly emphasizes and stimulates parents' own competence and responsibility.” (De Winter, 1995, p. 187)
+
+“I 1.2 Implications for pre-school Child Health Care: recognition, guidance and cooperation” (De Winter, 1995, p. 187)
+
+“As outlined above, the health and development of young children display a notable degree of interrelationship with social, cultural and physical environmental factors. After a long period in which these environmental factors seemed to have faded into the background in the entire health care sector, a reappraisal of this relationship is gradually being made. One source of inspiration for this is the WHO programme Health for All by the” (De Winter, 1995, p. 187)
+
+“Year 2000, adapted for the Netherlands as Nota 2000.” (De Winter, 1995, p. 188)
+
+“According to Nijhuis (1989) it is essential that pre-school Child Health Care is explicitly oriented to social circumstances which have relevance for health.” (De Winter, 1995, p. 188)
+
+“In his view 'preschool Child Health Care should give a prominent place to explicit social involvement', which 'means a rather essential new orientation in theory and practice, away from the traditional medical needs' and which demands 'explicit focusing on a healthy existence, also in the social sense' from health professionals. A similar point of view is expressed by De Winter (1990): A pre-school Child Health Care service that concerns itself with the 'quality of childhood existence' must satisfy three requirements: besides the provision of effective individual preventive health care for all children; and the provision of personal support and care to the parents and children who need them; Child Health Care must also promote social care at the system level.” (De Winter, 1995, p. 188)
+
+“Therefore, in its concern for health and wellbeing, pre-school Child Health Care should aim, by recognition and guidance, at structural factors which are (in part) at the roots of the problems of individual parents and children” (De Winter, 1995, p. 188)
+
+“Moreover, such a view means that pre-school Child Health Care should maintain well-defined forms of cooperation with agencies that are concerned with child day-care, education, social welfare planning, urban and traffic planning.” (De Winter, 1995, p. 188)
+
+“n Nota 2000 this is described as facet policy. On the basis of its specific expertise pre-school Child Health Care, in its qualities of identifying and advising, can function in relation to such social sectors which may be assumed to have a relevant influence on certain health determinants.” (De Winter, 1995, p. 188)
+
+“Since the pre-school health service's major domain is at local level, recognition and guidance should be specifically aimed at this level. A possible consequence of this social orientation is that special attention must be given to groups of parents and children that are particularly vulnerable to health and social welfare problems, due to a culmination of unfavourable environmental determinants (Ministry of Welfare, Public Health and Cultural Affairs 1992” (De Winter, 1995, p. 188)
+
+“Several examples of such a method of working can already be found in practice, both within the pre-school Child Health Care service and between this service and other organizations. For instance in the Amsterdam Child Health Care this way of working has already been outlined in a policy plan (Municipal Health Service Amsterdam; see: GG & GD Amsterdam 1990)” (De Winter, 1995, p. 188)
+
+“In a number of places pre-school Child Health Care already participates in child welfare service community networks. These networks, in which agencies for day-care, education and child welfare are represented, concern themselves specifically with problems in deprived neighbourhoods. They aim at early recognition of and intervention in problem situations at an individual level, as well as at social identification (Geelen et al. 1989, Wilbrink-Griffioen & Van Eyck 1990).” (De Winter, 1995, p. 188)
+
+“Nijhuis calls population participation the most important basic principle for a socially oriented Child Health” (De Winter, 1995, p. 188)
+
+“Care. This dialogue is needed for two reasons, firstly to be able to establish the child's problems that need attention and secondly to create a basis for realizing adequate measures or for enlarging health consciousness (Nijhuis 1989).” (De Winter, 1995, p. 189)
+
+“As put forward earlier, to avoid too great a dependence on the professional system, the responsibility of (groups of) parents should be the starting point of a Child Health Care policy. There are already a number of examples of such active involvement of parents. In many municipalities, improvements in the home environment are brought about in a dialogue with parents, for instance those regarding safe playgrounds and traffic situations.” (De Winter, 1995, p. 189)
+
+“I 1.3 Consequences for policy, professionals and executive organizations” (De Winter, 1995, p. 189)
+
+“Being based on an ecological health model, pre-school Child Health Care cannot ignore the relevant influences from their social and physical environment on the health and wellbeing of parents and children. This is by no means to say that doctors and district nurses working in this field have no attention or eye for such a line of approach.” (De Winter, 1995, p. 189)
+
+“However, the problem is that activities in this direction are not as yet a structural part of their duties and therefore often take place on an ad hoc basis. Structural embedding of such a perspective will mean an expansion of the interpretation of the task” (De Winter, 1995, p. 189)
+
+“of present pre-school Child Health Care or, in other words, are-assessment of the original points of departure and working methods on which its founding and social embedding were based.” (De Winter, 1995, p. 190)
+
+“Naturally today's working methods should be adapted to changed social conditions, state of health, health needs and scientific insights. Supported by an insight into the health needs of parents and children, and in cooperation with other social agencies and organizations, pre-school Child Health Care can develop along these lines into what Nijhuis calls 'a consultant on matters of social decisionmaking and on the expansion of insight into health needs, as an advocate of health affairs' (Nijhuis 1989).” (De Winter, 1995, p. 190)
+
+“11.4 Recommendations” (De Winter, 1995, p. 190)
+
+“• For Child Health Care Policy: - The realization of a child health policy based on health objectives instead of health care objectives. In this way the influencing of environmental determinants will have direct relevance to the process of providing care. - The structural incorporation of population-level preventive tasks in pre-school Child Health Care.” (De Winter, 1995, p. 190)
+
+“• For the staff: -An adaptation of the range of duties of district nurses, so that besides work directed at individuals or groups, identification and active influencing of environmental determinants will be possible. -An adaptation of the range of duties of clinical medical officers, so that during the individual preventive visits explicit attention can be given to the recognition of health threatening environmental determinants and” (De Winter, 1995, p. 190)
+
+“health profiles can be developed at community level (village, town). In this way, it will be possible for doctors to shoulder greater populationfocused responsibility.” (De Winter, 1995, p. 191)
+
+“For the organization: The creation of conditions within the organization which will allow the above mentioned policy to be established. This may include the creation of personal, financial and legal scope for such duties, the development of forms of cooperation, as well as the development of the required expertise among the staff. The development of a registration system that allows the recognition and inventory of health threatening environmental factors. Cooperation with the Municipal Health Services would seem evident here.” (De Winter, 1995, p. 191)
+
+“Brinkgreve, C. & Regt, A. de: Het verdwijnen van de vanzelfsprekendheid. Over de gevolgen van individualisering voor kinderen, Jeugd en Samenleving 20 (1990) 5, 324-333.” (De Winter, 1995, p. 191)
+
+“GG&GD Amsterdam: Maatwerk en werkmaat. Deelnota 1: zuigelingenen kleuterzorg, Amsterdam 1990.” (De Winter, 1995, p. 191)

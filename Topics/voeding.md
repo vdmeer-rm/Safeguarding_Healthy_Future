@@ -1,0 +1,2 @@
+[[A transition can be observed from a focus on infectious disease and nutrition before WW2 to a focus on physical, mental, and social wellbeing after WW2.]]
+[[Troughtout the 20th century, whereas care at consultation offices was initially focussed on growth and nutrition, focus shifted towards early recognition of developmental deficits.]]

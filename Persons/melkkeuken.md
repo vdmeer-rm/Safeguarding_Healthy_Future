@@ -1,0 +1,1 @@
+to check whether milk was free of tuberculosis and usually part of the [[Consultatiebureau]]. The last one was closed in 1935. After stimulating breast feeding, it become less necessary.

@@ -1,0 +1,1 @@
+This movement was particularly popular in Amsterdam in the early 20th century, and received a lot of suffrage after the reform of suffrage laws.

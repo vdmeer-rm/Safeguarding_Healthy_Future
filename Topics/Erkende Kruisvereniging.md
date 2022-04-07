@@ -1,0 +1,1 @@
+Recognised as organisation that can use money from [[1968 Algemene Wet Bijzondere Ziektekosten]], distributed by [[zorgkantoor]] to execute health services.

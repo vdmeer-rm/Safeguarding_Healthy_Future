@@ -1,0 +1,1 @@
+Criticism on the [[Vroegtijdige onderkenning van ontwikkelstoornissen (VTO)]] as materialised in [[drieluik met dwarse groeicurve]] by the [[werkgroep van Wiechen]]. Especially [[Micha de Winter]] argued how these objectified interpretative framework revealed an increasingly individualised look on child health.

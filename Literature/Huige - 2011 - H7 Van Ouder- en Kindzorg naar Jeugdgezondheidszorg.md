@@ -1,0 +1,117 @@
+# H7 Van Ouder- en Kindzorg naar Jeugdgezondheidszorg - Jan Huige
+
+|Variable |  |
+|:--------------|:-----------|
+| **Author**			| Huige     | 
+| **Year**				| 	2011		 | 
+| **Title**				| 	'Van Ouder- en Kindzorg naar Jeugdgezondheidszorg'		 | 
+| **Kind**				| Book chapter	 | 
+| **Book**				| 	*Van Kruiswerk naar Thuiszorg*		 | 
+| **Date read**				| 	2021-12-09	 | 
+| **Cite Key**				| 	[[@huigeVanKruiswerkTot2011]]		 |
+| **tags**				| #readingnote  			 | 
+
+**Take-home message**:
+
+---
+## Reading notes
+
+## 7.1 Uitgangspunt 1946
+Actually quite interesting that the [[Consultatiebureau]] is inspired by [[Pierre Budin]]. Huige takes conclusion that science was not a solely national matter. [[BPB Plantenga]] founded the first one in the Hague in 1901 with a [[melkkeuken]]. Apparently, [[In the 1910s, consultation offices received a lot of criticism as result from the general scepticism of preventive medicine.]]
+
+[[The expanding number of consultation offices went hand in hand with the proffesionalisation of social medicine]]. In 1921, the [[Nederlandsche Vereniging voor de Kindergeneeskunde]] and the [[Nederlandsche Bond zuigelingen tot Bescherming van Zuigelingen]] who required consultation offices to have a specialist-doctor leading the [[Consultatiebureau]]. As a result, they were organised by [[districtshuisberzoekster]] and physician. [[Before WW2, the Netherlands knew a closed network of consultation offices]].
+
+## 7.2 Het werk van de consultatiebureau en de bureaumedewerkers
+The enormous [[naoorlogse babyboom]] steered activities on preventive child health care, it also launched an enormous amount of literature on the pedagogical aspects of raising children. [[M.J. Langeveld]] was one of its most activie propagators.
+
+Cross societies apparantly formed internal [[wijkgebouwencommissies]] in response to the primitive situation of some consultation office. In those place with modern facilitities, in the 1950s, a [[Consultatiebureau]] included [[Wachtkamer]] [[weegbureau]] and [[spreekkamer]]. [[After the world wars, cross societies actively claimed the decline of child mortality as victory resulting from their preventive activities.]]
+
+[[Consultatiebureaus voor Kleuters]] started in the 1950s, but stayed behind in the number of consults. It also becomes clear that [[In the first half of the 20th century (but maybe even later), general practitioners organised a consultation bureau on their own initiative.]] In general, [[The differences between consultation offices were very sky high, as care was organised ad-hoc.]]
+
+TYPES OF ADVICE
+[[During the 1950s and 1960s, new pioneers started to shift priorities in child health care and create standardised and uniform procedures.]] Relates to [[In the 1970s, examanination was 'hardened' and standardised.]] [[Suze van Veen]]  paved the way for talking about [[somatisch-psychosociale problematiek]]. [[J.H. de Haas]] took care for national registration system. [[In the early 1960s, growth curves were introduced.]] [[With the introduction of standardised indicators resulted in translating uncertainty into normalised certainty.]]
+
+TASKS
+In 1921, it had been decided that [[wijkverpleegkundigen]] and physicians had to work together in a hierarchical manner. Nevertheless, [[huisbezoeken]] by [[districtshuisberzoekster]] were important elements in succes. Apparently, [[in the first half of the 20th century, district nurses recieved updates from maternatiy nurses.]]
+
+Within consultation offices, the physician inspected the baby while the nurse visited mothers at home and checked whether advise was followed on a proactive basis. [[The privacy of mothers could play a role in evaluating district nursing and the efficacy of consultation offices.]] (p278). [[districtshuisberzoekster]] should therefore be a good listener. According to Huige: [[District nursing from consultation offices was not abolished because of privacy concerns, but because of outbalanced labour intensity.]] Later, [[districtshuisberzoekster]] were used to perform the [[Hielprik]]
+
+PRENATAL AND TODDLERS
+[[Prenatale consultatiebureaus]] had been initiated in the first half of the twentieth century, but they were all closed in the 1950s, due to a lack of interest. [[The initiation of consultation offices for toddlers went hand in hand with the focus on mental and more holistic conception of health.]] [[Consultatiebureaus voor Kleuters]] ceased to exist in the 1960s. Several reasons played a role:
+- Meassurable succes of diagnosing[[somatisch-psychosociale problematiek]]
+- [[specialisation]] of peadiatrics
+- the initiation of [[Pedagogisch Consultatiebureau]] (<- though these could also not elevate the success of normal the [[Consultatiebureau]])
+
+Also interesting that Huige lies the connection with [[maakbaarheid van de samenleving]] and the impopularity of [[Prenatale consultatiebureaus]] and [[Consultatiebureaus voor Kleuters]]:
+
+> Hoe de ordening van de hulpverlinbgn daarop inbgericht moest worden was echter niet duidelijk, en binnen die context moesten de kleuterbureaus hun weg maar zein te vinden. Bovendien was in het begin van de jaren zestig no een sterk geloog in de maakbare samenleving aanwezig, en werd de indruk gewekt dat met een beetje inschikken begrip voor elkaar en zo nodig corrigende optreden het aards paradijs hier op aarde gecreerd kon worden
+
+#### De periode 1966-1990
+
+Huige observes a mentality change during the 1960s: [[During the 1960s, a shifting mentality with less emphasis on authority and paternalism in public and academic discourse, the organisation and procedural ways of working shifted.]] This can apparently be observed in the difference between the work of [[M.J. Langeveld]] shortly after WW2 and that of [[M. van Blankenstein]]. Apparently, this transition went hand in hand with professionalisation and [[In the 1970s, examanination was 'hardened' and standardised.]] [[Child health intervention took shape in education of mothers and professionalisation of child health care.]] Together with the introduction of [[Gezondheidsvoorlichting- en Opvoedings (GVO)]] profesionals.
+
+[[The dependent relationship between professional physicians and the cross societies became increasingly problematised during the 1970s]] different reports occured in which the organisation and priorities of the consultation bureaus was re-imagined. One of the most important reason was the underpaid position of physicians working at consultation bureaus, often because of their loyalty. The re-imagined organisation structure and priorities of consultation offices went hand in hand with the introduction of [[jeugdverpleegkundigen]] as substitutes for [[wijkverpleegkundigen]]
+
+The tension between [[Specifieke Zusters]] and [[Polyvalente Zusters]] was important in the 1960s and 1970s. Indeed [[District nursing from consultation offices was not abolished because of privacy concerns, but because of outbalanced labour intensity.]] in the 1970s, this also seen as settling the debate. According to Huige, however, the development went in the direction of [[specialisation]]; not of all round care. The Utrecht case shows, however, that the [[Utrechtsche Vereniging tot Berscherming van de Zuigelingen]] lost territory and even its very existence as result of the dispute at the cost of allround care in the rest of the city. [[In the 1960s and 1970s, the division of labour within consultation offices was a central topic of discussion.]] 
+ 
+[[In the 1970s, the changing Dutch social context and growing complecity also caused a shifting focus to psychosocial characteristics and normal development.]] Huige mentions economic decay, unemployment, changing values of family life, and growing number of immigrants as key developments. [[During the 1970s and 1980s, preventive care for young children was provided for different nationalities.]] Additionally, [[With the introduction of contraceptives in the 1970s, and families became smaller, parents had less experience with raising children. 1]] 
+
+(pp296-288) To investigate these psychosocial characteristics as part of research to [[Vroegtijdige onderkenning van ontwikkelstoornissen (VTO)]], the [[Van Wiechen-ontwikkelingskaart]] was introduced. This was part of an initiative of [[H.J. van Wiechen]], to introduce the [[drieluik met dwarse groeicurve]] and based the initiative of [[J.P. Boekhold]] at the [[Federatieve Commissie voor Kinderhygiëne Zuid Holland]]. In 1983, the result of a [[werkgroep van Wiechen]] part of the [[Nationale Kruisvereniging (NK)]] made the [[Van Wiechen-ontwikkelingskaart]] part of [[dossier Jeugdgezondheidszorg]]. The [[WHO definition of Health]] also played an important role in legitimising this practice. The [[In the 1970s, examanination was 'hardened' and standardised.]] of consultation bureau care was associated with this development. Moreover, the shifting focus caused that [[In the 1980s, the differences between 'oude-'' and 'nieuwe stijl' consultation offices intensified.]]  This contributed to the [[Longitudinale kinderzorg]] that started to get important in the 1980s. In sum, the standardisation of child health intervention in the 1970s and 1980s was a response to late recognition of predisposed diseases AND fitted the mentality of accounting and objectivity.
+
+One of the most active opponents of quantitative developmental investigation was [[Micha de Winter]], who celebrated a more [[systemische ontwikkelingsbenadering]] of child health in the 1980s and 1990s. He prosed a more [[systemische ontwikkelingsbenadering]]. [[During the 1980s and 1990, an academic debate between individual oriented and system oriented child health monitoring crystallised in an interactive model between nature and nurture.]] This resulted in attention for [[ouder-kindrelatie]] and [[Afdeling Ouder Kind Zorg (OKZ)]] in the 1980s. According to Huige (p292), the [[1980 Gewijzigde Algemene Wet Bijzondere Ziektekosten]], made the proactive attitude of cross work one of its core duties.
+
+One key -- and yet unanswered -- question remains the use and function of [[Consultatiebureaus voor Kleuters]], that still did not really succeeded in explaining its added value. According to Huige (p293): 
+
+> "Gevraagd naar een oorzaak waarom de kleuterbureau veel minder uit de verf kwamen dan de zuigelingenbureaus, merken de deskundige op dat het grote verschil hem er vooral in zit dat een zuigeling nog zo klein en kwetsbaar is. Jonge ouders unnen daar oprecht bezorgd over maken en zijn dan zelf ook kwetsbaar. Als een peuter echter normaal opgroeit en zich ontwikkelt, dan is een hoge frequentie van consulten in feite niet langer nodig."
+
+This required more reflection. To me, it seems that [[Consultatiebureaus voor Kleuters]] did not really have a clear problem to solve. While consultation offices remained responding to uncertainties relating to child mortality and raising children. This was less clear in the case of toddlers. In other words, [[Kleuterconsultatiebureaus kept struggling to legitimise their added value because it remained unclear which problems they solved.]]
+
+Another topicular issue result from the [[1974 Wet op de gezinshereniging]] which had the result that [[From the 1970s and 1980s, immigrants created the struggle with cultural diversity in preventive child care.]] (Huige, p.294) It seems fascinating that, again steered by [[Micha de Winter]], this resulted in a discussion about social norms. One note is extremely interesting, Huige: "In elk geval moet de consultatiebureaus voor de zuigelingen worden nagegeven dat zij er - getuige de hoge opkomstcijfers - in geslaagd zijn het vertrouwen te winnen van de niet-Westerse vroyuwen, net zoals dat in de eerste decennia van de vorige eeuw met Nederlandse moeders geschiedde." (p.293)
+
+## 7.3 Landelijke Ontwikkelingen
+
+Huige characterises the two first post war decades as calm and inspired by the growing disicpline of social medicine. It might be important to note that preventive child health intervention was funded to a provincial [[kinderarts]] and a [[districtshuisberzoekster]] who had a coordinating role in the 1950s and 1960s. Makes me think of [[C.J.W. Frijlink]] in Utrecht. Huige als mentions that [[After the WW2, the internationally renowed low child mortality was explained due to the success of consultation offices.]] Nevertheless, in the 1960s, the functioning of child health intervention through cross societies was questioned. [[Troughout the twentieth century, the disered expansion of child health intervention could not be met with the required money and manpower, resulting in the constant experience of work pressure.]] This is especially clear in the discussion about higher wages for consultation physicians - a debate mainly steered by the [[(Koninklijke) Nederlandse Maatschappij tot bevordering van de Geneeskunde (KNMG)]] and the [[Algemene Nederlandse Vereniging het Groene Kruis (ANV)]]. This debate was unsuccessful, as the responsible minister was unable to provide funding. What was interesting, though, was that [[meneer Dijkhuis]] and the [[Geneeskundige Hoofdinspectie voor de Volksgezondheid]] required local cross societies to rearange. According to Huige (p.297)
+
+> De kritiek concentreerde zich vooral op de grote verschillen in benaderingswijzen tussen provincies onderling. In 1964 werd een eerste signaal afgegegevn toen in het Topkruizenberaad met het department uitvoerig gesproken werd over de voortgang van de kinderhygiëne in het land. Aanleiding was een door de [[Geneeskundige Hoofdinspectie voor de Volksgezondheid]] geschreven discussienota #todo over een gewenste reorganisatie van deze dienst. Tamelijk laconiek wezen de landelijke kruisverenigingen erop dat het door de inspectie voorgestane model eigenlijk al achterhaald was, omdat men op onderdelen al bezig was de organisaite aan te passen. Tegelijkertijd werd van de nood een deugd gemaakt door hieraan toe te voegen dat men niettemin met instemming kennis had genomen van de nota, omdat dit de gelegenehid boodnog eens te wijzen op de financi:ele problematiek waarmee consultatiebureaus kampten.
+
+( This is a great argument for [[Trought the twentieth century, local developments influenced national policies on public health.]] )
+
+In the 1960s, this chaotic situation continued: [[In the 1960s, from the perspective of cross societies, difficult times came because of the growing mingling from national governement and worries about payment and position of local physicians.]] The local physicians consisted out of [[vrijgevestigde huisartsen]], [[mevrouw-artsen]], an hired [[kinderarts]]. This was called the [[honoreringskwestie]]. It may be that this was primarily an issue in cities, as some [[vrijgevestigde huisartsen]] saw labour at consultation offices as a [[moral obligation]].
+
+[[Nationaal Centrum voor Kruiswerk (NCvK)]] formed as central lobby for keeping preventive child care part of cross societies. Especially since [[W van der Meeren]] wrote on behalf of [[Nederlandsche Bond zuigelingen tot Bescherming van Zuigelingen]] a report [[Nota Van der Meeren]] in which he concluded that preventive child care should be taken away from them. This was taken over from 1973 at the [[Ministerie voor Volksgezondheid en Milieuhygiëne]] in which policy makers questioned the necessity of consultation offices at all: [[Consultation Offices struggled in the early 1970s with problems of legitimacy]] Comparable to: [[The Amsterdam GGD suffered in the second half of the 20th century with problems of legitimacy.]] This went hand in hand with [[In the 1970s a growing emphasis on individual responsibility changed the way of working at consultation offices.]] According to Huige, however: (p301):
+
+> ... het gedachtegoed van [[W van der Meeren]] om de consultatiebureaus bij de kruizen weg te haleb, bleek aanhang te hebben binnen de overheid. De sterke politieke lobby die de kruizen van oudsher onderhielden, voorkwamen erger, maar de decennialang onaantastbare positie van de kruizen op dit terrein kwam steeds meer op de tocht te staan.
+
+With the [[1980 Nota schets van beleid - basisgezondheidsdiensten]] by [[E. Veder-Smit]] , the policy recommendations of [[Nota Van der Meeren]] were continued. In response, the [[Centrale Raad voor de Volksgezondheid]] wrote a report in which they recommended "teamverband en samenwerking met andere organisaties en stodne een meer gestandaardiseerde werkwijzew voor. Het werken in georganiseerd verband moest veel van de vrijblijvendheid bij de uitvoerende consultatiebureauartsen wegnemen. (p.300-1)". Both [[vrijgevestigde huisartsen]], united trough the [[Landelijke Huisartsen Vereniging (LHV)]] and youth physicians disliked these recommendations. The report did lead to discussion about the organisation of preventive care for children.
+- On the one hand, [[Nederlands Instituut voor de Preventive Geneeskunde-Gezondheid (TNO-NIPG)]]  recommended to harmonize all [[Longitudinale kinderzorg]] through [[ontschotting]]. With the [[1980 Gewijzigde Algemene Wet Bijzondere Ziektekosten]], secretary [[E. Veder-Smit]] had the opportunity to interfer top-down. [[Preventice child care by cross societies was continuously accused of having a non-committal nature.]] This was called the [[samenhangingsprobleem]] and connected to [[Longitudinale kinderzorg]] based on integral epidemiological reasoning.
+- On the other hand, the [[Nationale Kruisvereniging (NK)]] identified two main problems, resulting from that [[Troughtout the 20th century, whereas care at consultation offices was initially focussed on growth and nutrition, focus shifted towards early recognition of developmental deficits.]] This [[Gezondheidsvoorlichting- en Opvoedings (GVO)]] lied new accents. The most important was the initially independent position of youth physicians, the idea to hire these by cross societies, did not really work.
+
+The result was a quarrel between [[Landelijke Huisartsen Vereniging (LHV)]] and the [[Nationale Kruisvereniging (NK)]] about the labour relation between consultation offices and general physicians. After years of negotiating, at January 12 1983, an agreement was reached to pay general practitioners 69 gulden per hour, to participate in consultation offices ran by the cross societies. Interestingly, one of the requirements of the cross socities was the GP's to have a "preventive mindset" (Huige, 306). The dispute was further thought through at the conference "het consultatiebureau is niet van gisteren" in 1988, in which the lack of vision of [[Wisse Dekker]] on prevention. [[E. Veder-Smit]], now chair of the [[Nationale Kruisvereniging (NK)]], emphasised the importance of consultation offices, by [[Vroegtijdige onderkenning van ontwikkelstoornissen (VTO)]] and [[From the 1970s and 1980s, immigrants created the struggle with cultural diversity in preventive child care.]]. A way to legitimise the need for consultation offices was by competing with affordable pricing, was one of the arguments.
+
+Summarized, the following issues made preventive child care a difficult political topic:
+- [[During the 1980s, cross societies sturggled to collaborate with general practitioners.]]
+- [[During the 1980s, cross societies were at risk of losing preventive child care to municipal health services.]]
+- [[During the 1980s, market values threatened the funding of consultation offices.]]
+- [[During the 1980s, debates on the nature of expertise and training of consultation office employees was continuously debated.]]
+
+This context set the stage for political debates on the organisation of and responsibility for preventive care for young children. The debate on the [[1989 wet collectieve preventie Volksgezondheid]] was the final challenge for keeping preventive child care within the domain of cross socities. It is interesting that, [[At the end of the 1980, cross societies themselves did not do whatever imaginable to keep preventive child care aboard.]] [[At the end of the 1980s, cross societies started focussing on the elderly at the cost of young children.]]
+
+## 7.4 Deskundigheidsbevordering, opleiding
+
+In general, the education for physicians with respect to consultation office work, did merely exist until the early 1980s. In 1981, only 16 of the 2000 physicians working in a consultation office were registered as social medicine professionals. (Huige, 311). [[Professionalised training of child health professionals started around the 1970s.]]
+
+After WW2, a genertaion of consultation office employees was trained by "[[De Koppius]]", written bij [[Paul Wibo Koppius]]. Sold from 1957. Intended for both nurses and practitioners, with the result that pathologie played either to big of a role or too small. In 1962, jeugdgezondheidszorg was recognised as official specialism by the [[(Koninklijke) Nederlandse Maatschappij tot bevordering van de Geneeskunde (KNMG)]]. It is interesting that even though consultation offices were part of social medicine, they did not openly participate in national debates (according to huige p.312) in the first decades after WW2.
+
+The confrontation with different cultures and attention for [[A transition can be observed from a focus on infectious disease and nutrition before WW2 to a focus on physical, mental, and social wellbeing after WW2.]] made the necessity for knowledge sharing important. The [[Tijdschrift voor Jeugdgezondheidzorg]], founded in 1969 in Zuid-Holland was a first step into this direction. As a result, [[During the 1970s, the meaning and implications of physicial health were strongly contested.]] In response, the [[Nationale Kruisvereniging (NK)]] made a 1977 report that can be seen as the starting point of [[consultatiebureau nieuwe stijl]], in which [[districtshuisberzoekster]] gained a more prominent role. Physicians, on their turn, were required to specialise in epidemiology, as well as [[mental health]]. [[In the 1980s, the differences between 'oude-'' and 'nieuwe stijl' consultation offices intensified.]]
+
+In 1978, the first post graduate course on child hygiene (kinderhygiene) was taking place. In 1983, this course became past of Post Academische Onderwijs Geneeskunde [[Erasmus Universiteit Rotterdam]]. The [[Ministerie voor Volksgezondheid en Milieuhygiëne]] and [[Nationale Kruisvereniging (NK)]] organised and coordinated this application courses in the 1980, but this organisation was not quite professional.
+
+## 7.5 Terugblik, de situatie 1990
+
+- [[Standardisation in the 1970s was a response to crises of legitimacy of preventice child care.]]
+- [[A transition can be observed from a focus on infectious disease and nutrition before WW2 to a focus on physical, mental, and social wellbeing after WW2.]]
+	- Transition from [[Rust, Reinheid, Regelmaat]], to "Recht, ruimte, respect" (< [[Micha de Winter]])
+- [[From the 1970s the parental voice became increasingly important in consultation offices.]] Also had to do with [[With the introduction of contraceptives in the 1970s, and families became smaller, parents had less experience with raising children. 1]].
+- [[Professionalised training of child health professionals started around the 1970s.]]
+- [[Consultation offices were primarily succesful in offering certainty to mothers; not necessarily in cuasing health benefits]] 
+- [[In the 1970s, the amphasis on longitudinal care went hand in hand with pleas for preventive child health under one organisation.]]

@@ -1,0 +1,1 @@
+Committee investigating the feasability of orgnaising health care according to the [[National Health Services (NHS)]] chaired by  [[A.A. van Rhijn]]

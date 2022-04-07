@@ -1,0 +1,1 @@
+Specialist education, high standards of training, formed the core of the organisation of the [[Utrechtsche Vereniging tot Berscherming van de Zuigelingen]] in the 1960s. This was aopposed to the [[Polyvalente Zusters]] in which district nursing and consultation bureau nursing was combined.

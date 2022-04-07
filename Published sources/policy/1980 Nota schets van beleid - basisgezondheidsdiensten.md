@@ -1,0 +1,9 @@
+by [[E. Veder-Smit]], continuation of [[1974 Structuurnota]]
+
+[[Honderd jaar gemeentelijke geneeskundige en gezondheidsdiensten - A.H.M. Kerkhoff]] p. 83
+
+[[E. Veder-Smit]] continued the efforts of [[Jo Hendriks]] with [[1980 Nota schets van beleid - basisgezondheidsdiensten]]. [[Following the 1974 Structuur Nota, basic health care (including public health) became a responsibility of municipalities.]] Quote from Kerkhoff (p83):
+
+> "De verschuiving van taken geschiedde op een wijze die 'politiek' in de zin van behendig kan worden genoemd: de definitie die de nota van de basisgezondheidszorg geeft, laat de verantwoordleijkheid voor de uitvoering nog min of meer open: de basisgezondheidszorg wordt omschreven als 'dat deel van het complex van activiteiten en maatregelen op het terrein van de volksgezondheid dat zich op bepaalde groepen uit de samenleving richt en om redenen van methodiek, [[efficiency]] en effectiviteit tot één takenpakker wordt samengebracht.'Deze ietwat ambtelijk geformuleerde omschrijving past even goed bij (delen van) het werk van de kruisverenigingen als bij dat van de GGD-en. In eht vervolg van de Schets worden echter alleen deze laatste organisaties als basisgezondheidsdiensten betiteld. Een subtiel geschruiv met namen dat vergaande consequenties voor d etaken en verantwoordelijkheden van de verschillende instellingen zou krijgen."
+
+De [[1980 Nota schets van beleid - basisgezondheidsdiensten]] led to [[1982 Wet Voorzieningen Gezondheidszorg (WVG)]]. With the Lubbers cabinet, the law was withdrawn, as the government did not believe in top-down planning anymore.

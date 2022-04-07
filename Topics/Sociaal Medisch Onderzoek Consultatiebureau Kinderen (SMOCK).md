@@ -1,0 +1,1 @@
+21 consultation offices participated. Popualtion comprised of 2151 cjildren bron between april 1988 and oktober 1989

@@ -1,0 +1,1 @@
+Conducted by the [[Afdeling Infectieziekten en Hygiëne (GGD Rotterdam)]] of the [[Gemeentelijke Geneeskundige en Gezondheidsdienst Rotterdam]] in the 1970s to discover hereditary metabolic disease ([[PKU-CHT-Onderzoek]]) and inherited thyroid disease.

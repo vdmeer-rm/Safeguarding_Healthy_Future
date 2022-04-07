@@ -1,0 +1,1 @@
+Inspied by [[1986 Nota 2000]] according to [[Lieburg - 1994 - De geschiedenis van de Gemeentelijke Gezondheidsdienst te Rotterdam, 1919-1994]]

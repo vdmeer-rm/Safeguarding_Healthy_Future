@@ -1,0 +1,1 @@
+[[Micha de Winter]] accuses this perspective of a too strong emphasis on[[nature]], to be an example of biological determinism.

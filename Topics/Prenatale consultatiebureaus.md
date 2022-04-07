@@ -1,0 +1,1 @@
+had been initiated in the first half of the twentieth century, but they were all closed in the 1950s, due to a lack of interest.

@@ -1,0 +1,1 @@
+opposes [[nature]], central alement of [[maturisme]]
