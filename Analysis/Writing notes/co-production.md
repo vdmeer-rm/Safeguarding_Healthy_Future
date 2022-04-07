@@ -1,0 +1,10 @@
+At March 8, 2022, I slept quite bad. The reason was a combination of thinking and dreaming about the actual topic and research question of my project - which is an ungoing struggle. I have realised more and more that the perspective of [[co-construction]] refers to an analytic scope. The notion gives languages to a reflexive relationship between two processes or entities in that it describes a causal relationship in both directions. The problem of co-construction, however, is that it remains unclear which entity of process is the central object of study.
+
+If something is "co-constructed", then what is that something? That is why it may be best to investigate a something as the result of co-construction. This enables to keep the co-construction idiom while opening a space for reflection to think about what yields as my object of study.
+
+My first route to finding an object of study was to give more content to [[co-construction]] by relating it to Sheilla Jasanoff's idiom of [[co-production]]. The latter is also a metaphor, but a more specific one. It refers to the mutually consituitive or interactive relationship between "ordering" knowledge and "ordering" society. I think that this is a very fruitful approach, as it makes active two supposedly separate domains of philosophy: that of political ontology and of epistemology. It also escapes relativism, as it does not deny the consituitive role ordering knowledge plays.
+
+"Ordering knowledge" is not really a mysterious process for historians of science. It beautifully shows a historical process in which the natural and non-human world is transferred from a chaotic and unpredictable, to a ordered and predictable one. The ordering is very much a modern phenomenon in that it is based on rationalised, technological thinking.
+
+"Ordering society" feels a bit more uncomfortable to me, because it so explictly refers to the political ambition to create, organise, and sustain an envisioned societiy in which individuals form a collective. It thereby refers to a very normative and morality-laden side of co-production, and helps understanding why and specifically what is normative about science.
+
