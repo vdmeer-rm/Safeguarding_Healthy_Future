@@ -1,0 +1,848 @@
+# Een kwart eeuw zuigelingenzorg in Nederland
+
+``` ad-info
+title: Metadata
+- **CiteKey**: knapperEenKwartEeuw1935
+- **Type**: book
+- **Author**: N. Czn., fl.Knapper
+- **Publisher**: Scheltema & Holkema
+- **Location**: Amsterdam
+- **Year**: 1935 
+```
+```ad-abstract
+title: Files and Links
+- **Uri**: http://zotero.org/users/3736728/items/G92GSCPD
+- **File**: [Knapper_1935_Een kwart eeuw zuigelingenzorg in Nederland.pdf](file://C:\Users\vdmee\Zotero\storage\SJ9MWPA3\Knapper_1935_Een%20kwart%20eeuw%20zuigelingenzorg%20in%20Nederland.pdf)
+- **Local Library**: [Zotero](zotero://select/library/items/G92GSCPD)
+```
+```ad-note
+title: Tags and Collections
+- **Collections**: PhD-research; Published sources
+```
+
+----
+
+## Comments
+
+
+
+----
+
+## Extracted Annotations
+
+Annotations(11-4-2022 21:52:51)
+
+
+# INLEIDING[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=21)
+
+> “Een kwart eeuw preventie voor het jonge kind! In de eerste plaats het ongeschonden houden van het gezondgeborene, daarnaast opkweeking van het onvoldragene en beschutting van het levenszwakke, ziekelijke kind tegen de schaden die er op zouden kunnen inwerken,” [(Knapper, 1935, p. 21)](zotero://open-pdf/library/items/SJ9MWPA3?page=21)
+
+> “[[HECTOR TREUB]] in 1908 in „Wetenschappelijke Bladen" onder het hoofd: „De zorg voor de nakomelingschap" gewezen heeft op de noodzakelijkheid van puencultuur als een eerste eisch van onzen tijd, ten einde te geraken tot een goede ontwikkeling van den zuigeling, van het jonge kind, van het geheele menschengeslacht, is deze uitspraak door talloozen beaamd.” [(Knapper, 1935, p. 21)](zotero://open-pdf/library/items/SJ9MWPA3?page=21)
+
+> “Stemmen van enkelen, die zich hiertegen verzetten (Mr. ENSCHEDÉ, Prof. STEINMETZ) O a op grond van de overweging, dat bescherming van het levenszwakke, jonge individu zou te beschouwen zijn als rasbederf, uiting van een te ver doorgevoerd, ongezond altruïsme „Kindersterfte", schreef Prof. STEINMETZ, „is de wieding der menschheid door de natuur" — waren spoedig verstomd. Practijk stelde de theoretische sociologie in 't ongelijk.” [(Knapper, 1935, p. 21)](zotero://open-pdf/library/items/SJ9MWPA3?page=21)
+
+> “Immers, het zijn volstrekt met enkel de zwakkeren, die geschaad worden en te gronde gaan; evenzeer de krachtige, jonge individuen, die eerst opbloeiden als toonbeelden van gezondheid, daarna geschonden werden en nu met een minderwaardig gestel voortleven, ten oste van maatschappelijk kapitaal, dat geen of onvoldoende rente afwerpt, ten koste van véél lichamelijk ongemak, véél” [(Knapper, 1935, p. 21)](zotero://open-pdf/library/items/SJ9MWPA3?page=21)
+
+> “zieleleed niet enkel van de getroffenen zelf, maar evenzeer van degenen die met hunne opvoeding tot mensch belast zijn.” [(Knapper, 1935, p. 22)](zotero://open-pdf/library/items/SJ9MWPA3?page=22)
+
+> “Terecht, zuigelingenbescherming, wetenschappelijk gefundeerd, practisch georganiseerd en uitgevoerd is een sociale daad bij uitnemendheid!” [(Knapper, 1935, p. 22)](zotero://open-pdf/library/items/SJ9MWPA3?page=22)
+
+> “Prof. SCHELTEMA drukte dit onlangs op zijn bekende korte, kernachtige, ietwat gewaagde wijze aldus uit: de preventie moet trachten de curatie in den grond te boren” [(Knapper, 1935, p. 23)](zotero://open-pdf/library/items/SJ9MWPA3?page=23)
+
+> “Nederl. Tijdschrift v. Genees­ kunde 1932, ook opgenomen in Het Kind 1933 „Over het neuropathische kind", heeft Dr. P. TILMA (Groningen) onder andere getuigd: „Aan het stelsel van geregelde controle van „gezonde zuigelingen behoort slechts zoolang de hand te worden ,,gehouden totdat men verwachten mag dat de kennis der kinder­ verzorging algemeen is doorgedrongen. Opgeborgen behoeft ze „dan niet, maar het bewuste karakter worde er aan ontnomen; „juiste [[voeding]] en verzorging behooren gelegenheid te krijgen” [(Knapper, 1935, p. 23)](zotero://open-pdf/library/items/SJ9MWPA3?page=23)
+
+> “„om automatische handeling te worden, waarvan niemand anders ,,denkt dan dat het zoo hoort.” [(Knapper, 1935, p. 24)](zotero://open-pdf/library/items/SJ9MWPA3?page=24)
+
+> “Met provinciale kinderartsen, districtsartsen, met gemeentegeneesheeren en met dorpsdoktoren maakte ik den dienst aan hunne consultatiebureaux mede. Nu eens in ruime, hygiënisch ingerichte, soms zelfs kunstzinnig versierde lokalen, voldoende aan de meest subtiele eischen. Dan weer in kleinere, eenvoudiger gebouwen of meer beknopt, op de bovenverdieping van een wijkgebouw of zusterswoning, in het huis van den dorpsdokter, in klooster­ scholen, in fabrieksgebouwen, in loodsen en in herbergen, waar de gelagkamer als wachtgelegenheid, het biljart voor uitkleedtafel, de huiskamer als [[consultatiebureau]] dienst deed.” [(Knapper, 1935, p. 24)](zotero://open-pdf/library/items/SJ9MWPA3?page=24)
+
+Consultationbureau wasindeed more of an activitity instead of some specific building. Fascinating how ad-hoc this was organised.
+
+> “Wie er persoonlijk belang in stelt, verdiepe zich in het belangrijke Rapport van de Hoofdinspectie van de Volksgezondheid, op verzoek van de Tweede Kamer der Staten-Generaal in 1932 uitgebracht over het sociaalhygiemsche werk in Nederland. Of in de jaarverslagen van de provinciale kinderartsen en van de Kruis-vereenigingen.” [(Knapper, 1935, p. 25)](zotero://open-pdf/library/items/SJ9MWPA3?page=25)
+
+
+# HOOFDSTUK I De ontwikkeling van de Zuigelingenbescherming in Nederland, hoofdzakelijk in de laatste kwart-eeuw[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=27)
+
+> “In haar „Herinneringen" vertelt Dr. [[ALETTA JACOBS]], de eerste vrouwelijke artsin Nederland, hoe zijin den winter van1880, dank zij de medewerking van den heer HELDT van het Werkliedenver­ bond in Amsterdam, boven een kroeg in de Spuistraat hoek Kattegat, een Avondcursus opende voor vrouwen en meisjes aangaande algemeene [[hygiëne]] en verzorging van zuigelingen, gevolgd door een Raadplegingsdienst — tweemaal in de week — eerst in hetzelfde lokaal, later in de Geelvinck en tenslotte in het hartje van de Jordaan, in de Tichelstraat, het bureau dat ik zelf daar jarenlang gekend heb.” [(Knapper, 1935, p. 28)](zotero://open-pdf/library/items/SJ9MWPA3?page=28)
+
+This might be an interesting source to start with. Apparently [[Aletta Jacobs]] organised the first consultation bureau above a pub in Amsterdam. This is described in "Herinnering".
+
+> “Heeft de lezer gelegenheid om eens te snuffelen onder de boeken uit zijn ouderlijk huis, tien tegen een dat hij er zal aantreffen het boek van Dr. G. ALLEBÉ, den Amsterdamschen huisdokter, De ontwikkeling van het jonge kind naar lichaam en geest. In 1845 verscheen de eerste druk en voor opvolgende geslachten in de tweede helft der vorige eeuw bleef het een vraagbaak.” [(Knapper, 1935, p. 28)](zotero://open-pdf/library/items/SJ9MWPA3?page=28)
+
+> “„denkwijze omtrent Het Nut de natuurlijke [[voeding]] der kinderen in de en Dr. Aiiebé's eerste levensjaren" heeft doen kennen in een handboek „Prijsschrift alras bekroond," herhaalde zijn poging om „dwalingen en verkeerdheden aan het licht te brengen en te bestrijden" door in 1853 te doen uitgeven: Het kind in zijn eerste levensjaren, waarvoor dit Instituut de medewerking had van genoemden „bekwamen geneesheer G. A. N. Allebé.” [(Knapper, 1935, p. 28)](zotero://open-pdf/library/items/SJ9MWPA3?page=28)
+
+> “„Open brief aan moeders!" en verscheen even­ zoo van haar hand in „Maatschappelijk Werk", den voorganger van „Het Kind , een artikel over „Voorbereidende opleiding voor ouders,” [(Knapper, 1935, p. 29)](zotero://open-pdf/library/items/SJ9MWPA3?page=29)
+
+> “Daar begon in 1899 het Witte Kruis in Broek op Langendijk met de aUereerste Moeder- en Bakercursus,” [(Knapper, 1935, p. 29)](zotero://open-pdf/library/items/SJ9MWPA3?page=29)
+
+> “n opende Dr. PLANTENGA in Den Haag den 9en Dec. 1901 het eerste [[consultatiebureau]] voor zuigelingen met [[melkkeuken]], kliniek en polikliniek in de Regentesselaan.” [(Knapper, 1935, p. 29)](zotero://open-pdf/library/items/SJ9MWPA3?page=29)
+
+> “Kort daarna stichtte Dr. J. v. D. BERG, bijgestaan door eenige vooraanstaande dames, een Vereeniging Hulp aanZugelingen op het 0ra°jeplein.” [(Knapper, 1935, p. 29)](zotero://open-pdf/library/items/SJ9MWPA3?page=29)
+
+> “Rapport van den Haagschen Gezondheidsdienst, nam deze beide eerste bureaux later in zich op. In diezelfde periode schreef Dr. PLANTENGA over „Kindersterfte en Zuigelingenklinieken", en Jhr. Dr. E. TEIXEIRA DE MATTOS uit Rotterdam over: „Bescherming en Verpleging van jonggeborenen.” [(Knapper, 1935, p. 29)](zotero://open-pdf/library/items/SJ9MWPA3?page=29)
+
+> “Arts E. J. JONKERS schreef in 1902 over „Kindervoeding en Kinder-” [(Knapper, 1935, p. 29)](zotero://open-pdf/library/items/SJ9MWPA3?page=29)
+
+> “sterfte, speciaal in het eerste levensjaar" en in 1903 gaf hij „Beschouwingen over de oorzaken der zuigelingensterfte en de middelen die tot verbetering leiden." Het proefschrift van K. ROMBOUTS (1902) liepover hetzelfde onderwerp” [(Knapper, 1935, p. 30)](zotero://open-pdf/library/items/SJ9MWPA3?page=30)
+
+> “op de 55ste Algemeene Vergadering van de Nederlandsche Maatschappij tot Bevordering der Geneeskunst (Juli 1904, Breda) werd dan ook op uitnoodiging van het Bestuur het onderwerp:„Zuigelingenvoeding in de armenpraxis" ingeleid door Dr. PLANTENGA en Dr. TEIXEIRA DE MATTOS.” [(Knapper, 1935, p. 30)](zotero://open-pdf/library/items/SJ9MWPA3?page=30)
+
+> “In ditzelfde jaar (1904) kreeg Dr. H. B. L. VOS, de Amsterdamsche gemeente toestemming om in zijn zittinglokaal aan de willemstraat een polikliniek voor zuigelingenen jonge kinderen te openen.” [(Knapper, 1935, p. 30)](zotero://open-pdf/library/items/SJ9MWPA3?page=30)
+
+> “In 1906 verwerkte Dr. STERNEBERG in zijn proefschrift „Onder­ zoek omtrent zuigelingenvoeding en zuigelingensterfte te Nij­ megen en de middelen ter verbetering" het materiaal volgens een eigene wetenschappelijke methode en kwam tot de gevolg­ trekking, dat het verlies aan kinderen, die kunstmatig gevoed waren, zevenmaal grooter was dan dat aan borstkinderen en dat meer dan 70 % der sterfgevallen bij zuigelingen in Juli, Aug. en Sept. door ingewandsziekten veroorzaakt werden. „In­ dien alle kinderen in één jaar tijds natuurlijk gevoed waren, dan zou de sterfte minder dan de helft bedragen hebben!" Hij vond dan ook de hoogste sterftecijfers niet in de eerste plaats bij de armlastigen met groote gezinnen, maar juist bij gezeten werk­ lieden en kleine neringdoenden, zoodra hier de [[borstvoeding]] ontbrak.” [(Knapper, 1935, p. 31)](zotero://open-pdf/library/items/SJ9MWPA3?page=31)
+
+> “MARIE JUNGIUS publi­ ceerde in 1905: „Wenschelijkheid en Werkelijkheid, bijdrage tot de kennis van het leven der arbeidster-moeder" en in 1906 vroeg zij: „Wat doet Nederland voor zijn arbeidsters-kraamvrouwen?” [(Knapper, 1935, p. 32)](zotero://open-pdf/library/items/SJ9MWPA3?page=32)
+
+> “vrouwen?" De zuidelijke provincies bleven voorloopig achter. Weliswaar begon in N. Brabant omstreeks 1900 reeds Het Groene Kruis wortel te schieten, maar dit speciaal neutrale voorzorg­ lichaam bracht het nooit verder dan tot een twintigtal afdeelingen. De bevolking zag nu eenmaal aan de zorg voo” [(Knapper, 1935, p. 32)](zotero://open-pdf/library/items/SJ9MWPA3?page=32)
+
+> “Weliswaar begon in N. Brabant omstreeks 1900 reeds Het Groene Kruis wortel te schieten, maar dit speciaal neutrale voorzorg­ lichaam bracht het nooit verder dan tot een twintigtal afdeelingen. De bevolking zag nu eenmaal aan de zorg voor de gezondheid van het opgroeiende geslacht altijd tevens een ethisch-religieuse zijde en in die richting werd dus steeds gestuurd; het Wit-Gele Kruis nam op den duur de overgroote meerderheid van het werk over en met stijgend succes.” [(Knapper, 1935, p. 32)](zotero://open-pdf/library/items/SJ9MWPA3?page=32)
+
+> “n 1907 werd — zooals Dr. PLANTENGA het uitdrukt — Den Haag” [(Knapper, 1935, p. 32)](zotero://open-pdf/library/items/SJ9MWPA3?page=32)
+
+> “opgeschrikt door een brochure van de hand van Prof. SALTET en Mr. FALKENBURG:„Kindersterftein Nederland"(1881—1905). De stad waar sinds ruim 5 jaar de eerste consultatiebureaux werkzaam waren, kreeg hierin een slecht judicium. Achteraf bleek dit oordeel op een vergissing te berusten, die dan ook ruiterlijk erkend werd. Van 15 groote steden bleek juist Den Haag in die periode uit te blinken, de zuigelingensterfte was daar het meest gedaald. Op het eind werd dit misverstand nog tot een voordeel. Het bekende „Haagsche Onderzoek" en de stichting van de „Haagsche Centrale Vereeniging" waren er het zegenrijke uitvloeisel van.” [(Knapper, 1935, p. 33)](zotero://open-pdf/library/items/SJ9MWPA3?page=33)
+
+> “In 1910 werd te Rotterdam onder leiding van Dr. [[C. NOLEN]] en Dr. HYMANS v. D. BERGH een openbare propagandavergadering gehouden, waarna op 2 Juli het eerste C.B., kort daarna de eerste [[melkkeuken]] geopend werd. Binnen drie jaar een tweede en zoo heeft zich geleidelijk het aantal bureaux tot acht uitgebreid (1930). In 1934 waren er reeds ruim 5000 nieuwe inschrijvingen, d.i. de helft van de in een jaar geborenen.” [(Knapper, 1935, p. 33)](zotero://open-pdf/library/items/SJ9MWPA3?page=33)
+
+> “Een uitzondering mag ik maken voor Utrecht, jarenlang een centrum van activiteit. Ook hier in 1910 oprichting van de „Utrechtsche Vereeniging tot Bescherming van Zuigelingen". De Consultatiebureaux voor gezonde zuigelingen (er zijn er ook voor gezonde èn zieke) en het huisbezoek werden steeds dienstbaar gemaakt aan de verzorging van kraamvrouw en pasgeborene (zoogzusters). Opleiding van bakers en van ver­ pleegsters, van toekomstige artsen.” [(Knapper, 1935, p. 33)](zotero://open-pdf/library/items/SJ9MWPA3?page=33)
+
+> “W. M. KOLFF aan de Amsterdamsche Universiteit den doctorgraad op een proef­schrift over haar „Ervaringen uit een consul­tatiebureau voor moeders in Berlijn, getoetst aan Nederlandsche toestanden.” [(Knapper, 1935, p. 33)](zotero://open-pdf/library/items/SJ9MWPA3?page=33)
+
+First thesis on consultation bureaus
+
+> “Eén historisch moment, dat ik moet vastleggen, alvorens verder te gaan, is de oprichting op den i6en October Opriehungvanden g vaQdenNederlandschen Bond Nedetl. Bond * . ... tot Bescherming van Zuigelin­ gen, op aanstichting van Dr. J. GRAANBOOM, met medewerking van Prof. H. TREUB en Dr. CORN. C. DE LANGE. Doelstelling: al datgene te vereenigen wat tot dien ongeregeld, chaotisch bestond. Taak: al datgene te bevorderen, wat strekken kan tot verbetering van de levensvoorwaarden van den zuigeling.” [(Knapper, 1935, p. 34)](zotero://open-pdf/library/items/SJ9MWPA3?page=34)
+
+So the goal is "levensvoorwaarden"
+
+> “et werk was trouwens in goede handen: J. CARSTENS (Utrecht), B. PLANTENGA (Den Haag), PH. TAMINIAU (Tilburg), Th. v. D. VELDE en E. FRANK uit Haarlem. Vooral deze beide laatsten hadden ruimschoots gelegenheid gehad om hunne wenschen aan de practijk te toetsen, aangezien zij reeds in 1909 met Dr. L. C. KERSBERGEN de „Raad van Bescherming voor den Zuigeling" gesticht hadden, die in nauwe samenwerking met het „Fonds tot behartiging der belangen van minvermogende kraamvrouwen," spoedig nuttig werk deed.” [(Knapper, 1935, p. 34)](zotero://open-pdf/library/items/SJ9MWPA3?page=34)
+
+> “Januari 1910 werd er een [[melkkeuken]] aan toege­ voegd en de „Vereeniging Kraamverzorging door kraamverzekering" opgericht (Dr.v. D. VELDE). Bovendien waren de bekende brochure van Mr. FALKENBURG en Dr. SALTET en het niet minder bekende Haagsche Onderzoek voorafgegaan en be­ studeerden Mr. V. EVERDINGEN en Dr. P. W. ONNEN (1909) de oorzaken van den zomertop der zuigelingensterfte langs wetenschappelijken we” [(Knapper, 1935, p. 34)](zotero://open-pdf/library/items/SJ9MWPA3?page=34)
+
+> “Het Rapport dat v. D. VELDE en FRANK een paar jaren later op het Vierde Internationale Congres te Berlijn (I911) uitbrachten werd onverdeeld als een der beste beschouwd; een weloverwogen logisch opgebouwd stelsel van moederschapszorg in een betrekkelijk kleine provinciestad (Haarlem) diende als voorbeeld.” [(Knapper, 1935, p. 35)](zotero://open-pdf/library/items/SJ9MWPA3?page=35)
+
+> “Maximaal effect" — hiermede eindigde v. D. VELDE toentertijde zijn rede — is enkel te bereiken door stelselmatige ordening, centralisatie „van alle practische maatregelen, die binnen een bepaald rayon „ter bescherming van den pasgeborene kunnen worden toe„gepast. Hierdoor alléén is te voorkomen, dat veel arbeid om „niet of dubbel verricht wordt en de uitgaven noodeloos op­ gejaagd." Historisch van waarde is nog, dat dan ook juist in Haarlem het initiatief genomen werd tot oprichting der Vereeniging „Kraambescherming door Kraamverzekering".” [(Knapper, 1935, p. 35)](zotero://open-pdf/library/items/SJ9MWPA3?page=35)
+
+> “Met de oprichting van den Bond begon in onsland de organisatie, de centralisatie, welke dus nu voor bijna twee jaar haar zilveren feest vierde.” [(Knapper, 1935, p. 35)](zotero://open-pdf/library/items/SJ9MWPA3?page=35)
+
+> “Voorloopig bleef de actie beperkt tot enkele hoofdsteden. Zooals bekend werden reeds van 1906 af in verschillende plaatsen van Nederland instellingen voor prac­ tische zuigelingen- en kraambescherming gesticht. Maar een zeker verband, speciaal tusschen de deskundige leiders der consultatiebureaux, ontbrak.” [(Knapper, 1935, p. 35)](zotero://open-pdf/library/items/SJ9MWPA3?page=35)
+
+> “Een reorganisatie van den Bond in 1913/1914 bracht de gewenschte opleving. „Beschamende zuigelingenBeschamende zui- STERFTE» betitelde Dr. CARSTENS zijn brochure, gehngensterfte! ' die in 1915 overvloedig verspreid werd, zeer sterk de aandacht trok en die zonder twijfel veel invloed ten goede gehad heeft, niet het minst doordat met hare provinciale sterftetabellen tot in de kleinste dorpjes en gehuchten de aandacht van de overheid op den eigen noodtoestand gevestigd werd.” [(Knapper, 1935, p. 36)](zotero://open-pdf/library/items/SJ9MWPA3?page=36)
+
+> “Met zijn bekend vlugschrift „Geboorte-achteruit­ gang en Zuigelingbescherming" heeft Mr. H. W. METHORST hiertoe het zijne bijgedragen. Terwijl in de eerste jaren van de twintigste eeuw de verhoudingen in de groote steden nog altijd slechter waren dan op het platteland, werd het daarna juist omgekeerd en bleek telkens weer dat schade zich veelvuldiger en meer ingrijpend voordeed al naarmate de gemeente minder inwoners telde bij grootere uitgebreidheid.” [(Knapper, 1935, p. 37)](zotero://open-pdf/library/items/SJ9MWPA3?page=37)
+
+> “Erkenning van het nut der organisatie bracht mee dat de oprichting en onderlinge aansluiting van de R.K. Vereenigingen van het Wit-Gele Kruis met groote instemming begroet werd. Met meer succes dan te voren konden nu bestreden worden, niét enkel in deze provincie, maar ook in Limburg en Zeeland, i. grooten achterstand in de [[borstvoeding]], 2. ondoelmatige kunstvoeding, 3. onhygiënische melkwinning, 4. onoordeelkundige verzorging (overvoeding, warmtestuwing, verkleuming, vliegengevaar, con­ tactinfectie), 5- fabrieksarbeid van moeders van jonge kinderen, 6. onvoldoende deskundige hulp bij bevalling en ziekte, 7. on­ hygiënische toestanden (met name slechte rioleering, mest­ vaalten bij de toch al ongezonde woningen, slecht drinkwater, alcoholmisbruik, geslachtsziekten, kwakzalverij en schadelijke overleveringen).” [(Knapper, 1935, p. 37)](zotero://open-pdf/library/items/SJ9MWPA3?page=37)
+
+> “Naast de zeventien vereenigingen, die zich, volgens dit tweede jaarboekje van den Bond, uitsluitend met bescherming van den zuigeling bezig hielden (consultatiebureaux, huisbezoek, voedselverstrekking, [[moedercursussen]]) bestonden reeds een vier en dertig-tal in­ stituten die gedeeltelijk ook op dit gebied werkzaam waren, zooals kinderziekenhuizen, kleuter-bewaarplaatsen, doorgangs­ huizen, toevluchten voor ongehuwde moeders met haar kind, tehuizen voor zuigelingen, poliklinieken, melkkeukens enz. Uit den aard der zaak in hoofdzaak in de groote steden, maar daarnaast toch ook wel in kleinere gemeenten door bemiddeling van Gezondheidscommissies, Gemeentebesturen, Groene, Witte en Wit-Gele Kruisvereenigingen, Nutsafdeelingen, Ons Huis, Volkshuizen enz. Daarnaast nam de verspreiding van kleine, populaire handleidingen, vlugschriften op hetgebied vanvoeding, kleeding enz. toe en trokken de baker- en [[moedercursussen]], vooral in de noordelijke provinciën en in Zuid-Holland, steeds meer belangstelling.” [(Knapper, 1935, p. 38)](zotero://open-pdf/library/items/SJ9MWPA3?page=38)
+
+This towards 1920s
+
+> “Inplaats van een toenemende was er enkel een relatief lang­ zamer afnemende beschadiging waarneembaar.” [(Knapper, 1935, p. 38)](zotero://open-pdf/library/items/SJ9MWPA3?page=38)
+
+During the First World War
+
+> “Toch mogen wij allerminst tevreden zijn," zegt dr CARSTENS, de deskundige en toegewijde —— Bondssecretaris in zijn brochures over de „Nog altijd beschamende zuigelingensterfte" in de periode 1914—1918 en „Dalende, maar nog niet bevredi­gende zuigelingensterfte" in de periode 1919—1923- „Dezelfde „factoren die sterfte veroorzaken knagen evengoed aan de ge­wondheid der overlevenden en dus aan de kracht, aan de wel­vaart, het geluk en het karakter van ons volk.” [(Knapper, 1935, p. 39)](zotero://open-pdf/library/items/SJ9MWPA3?page=39)
+
+> “s het beruchte jaar met zijn abnormaal hoogen „zomertop"). Evenzoo ver­ dienstelijk werk verrichtte Dr. J. VAN DAAL, die in 1919 te Amsterdam promoveerde op:„Ervaringen uit de praktijkomtrent kindersterfte." Ook hier was een geneesheer uit de algemeene praktijk aan het woord met ruime ervaring en eigen meening, behoorlijk gedocumenteerd. Onder meer vestigde deze de aan­ dacht op den funesten invloed van een groot aantal, te snel opeenvolgende geboorten in eenzelfde gezin; op de grootere sterftekans of minderwaardigheid van de later geborenen uit groote gezinnen en van de uit zéér jonge of te oude ouders (speciaal moeders) geborenen.” [(Knapper, 1935, p. 40)](zotero://open-pdf/library/items/SJ9MWPA3?page=40)
+
+Seems to be full of some eugenic thinking
+
+> “Maar aan die be­ perkende benaming geraakten ze allengs ont­ groeid, toensteeds meer ongehuwde meisjes en vrouwen er zich voor opgaven. „Kin” [(Knapper, 1935, p. 41)](zotero://open-pdf/library/items/SJ9MWPA3?page=41)
+
+> “Hier en daar werd het onderricht als leervak opgenomen in het programma van M.U.L.O.- en Middelbare scholen voor meisjes, Huishoudscholen en Landbouwhuishoudscholen. In een enkele stad (Utrecht) kwam het reeds voor in het leerplan van het vervolgonderwijs voor meisjes.” [(Knapper, 1935, p. 41)](zotero://open-pdf/library/items/SJ9MWPA3?page=41)
+
+> “Met Prof. SCHLOSSMAN stem ik ten volle in dat „de allerbeste „zuigelingenbescherming bestaat in grondig onderricht in de „verzorging." Daarom — al nam ik mij voor om dit werk grootendeels vrij te houden van tabellen en cijfers, — kan ik toch niet nalaten om hier te doen volgen een overzicht van de mij bekende kinderzorgiessen, zooals deze in 1923 door den Bond, door Groene, Witte en Wit-Gele Kruisvereenigingen, hier en daar ook wel door particuliere doktoren, bijgestaan door wijkzuster of vroedvrouw, gehouden werden.” [(Knapper, 1935, p. 42)](zotero://open-pdf/library/items/SJ9MWPA3?page=42)
+
+![](file:///C:\Users\vdmee\Zotero\storage\EUL5BIC4\image.png)
+
+> “In hetzelfde jaar kon het „Tijdschrift het Groene en Witte Kruis", dan ook mededeelen dat beide lichamen gezamenlijk 631 moeder- en bakercursussen gaven, verdeeld over 453 plaatsen en in 1927 stelde mejuffrouw Dr. Ch. BADER, inspectrice voor de Volksgezondheid, op verzoek van de hoofdinspectie een Leiddraad voor deze kinderzorgcursussen, verdeeld over een tiental lessen, samen.” [(Knapper, 1935, p. 43)](zotero://open-pdf/library/items/SJ9MWPA3?page=43)
+
+> “Zoowel op de bovengenoemde populaire cursussen als op de&nbsp; Consultatiebureaux heeft men zich beijverd de overheid, de Kruisverenigingen, de leider, zuster om de jonge vrouwen ook iets mee te geven naar huis, ter nadere overweging.” [(Knapper, 1935, p. 45)](zotero://open-pdf/library/items/SJ9MWPA3?page=45)
+
+> “Korte wenken en inlichtingen over [[[[voeding]]|[[voedi]]ng]] en verzorging, raad voor de warme zomermaanden en in periodes van besmet­ telijke ziekten, aanmaning tot het treffen van preventieve maat­ regelen ter bescherming van den zuigeling; kortom vliegende blaadjes in allerlei vorm, van velerlei inhoud en zonder tal.” [(Knapper, 1935, p. 45)](zotero://open-pdf/library/items/SJ9MWPA3?page=45)
+
+Interesting that the consultation offices served to distribute information
+
+> “Een Handleiding bij de Populaire verzorging van den zuigeling handleidingen ^ ^ duidelijk in brochurevorm, telkens her­ zien en tot op de hoogte van den tijd gebracht, werd in 1935” [(Knapper, 1935, p. 46)](zotero://open-pdf/library/items/SJ9MWPA3?page=46)
+
+> “n als nieuwste een [[Consultatiebureau]]-kaart voor schipperskinderen, die, door de verzorgsters bij ieder volgend bureau overgelegd, een meer doeltreffende controle mogelijk maakt.” [(Knapper, 1935, p. 46)](zotero://open-pdf/library/items/SJ9MWPA3?page=46)
+
+> “Jammer genoeg heeft het tijdschrift Onze Kleine, een goed, geïllustreerd maandschrift over zuigelingenverzorging onder redactie van Dr. H. B. L. VOS, het in den crisistijd moeten afleggen.” [(Knapper, 1935, p. 47)](zotero://open-pdf/library/items/SJ9MWPA3?page=47)
+
+> “Een zeer doeltreffende vorm van onderricht in woord en beeld en met demonstratiemateriaal beoogt het bovengenoemde Nat. Museum v. Ouders en Opvoeders, in 1913 gesticht door Dr. J. H. GUNNING, mevrouw M. SANDBERG—GEISWEIT VAN DER NETTEN e.a.” [(Knapper, 1935, p. 47)](zotero://open-pdf/library/items/SJ9MWPA3?page=47)
+
+> “Hygiënisch Museum te Utrecht, dat juist in dezen tijd gemoderniseerd wordt — ik kon er mij persoonlijk van overtuigen — en waarvan leer- en tentoonstellingsmateriaal o.a. over kraam-en zuigelingen­zorg, kan worden uitgezonden, samengaand dikwijls met materiaal op landbouwhuishoudkundig gebied.” [(Knapper, 1935, p. 49)](zotero://open-pdf/library/items/SJ9MWPA3?page=49)
+
+> “Een rondreizende verpleegster van de Vereeniging „Moeder en Kind", leidt [[moedercursussen]] in de provincie Utrecht. Onderling verband der verschillende organisaties vormt o.a. het „Maandblad Het Groene en het Witte Kruis", met gelegenheid voor gedachtenwisseling en verrijking van kenni” [(Knapper, 1935, p. 49)](zotero://open-pdf/library/items/SJ9MWPA3?page=49)
+
+> “1920 liet de Bond een film samenstellen en draaien, die voor dien tijd behoorlijk was uitgevoerd. Dr. CARSTENS was de voornaamste regisseur, Dr. PLANTENGA een der medespelers.” [(Knapper, 1935, p. 49)](zotero://open-pdf/library/items/SJ9MWPA3?page=49)
+
+> “Kort voor dat de Bond tot Bescherming van Zuigelingen in 1929 met nieuwe gegevens kwam, waaruit ten duidelijkste bleek dat in alle provincies, behalve dan Groningen, de zuigelingen­ zorg bloeide — een 250-tal bureaux kon hij reeds aanwijzen voldeed de Regeering aan een wensch, herhaaldelijk reeds door den secretaris in de jaarverslagen en in vlugschriften geuit. Van hoogerhand werd een regeling over het geheele land ge­ troffen, die in 1932 zoo goed als voltooid was.” [(Knapper, 1935, p. 50)](zotero://open-pdf/library/items/SJ9MWPA3?page=50)
+
+> “Het uitvoerende werk werd hierbij overgelaten aan ProvirL'cale Kruisvereenigingen, die zich gaandeweg meer en allengs breeder van opzet met de zuigelingenbescherming belast hadden; dat waren dus in de eerste plaats Groene, Witte en Witgele Kruis-ver-” [(Knapper, 1935, p. 50)](zotero://open-pdf/library/items/SJ9MWPA3?page=50)
+
+Curious which governmental decision this must be..
+
+> “eenigingen, van welke men den zuiversten vorm in Groningen, Friesland en Limburg aantreft. Deze vormen de z.g.n. (federale) Commissies voor de [[Hygiëne]] van het Kind, waarin ook de Nederlandsche Bond tot Bescherming van Zuigelingen zegging­ schap had.” [(Knapper, 1935, p. 51)](zotero://open-pdf/library/items/SJ9MWPA3?page=51)
+
+> “Iedere provincie vormt een district op zichzelf, naar behoefte kan een provincie ook in onderscheidene districten verdeeld worden. In elk district bestaat een centrale leiding: districtskinderarts (bij voorkeur specialist) en districtshuisbezoekster (enquêtrice, bij voorkeur een verpleegster met aanteekening voor kraamverpleging en wijkverpleging). Beide fungeeren als ambtenaren van voornoemde Commissie. Verder Consultatiebureaux, zoo noodig geleid door voornoemde ambte­ naren, maar indien mogelijk door een geneeskundige ter plaatse, bijgestaan door de wijkverpleegster.” [(Knapper, 1935, p. 51)](zotero://open-pdf/library/items/SJ9MWPA3?page=51)
+
+> “Het geldelijke speelt bij deze regeling een rol van beteekenis. De provinciale organisatie draagt de kosten der leiding, maar het Rijk deelt tot een zeker maximum en onder zekere voorwaarden in de kosten van inrichting en opleiding (subsidie). De uitgaven voor de raadplegingsbureaux met hun werkingssfeer, hetzij door centrale dan wel door locale krachten geleid, komen voor rekening van de plaatselijke organisaties (Kruisvereenigingen, Nutsafdeelingen, enz.), aan wie vrijgelaten is om steun te vragen van gemeente of provincie. In 1932, toen deze Staatsregeling, zooals gezegd, haar voltooiing naderde, waren in functie 10 volambtenaren en 10 niet-volambtenaren (provinciale en districtskinderartsen), 22 districtsenquêtrices, 1 docente voor [[moedercursussen]] en enkele assistenten” [(Knapper, 1935, p. 51)](zotero://open-pdf/library/items/SJ9MWPA3?page=51)
+
+1932 Staatsregeling / might be the 1933 new Gezondheidswet
+
+> “Veelal kregen zij haar eigen organisaties, voortgekomen uit particulier initiatief, die belangrijk werk ver­ richtten en die dan ook door de Regeering vrijgelaten werden om haar werk geheel zelfstandig te blijven uitvoeren of om althans leidend op te treden. Zonder aanspraak op volledigheid noem ik hier: i°. de Gemeentelijke Geneeskundige Diensten; 2°. de Vereenigingen en Bonden tot Bescherming van Zuige­ lingen; 3°. de Vereenigingen tot Exploitatie van Consultatiebureaux; 40. de Wijkverplegingen in den uitgebreidsten zin, de z.g.n. Kruisverenigingen; 50. de Vrouwencomité's op godsdienstigen grondslag, neutrale vereenigingen, enz.” [(Knapper, 1935, p. 54)](zotero://open-pdf/library/items/SJ9MWPA3?page=54)
+
+> “Samenwerking met de Staats-organisatie werd wederkeerig steeds gewaardeerd. Zoo werd in 1928 door Dr. B. PLANTENGA opgericht de Nationale federatie van vereeni­ gingen, werkzaam op het gebied der sociale kinderhygiëne, teneinde meer contact en uitwisseling van denkbeelden te bereiken. Veel verder dan tot het denkbeeld is het niet gekomen.” [(Knapper, 1935, p. 54)](zotero://open-pdf/library/items/SJ9MWPA3?page=54)
+
+> “Zoo werd in 1928 door Dr. B. PLANTENGA opgericht de Nationale federatie van vereeni­ gingen, werkzaam op het gebied der sociale” [(Knapper, 1935, p. 54)](zotero://open-pdf/library/items/SJ9MWPA3?page=54)
+
+> “Teneinde den weg naar verbetering te kunnen aangeven heeft de [[Hygiëne]]-Commissie uit den Enquête Hyg. Volkenbond, speciaal de S u b c o mComm. uit den . r Volkenbond missie voor de kinderhygiëne met financiëelen steun van den Bond, in 1930 een uitgebreid onderzoek ingesteld naar de oorzaken der zuigelingensterfte.” [(Knapper, 1935, p. 55)](zotero://open-pdf/library/items/SJ9MWPA3?page=55)
+
+> “Het onderzoek bleef beperkt tot een klein aantal kinderen, maar het geschiedde zéér nauwkeurig. En wat bleek nu? In de groep met de laagste sterftecijfers (Dordrecht en Leiden) bleken voedingsstoor­ nissen weinig, aandoeningen der ademhalingsorganen en be­ smettelijke kinderziekten meer invloed te hebben. De sterfte vóór, tijdens en kort na de geboorte (de z.g.n. „obstetrische periode", voorafgaande aan de „paediatrische" — beide naar mijn smaak heel leelijke woorden, maar een beteren korten uitdrukkingsvorm is tot nu toe niet gevonden) vertoonde den grootsten invloed.” [(Knapper, 1935, p. 55)](zotero://open-pdf/library/items/SJ9MWPA3?page=55)
+
+> “hoe meer de sociale voorzorg er in slaagde om den schadelijken invloed van voedingstoornissen, ziekten der ademhalingsorganen en besmettelijke kinderziekten uit te schakelen, des te duidelijker werd het, dat vooral ook tijdens de geboorte en in den kraamtijd preventie het wachtwoord worden moest.” [(Knapper, 1935, p. 56)](zotero://open-pdf/library/items/SJ9MWPA3?page=56)
+
+> “Door ordening van hooger hand telt gemis aan tijdige verlos­ kundige hulp in dezen tijd minder mee dan vroeger en over­ matige arbeid van de zwangere vrouw en de jonge moeder be­ hoeven als schadefactor nauwlijks meer te worden genoemd, nadat de Ziektewet beschermende maatregelen getroffen heeft.” [(Knapper, 1935, p. 58)](zotero://open-pdf/library/items/SJ9MWPA3?page=58)
+
+> “Op de groote tentoonstelling Moeder en Kind in 1932 in het R.A.I.-gebouw te Amsterdam gehouden, was aan de Moedersc” [(Knapper, 1935, p. 58)](zotero://open-pdf/library/items/SJ9MWPA3?page=58)
+
+> “Ongetwijfeld is ieder kenmerk de reactie van den erfelijken aanleg op de levenswaarden; in zekeren zin dus het product van aanleg en omstandigheden. Maar dat de gedachten van de ouders tijdens de conceptie en van de aanstaande moeder tijdens den groei der vrucht het lichamelijk lot der kinderen zal kunnen beïnvloeden,” [(Knapper, 1935, p. 59)](zotero://open-pdf/library/items/SJ9MWPA3?page=59)
+
+> “wij zullen de mogelijkheid in het midden laten, maar kunnen voor het oogenblik nog niet anders verklaren, dan dat de hier­ voor aangegeven argumenten geenszins steekhoudend zijn. Te gemakkelijk wordt het een vlucht naar het bovenzinnelijke, een afglijden naar het geheimzinnige gebied der magie, een ver­ dwalen in den doolhof van een onbesuisd dilettantisme.” [(Knapper, 1935, p. 60)](zotero://open-pdf/library/items/SJ9MWPA3?page=60)
+
+> “De verhouding tusschen moeder en kind, voorzoover zij door erfelijkheidsverschijnselen bepaald wordt, maakt reeds sinds jaren een Eugenetisch onderwerp van wetenschappelijk onderzoek u}t Weliswaar hebben beide ouders ongeveer gelijken invloed in wisselende samenvoeging, maar de moeder vervult nog een afzonderlijke rol, doordat zij op een deel harer zoons den aanleg tot eigenschappen overbrengt, die zijzelf in 't algemeen niet vertoont, d.i. de aan het geslacht gebondene erfelijkheid.” [(Knapper, 1935, p. 60)](zotero://open-pdf/library/items/SJ9MWPA3?page=60)
+
+Eugenics was just not dominant in these circles.
+
+> “Geleerden als wijlen mej. Dr. v. HERWERDEN trachten nu ook hierin den weg te vinden om het komende geslacht te beschermen. Een reden dus om het niet onge­ noemd te laten, al voel ik mij overigens niet competent om er verder op in te gaan. Nauw hiermee samenhangend is het „Geneeskundig Onderzoek vóór het huwelijk , eventueel vóór de verloving.” [(Knapper, 1935, p. 60)](zotero://open-pdf/library/items/SJ9MWPA3?page=60)
+
+> “Reeds in 1922 werd de Vereeniging van djen naam opgericht en werden in den loop der volgende een drietal adviesbureaux geopend (Rotterdam, Den het huwelijk Haag&gt; Amsterdam; dit laatste tijdelijk buiten functie). Het bezoek bleef tot nu toe zeer beperkt, hoezeer ook de Nationale Vrouwenraad, een Commissie uit den Gezondheidsraad, het Instituut voor Preventieve Geneeskunst e.a. het beginsel met hunne instemming steun verleenden. Nog te veel wordt gesteund op gezond verstand en voldoende verantwoordelijkheidsgevoel. Ten onrechte! Nog veel te veel geldt het onderschrift van het vignet, dat de Vereeniging draagt: „Wat batet kaers of bril, als de uyl niet sien en wil!" De jongste vereeniging van Nieuw Feministen (voorzitster A. C. VEEN-BRONS= FAMKE) waagt het erop om dit moei­lijkste van alle problemen van meer zijden tegelijk aan te snijden.” [(Knapper, 1935, p. 60)](zotero://open-pdf/library/items/SJ9MWPA3?page=60)
+
+> “Een dusie van den Bond met het Nederl. comit&nbsp; voor [[kleuterzorg]] beoogde, ging vooraf. Als landelijke organisatie tracht hij dit te bereiken, niet door zelf handelend op te treden met consultatiebureaux e.d., maar, „door het vormen van een band tusschen vereenigingen, stich­tingen, personen, werkzaam voor de [[hygiëne]] van het kind „voor en na de geboorte, (Centraal Bureau), door samen­werking met de Overheid (Rijksinspectie), met organisaties „in het buitenland, door het voeren van propaganda in woord, „beeld en geschrift, het houden van en deelnemen aan congressen, „het bevorderen van wetenschappelijk onderzoek.” [(Knapper, 1935, p. 61)](zotero://open-pdf/library/items/SJ9MWPA3?page=61)
+
+> “oorts werd in 1929 op initiatief van verschillende hoogleeraren en andere vooraanstaande per­ sonen te Leiden het Instituut voor Preventieve Geneeskunde, directeur Dr. J. P. BIJL, gesticht met het doel om medici met de practijk van dit onderdeel vertrouwd te maken, deze methode toe te passen en nieuwe vraagstukken in studie te nemen. Er worden artsencursussen gegeven, waarop beide, zoowel de sociaal-hygiënische als de medisch-therapeutische zijde van het vraagstuk uitvoerig behandeld worden in A, B en C-cursussen.” [(Knapper, 1935, p. 61)](zotero://open-pdf/library/items/SJ9MWPA3?page=61)
+
+> “Het is enkel jammer dat de in dezen tijd noodzakelijk geworden bezuinigingsmaatregelen van Rijk, provincies en gemeenten een onvoorziene beperking moeten stellen, zelfs aan de meest noodzakelijke wenschen.” [(Knapper, 1935, p. 62)](zotero://open-pdf/library/items/SJ9MWPA3?page=62)
+
+> “Qok de Hoofdinspecteur EYKEL, in zijn nieuwste werk: „Opstellen op het gebied der Volksgezondheid" dringt er met kracht en klem op aan om niet verder af te breken of in de kiem te smoren, maar het zoo heilzame opbouwende werk te laten voortbestaan. Een ernstig, sober artikel, zakelijk zonder pathos, schreef nog B. in „[[[[voeding]]|[[Voedi]]ng]] en [[Hygiëne]]" van Oct. 1934„Juist nu, in dezen tijd is goede voorzorg dringend noodig!" vermaant hij.” [(Knapper, 1935, p. 62)](zotero://open-pdf/library/items/SJ9MWPA3?page=62)
+
+> “nderzijds kan aan propaganda en „exploitatie veel minder geld besteed worden dan voorheen. „De leus moet dus voor allen zijn: ,,Redden wat er nog te redden w!” [(Knapper, 1935, p. 62)](zotero://open-pdf/library/items/SJ9MWPA3?page=62)
+
+> “Te midden van ons volk moet het „besef opleven, dat het over groote mogelijkheden beschikt. „Wat dan de overheid gedwongen is om los te laten, dat kan „het Volk bewaren!” [(Knapper, 1935, p. 63)](zotero://open-pdf/library/items/SJ9MWPA3?page=63)
+
+> “Ten nauwste samenhangende met bovengenoemde voorzorg is de bescherming van den pasgeborene tegen mogelijke besmetting door de naaste omgeving.” [(Knapper, 1935, p. 63)](zotero://open-pdf/library/items/SJ9MWPA3?page=63)
+
+> “Sedert 1906 in studie ge­ nomen en sinds 10 jaren als B.C.G.-vaccin in gebruik, heeft het in al die jaren, bij honderdduizenden toegepast, nooit eenig gevaar opgeleverd. Voor ons land is het de onvolprezen verdienste van Dr. M. HEYNSIUS VAN DEN BERG, dat hij met echt Hollandsche degelijkheid, geduld en vasthoudendheid het vertrouwen in deze methode heeft gegrondvest. Weinig preven­ tieve maatregelen uit de laatste jaren zijn van een even groote waarde! Honderden zuigelingen zijn erdoor gered, duizenden zullen er nog van profiteeren, al moet uit de statistische gegevens van Dr. HEYNSIUS V. D. BERG het besluit getrokken worden,” [(Knapper, 1935, p. 63)](zotero://open-pdf/library/items/SJ9MWPA3?page=63)
+
+> “Inenting tegen diphterie en tegen pokken geschieden dikwijls ook reeds in het eerste levensjaar” [(Knapper, 1935, p. 64)](zotero://open-pdf/library/items/SJ9MWPA3?page=64)
+
+> “Er gingen dan ook al stemmen op(o.a. van Dr. J.ALMA) omde consultatiebureaux enkel als propagandistisch, maar voorzichtigheidshalve niet als uit­ voerend orgaan te bezigen, ten einde de populariteit van den voorzorgdienst niet in 't gedrang te brengen, speciaal niet ten plattelande. Op den goeden weg zijn wij zeker. Ook ten opzichte van de bestrijding van andere infectieziekten bij zuigelingen (reconvalescentenserum). De tijd zal raad schaffen. Het ware onverantwoordelijk om stop te zetten.” [(Knapper, 1935, p. 64)](zotero://open-pdf/library/items/SJ9MWPA3?page=64)
+
+
+## AMSTERDAM[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=67)
+
+> “1900. Enquête omtrent woningtoestanden. Van de 117000 woningen nog 19% een­ kamerwoningen. In 5000 van deze wonen 5 personen en meer.” [(Knapper, 1935, p. 67)](zotero://open-pdf/library/items/SJ9MWPA3?page=67)
+
+> “901. Benoeming van den eersten directeur van den G. G. D. en van geneesheeren met speciale opdracht „om kennis te nemen van sociale factoren, die op den ge­ zondheidstoestand der verpleegden storend kunnen inwerken.” [(Knapper, 1935, p. 67)](zotero://open-pdf/library/items/SJ9MWPA3?page=67)
+
+> “903/4. In werking stelling van de Woningwet. Onbewoonbaarverklaring op groote schaal.” [(Knapper, 1935, p. 67)](zotero://open-pdf/library/items/SJ9MWPA3?page=67)
+
+The Woningwet forms the reason to interfer with health conditions on a municipal level.
+
+> “Instelling vroedvrouwendienst. Dr. H. B. L. polikliniek voor V°S opent in zijn zitt'nglokaal Willemstraat de Eerste Gezuigelingen meentelijke Polikliniek voor zuigelingen en jonge kinderen uit zijn wijk, twee maal per week, met vooropstelling van het preventieve karakter.” [(Knapper, 1935, p. 67)](zotero://open-pdf/library/items/SJ9MWPA3?page=67)
+
+> “1908. Propaganda voor zwangerenbezoek aan de zuigelingenbureaux. Dr. CORNEUA DE LANGE opent in 't Kinderziekenhuis een Goutte de lait.” [(Knapper, 1935, p. 67)](zotero://open-pdf/library/items/SJ9MWPA3?page=67)
+
+> “1909. Dr. GEWIN geeft voorbeeld door een honderdtal Jordaan-moeders van het kraambed af in persoon te blijven bezoeken. Van de 100 zuigelingen werden er zoo­ doende reeds binnen 2—3 weken een 72-tal aan zijn bureau gebracht. Een 26-tal kwamen nog binnen de maand. Geen enkele kwam met kunstvoeding, maar wel bleven er een 20-tal na 1 i 2 bezoeken weg.” [(Knapper, 1935, p. 67)](zotero://open-pdf/library/items/SJ9MWPA3?page=67)
+
+> “1910. Op initiatief van mej. S. LEFÉBURE en Dr. BODO SLINGENBERG, die in Parijs en ^onc^en hadden rondgezien, wordt op de Egelantiersgracht 157 EEN C' B' SeoPend&gt; beknopt, eenvoudig,zindelijk, waar twee maa' Per week:” [(Knapper, 1935, p. 67)](zotero://open-pdf/library/items/SJ9MWPA3?page=67)
+
+> “1911/18. Met medewerking van Prof. H. TREUB en Dr. CORN. DE LANGE stichting Amsterd. Vereen, v. Z u i g e1 i n g e n zo rg.” [(Knapper, 1935, p. 68)](zotero://open-pdf/library/items/SJ9MWPA3?page=68)
+
+> “1919. Stichting van de R. K. Vereeniging voor Zuigelingenzorg, en kort daarna” [(Knapper, 1935, p. 68)](zotero://open-pdf/library/items/SJ9MWPA3?page=68)
+
+> “1920. Voorstel van de dames POTHUIS—SMIT en TILANUS, om het werk van de Vereeniging over te nemen, aangezien deze in een stad van&nbsp; 5Q0 0Q0 z;eien en 14.000 zuigelingen onder controle noch&nbsp; financieel, noch organisatorisch bij machte blijft.” [(Knapper, 1935, p. 68)](zotero://open-pdf/library/items/SJ9MWPA3?page=68)
+
+Municipality interferes
+
+> “1923. De in werking gestelde organisatie breekt baan.” [(Knapper, 1935, p. 68)](zotero://open-pdf/library/items/SJ9MWPA3?page=68)
+
+> “Toch blijkt bij vergelijking van de zuigelingsterfte onder de ver­ schillende groepen der bevolking, nog veel te wenschen over. Hoe lang nog? vraagt BRENKMAN.” [(Knapper, 1935, p. 68)](zotero://open-pdf/library/items/SJ9MWPA3?page=68)
+
+> “924/26. Reeds 8 C. B. in de stad; 3 in de geannexeerde gemeenten, bezocht door de” [(Knapper, 1935, p. 68)](zotero://open-pdf/library/items/SJ9MWPA3?page=68)
+
+> “1929. Tien bureaux dagelijks geopend, een vijftal meerdere middagen en een viertal in het landelijk deel der gemeente enkele keeren per week. In 't geheel 72 zittingen per week. Aan ieder bureau een zuigelingenarts voor dagelijksche raadpleging en moederlessen, een zuigelingenzuster, belast met assistentie en huisbezoek, twee of drie wijk-kraamverzorgsters, een secretaresse, tevens portier, de zusters voor 't Maatsch. Werk in contact met de zuigelingenzuster en een of twee vroedvrouwen, die bij voorkeur tijdens de GB.-uren in eigen localiteitenhetzwangerenonderzoek doen (ruggespraak met Zuigelingenzorg).” [(Knapper, 1935, p. 69)](zotero://open-pdf/library/items/SJ9MWPA3?page=69)
+
+> “1930 v.v. Het aantal bureaux stijgt nog. In 1932 kwamen van de 12230 levend geborenen 7871 aan de bureaux = ± 63%. In 1933 steeg dit tot 67,6%, terwijl het” [(Knapper, 1935, p. 69)](zotero://open-pdf/library/items/SJ9MWPA3?page=69)
+
+> “zoogenaamde volhardingscijfer bijna de 50% bereikt heeft.” [(Knapper, 1935, p. 70)](zotero://open-pdf/library/items/SJ9MWPA3?page=70)
+
+> “elaas stelt de economische crisis paal en perk aan deze ver­ ruiming; er moet zelfs tot bezuinigings-reorganisatie worden overgegaan.” [(Knapper, 1935, p. 70)](zotero://open-pdf/library/items/SJ9MWPA3?page=70)
+
+> “In 1930 oprichting van de Féderatie van Instellingen voor Ongehuwde M o e d e rs (F. I.O.M.) als Nationale organisatie en voor Amsterdam de Unie van Vereenigingen voor Ongehuwde Moeders en hare kinderen (V.V.O.M.) als onder­ deel van instellingen van den Armenraad.” [(Knapper, 1935, p. 70)](zotero://open-pdf/library/items/SJ9MWPA3?page=70)
+
+> “Mits voldoende aan de eischen: 1. hygiënische inrichting, strenge maatregelen tegen infectie, herkeuring na ziekte; 2. deskundige hoofdleiding; 3. vakkundig opgeleide helpsters; 4. regelmatig toezicht door een geneeskundige, die zoo noodig contact zoekt met de moeders; 5. krachtige propaganda voor [[borstvoeding]] in en buiten de inrichting, huiscontröle door Maatschappelijke Werksters,” [(Knapper, 1935, p. 70)](zotero://open-pdf/library/items/SJ9MWPA3?page=70)
+
+![](file:///C:\Users\vdmee\Zotero\storage\YYDVE7VX\image.png)
+
+> “De Vereeniging Zuigelingeninrichting en Kinderhuis, Plantage Middenlaan, die in 1932 haar vijfentwintig-jarig bestaan her­ dacht en de Amsterdamsche Vereeniging tot instandhou­ ding van Kinderbewaarplaatsen, die ruim zestig jaar bestaat, thans met zes dagverblijven, voldoen ruimschoots aan genoemde eischen.” [(Knapper, 1935, p. 73)](zotero://open-pdf/library/items/SJ9MWPA3?page=73)
+
+> “Ook aan de R. K. S i n t A n n a - V e r e e n i g i n g, dag- en nachtverblijf, werken jonge meisjes van de R. K. school v. M. W. en van de huishoudschool, echter zonder formeele opleiding. Alles met elkaar toch een chèque op de toekomst!” [(Knapper, 1935, p. 73)](zotero://open-pdf/library/items/SJ9MWPA3?page=73)
+
+
+## MAASTRICHT[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=73)
+
+
+# HOOFDSTUK II Het [[Consultatiebureau]][ ](zotero://open-pdf/library/items/SJ9MWPA3?page=78)
+
+> “Op mijn zwerftochten door het land heb ik ze waargenomen, de bureaux, in alle denkbare vormen, onder alle mogelijke verhoudingen. Groote, ruime en kleinere, bekrompene. Enkele met een zekere weelde, althans met smaak en kunstzin ingericht, andere stijf en strak van uitvoering, zonder stijl, koud van toon.” [(Knapper, 1935, p. 78)](zotero://open-pdf/library/items/SJ9MWPA3?page=78)
+
+> “Ik heb er bezocht, die feitelijk geen bureaux mochten genoemd worden, maar die toch qua zuigelingenzorg of raadpiegingsdienst ruimschoots voldeden de gestelde eischen en die dan ook de beste resultaten opleverden.” [(Knapper, 1935, p. 78)](zotero://open-pdf/library/items/SJ9MWPA3?page=78)
+
+> “De wijkzuster van het Witte Kruis, tevens kraamverpleegster, assisteert bij het overgroote deel der bevallingen en begint de contróle dus reeds in den kraamtijd. Voor zoover de vroedvrouw de verlossingen leidt, gaat het toezicht op den zuigeling toch reeds van den tweeden dag af op de wijkzuster over. Zoodoende bezit deze een volledige lijst van alle zuigelingen en bovendien van alle aanstaande moeders. Zij bezoekt ze alle, voor en na de bevalling te voet, op de fiets, per schuit, bij slecht weer zooveel mogelijk per wagen of per auto.” [(Knapper, 1935, p. 78)](zotero://open-pdf/library/items/SJ9MWPA3?page=78)
+
+> “Op vaste tijden brengt zij rapport uit aan den geneesheer, die zoo noodig het werk der zuster bekrachtigt, aanvult. De praenatale zorg neemt hij geheel voor zijn rekening en doet dit naar den eisch.” [(Knapper, 1935, p. 79)](zotero://open-pdf/library/items/SJ9MWPA3?page=79)
+
+Hiërarchical relationship nurse-doctor
+
+> “hoogtezon-organisatie” [(Knapper, 1935, p. 79)](zotero://open-pdf/library/items/SJ9MWPA3?page=79)
+
+> “Driemaal per week, van 2 tot 6 uur. In drie afzonderlijke, zeer eenvou­ dige localiteiten, over de zeer uitgestrekte gemeente doelmatig verspreid, komen de moeders op voor ieder van haar opengehouden tijdstip ter bestraling van de kiemen, die vooraf onder de bekende voorzorgen door den dokter zijn uitge­ kozen. Dit nu kunnen de moeders wel, een of meer keeren per week. Zij weten, dat zij er met een kwartiertje af zijn en bovendien is de afstand naar haar lokaal zoo klein mogelijk gekozen (hoogstens 2 kilometer). Bovendien, 't besef dat er iets speciaal aan haar kind „gedaan" wordt! Een drietal clubjes, ieder van vier dames uit de gemeente, belasten zich vrijwillig met het toezicht, met 't bezighouden der kleinen tijdens de bestraling en handreiking aan de moeders. Dokter en zuster houden oppertoezicht. De resultaten zijn zeer goed. Met medewerking van het Witte Kruis hoopt men te zijner tijd tot eenvoudige, maar beter ingerichte Solaria te kunnen komen. In 1933 waren 74 kindertjes onder bestraling. De moeders betalen slechts 5 cent per bestraling voor stroomkosten. Alle gegevens worden in een kaart­ systeem ondergebracht. Kan men zich in dit geval betere preventie denken? Zonder dat ik het onmiddellijke verband zonder meer zou wenschen te verdedigen, is het toch wel merkwaardig en verheugend, dat in deze praktijk in twee jaren geen enkel sterfgeval onder het jaar voorkwam!” [(Knapper, 1935, p. 79)](zotero://open-pdf/library/items/SJ9MWPA3?page=79)
+
+I have actually no clue what "bestraling" could mean?I know now that this refers to "zomerwarmte (see p. 114)
+
+> “Ook hier zou mijns inziens een dergelijk systeem grootere kans van slagen hebben dan een enkel [[consultatiebureau]]. Maar een eerste vereischte is daarvoor: een door­ loopend groote belangstelling en samenwerking van geneesheeren, vroedvrouw, wijkzuster en meer ontwikkelde vrouwen uit de gemeente. Dan is er zelfs be­ trekkelijk weinig geld mee gemoeid; minder allicht dan voor de inrichting en exploitatie van een volledig [[consultatiebureau]]!” [(Knapper, 1935, p. 79)](zotero://open-pdf/library/items/SJ9MWPA3?page=79)
+
+> “In diezelfde streek heeft een bepaalde kring van geneesheeren na onderling overleg besloten om geen centraal bureau in hunne gemeenten te openen” [(Knapper, 1935, p. 79)](zotero://open-pdf/library/items/SJ9MWPA3?page=79)
+
+> “Niet dat zij zich onbewust waren van de groote sociale waarde van een goede zuigelingenzorg, liever gezegd moedeschapszorg. Integendeel! Maar ieder van hen&nbsp; is overtuigd, dat in zijn gemeente al datgene&nbsp; geschiedt, wat van een goede preventie mag verwacht worden.” [(Knapper, 1935, p. 80)](zotero://open-pdf/library/items/SJ9MWPA3?page=80)
+
+> “Zoodra men leest, dat ergens in de provincie Utrecht in een kleine tuinstad de geneesheeren zich gesteld hebben tegenover de consultatiebureaux, omdat zij meenen dat door den Gemeente­ lijken Geneeskundigen Dienst en door de ziekenfondsen iedere moeder die zich aanmeldt met klachten over haar kind, alle noodige hulp krijgen kan, dan voelt men hier door hunne argu­ menten heen de fout gemaakt: verwarring van curatieve en preventieve hulp. Wordt de eerste gezocht, dan is het voor de laatste reeds te laat — en dat is toch immers de quintessence!” [(Knapper, 1935, p. 80)](zotero://open-pdf/library/items/SJ9MWPA3?page=80)
+
+> “Evenwel, ik ken de bovengenoemde streek, ik ken de leidende medici, ik weet dat zij èn door nauw contact met twee universi­ teiten, artsencursussen etc. vaardig zijn om hun woord gestand te doen. Zij kennen de bevolking. Van elk gezin weten zij de omstandigheden, zij kunnen al het noodige te weten komen over iedere opvoedster, over eiken zuigeling. De vroedvrouwen werken hen in de hand, de wijkzusters bezoeken wekelijks, althans op geregelde tijden en lichten de medici zoo noodig in. Zij beheerschen hun vak, óók wat betreft de sociaal-medische vraagstukken. Zij meenen bovendien op deze wijze de bezwaren te elimineeren, welke aan de dorpsconsultatiebureaux kunnen kleven, te weten, i. transport van de zuigelingen door weer en wind op vaste tijden; 2. de onmogelijkheden voor den leider om zich altijd te bepalen tot raad aan het gezonde kind en 3. aantasting der goede collegiale verhoudingen.” [(Knapper, 1935, p. 80)](zotero://open-pdf/library/items/SJ9MWPA3?page=80)
+
+This is interesting. Collective activities towards child health did not initially take the shape of consultation offices. As a strong curative network (Utrecht) was seen as opposing the necessary child mortality
+
+> “„Overbodigheid van zuigelingenconsultatiebureaux komt eerst „dan in het geding, zoodra alle artsen alle zuigelingen onder „regelmatige controle hebben. Eerder niet!" — schreef terecht mevr. E. v. B. in het Tijdschr. v. Soc. Geneeskunde.” [(Knapper, 1935, p. 81)](zotero://open-pdf/library/items/SJ9MWPA3?page=81)
+
+> “Hetzelfde gebeuren zag ik in een stadje in het Noorden van Friesland op bescheidener schaal. De beide geneesheeren ter plaatse konden het niet eens worden over de stichting van een bureau, terwijl de bevolking zelve eenigermate geremd werd bij het vragen van medisch advies voor 't gezonde kind, doordat het Ziekenfonds een zeker bedrag per consult aan de verzekerden” [(Knapper, 1935, p. 81)](zotero://open-pdf/library/items/SJ9MWPA3?page=81)
+
+> “in rekening brengen mag.” [(Knapper, 1935, p. 82)](zotero://open-pdf/library/items/SJ9MWPA3?page=82)
+
+> “De jonge, energieke vroedvrouw hakte toen den knoop door. En met succes. Zoo zijn er nog enkele plaatsen over het land verspreid, waar de vroedvrouw het [[consultatiebureau]] vervangt.” [(Knapper, 1935, p. 82)](zotero://open-pdf/library/items/SJ9MWPA3?page=82)
+
+> “uster PRUDENTIA uit het klooster gaat nu alle Zusier Prudentia zuigejingen regelmatig na, weegt ze, contröleert de [[voeding]], alléén geeft raad, houdt doorloopend contact met de beide geneesheeren in een aangrenzende grootere plaats, waar de organisatie wèl fungeert, en brengt er tenminste nog zooveel mogelijk van terecht. Toch kwamen er aan één bureau, waar ik bij zat, na elkaar 3 nieuw ingeschrevenen met enkel papfleschvoeding!” [(Knapper, 1935, p. 82)](zotero://open-pdf/library/items/SJ9MWPA3?page=82)
+
+> “Maar ook weet ik een zeker doktersbureau in de Duinstreek. Het was er tenminste voor kort. De geneesheer liet het samen­ vallen met zijn gewone spreekuur; moeders met gezonde zuige­ lingen kwamen er tusschen de zieken door; de zuigelingen werden niet uitgekleed; dikwijls brachten de moeders het gewicht van het kindje mee op een briefje van drogist of kruidenier!” [(Knapper, 1935, p. 82)](zotero://open-pdf/library/items/SJ9MWPA3?page=82)
+
+> “Eén uur per week stelt hij voor de zuigelingencontrole beschikbaar, „dan behoeven ze niet naar de Gemeentelijke Bureaux" (?!) Dokter moet dikwijls een uur of langer op zich laten wachten, opgehouden door de praktijk. Ook is hij menigmaal zeer gehaast: ander werk wacht! Het gewicht brengt moeder mee op een briefje. Een voedings­regeling krijgt zij mee, dikwijls voor drie maanden en langer! Dat zijn geen Consultatiebureaux! Die hebben met zuigelingen­zorg niet eens den naam gemeen! Die konden beter achterwege blijven! Zij leiden dan ook wel tot mislukking op plaatsen, waar inderdaad behoefte is. In alle gevallen zijn het schadelijke uitwassen van een goed systeem.” [(Knapper, 1935, p. 82)](zotero://open-pdf/library/items/SJ9MWPA3?page=82)
+
+Fascinating how physicians opposed consultation offices.
+
+> “In 't Noord-Oosten, ergens op de hei is een bureau in het eenige cafétje van een onaan­ zienlijk gehucht, maar dat het voordeel oplevert, dat het van alle zijden over de heipaden bereikbaar is. Op 't gestelde uur verzamelen zich dan ook een tiental moeders met hare zuigelingen in de gelagkamer. Zij kleeden de kindertjes uit dilr waar ze maar een plekje vinden. De dokter uit de buurt komt per auto, brengt dit keer de wijkzuster mee, een volgende keer de vroedvrouw, die de kleintjes wegen: op het biljart, waar ook de lijsten gereedliggen. Dokter loopt rond langs de moeders die, aan den wand zittend, alweer bezig zijn om de zuigelingen aan te kleeden. Hij is vriendelijk en voorkomend, geeft allerwegen raad, óók wel op verzoek een „receptje" voor andere gezinsleden en verlaat tenslotte de gelagkamer naar de woning van de herbergierster die voor eigen zieken raad vroeg. Binnen een kwartier is alles afgeloopen.” [(Knapper, 1935, p. 83)](zotero://open-pdf/library/items/SJ9MWPA3?page=83)
+
+> “Alles goed en wel. Maar dat is toch per slot van rekening even­ min een [[consultatiebureau]]! Enkel met een weegschaal leidt men toch geen „[[consultatiebureau]]!" Zoo iets zou men op z'n best een weegstation mogen noemen. Maar daarvoor behoefde zich de zeer geziene dorpsarts, met een groote, uitgestrekte praktijk, toch niet tijd en moeite te geven. Zóó kan de zuster of vroed­ vrouw het alléén wel af. Kan het anders? Stellig!” [(Knapper, 1935, p. 83)](zotero://open-pdf/library/items/SJ9MWPA3?page=83)
+
+Interesting that measurement alone was not enough - remains unclear, however, what then counts as a consultationbureau.
+
+> “Trouwens in deze buurtschappen, waar de districtsverpleegster mij in haar kleinesierlijke 6 PK Austin rondreed, kon ik mij telkens” [(Knapper, 1935, p. 83)](zotero://open-pdf/library/items/SJ9MWPA3?page=83)
+
+> “weer overtuigen, hoe door ineengrijpen van sociale maat­ regelen, zooals woningverbetering, rationeele [[voeding]] (groententeelt, vruchten) hygiënische verzorging, deskundige voorlichting, cursussen in wijkverpleging en kraamverzorging, de grondslagen gelegd worden voor een winstgevende zuigelingenbescherming. (Centrale Vereeniging voor den economischen, cultureelen en hygiënischen op­ bouw van Drente).” [(Knapper, 1935, p. 84)](zotero://open-pdf/library/items/SJ9MWPA3?page=84)
+
+This is important! Child health care completed other social institutions.
+
+> “Ergens aan het „Doode Water", in een visschersplaatsje met een zeer conservatieve bevolking, zoowel op godsdienstig gebied als in zeden, gewoonten, kleederdracht, bezocht ik het Groene-Kruisbureau, dat nu ongeveer drie jaar werkt en ongeveer T % van alle zuigelingen onder toezicht heeft.” [(Knapper, 1935, p. 84)](zotero://open-pdf/library/items/SJ9MWPA3?page=84)
+
+> “Gevestigd in In de tooneelzaal . . . ,, „ , , „ ^ , , . . het Vereemgmgsgebouw „Volksbelang . Dokter, zuster, uitkleedtafel en weegschaal tronen op het podium; de moeders zitten in een wijden kring in de zaal om het podium heen, kleeden op schoot uit en aan. De jongste zuigelingen zijn nog in het„pak", de ouderen meestal in de inheemsche dracht, de minderheid in „burger". Een stijve halsdoek, een stijve middeldoek, minstens drie maanden lang een strakken navelband, dikke kousjes, dikke zwarte mutsjes of hoedjes. Het kost veel moeite om dit geleidelijk anders te krijgen. Bijna iedere jonge moeder lijdt aan kloven in de tepels, die door het keurslijf plat gedrukt en geschrompeld zijn. De zuster behandelt dit euvel met de zgn. „Koude Föhn". Dat geeft haar handen vol werk; maar het helpt prachtig en heeft al heel wat „borstvoedingen" gered.” [(Knapper, 1935, p. 84)](zotero://open-pdf/library/items/SJ9MWPA3?page=84)
+
+> “Preventie wordt niet altijd aanvaard; _ ... dohyfral, levertraan worden nog al eens afgewezen. Toch is er kentering. Ook een der predikantsvrouwen was er dien middag met haar jongste! Door slechte woningtoestanden (éénkamerwoningen met bedsteden worden nog nieuw gebouwd!) is ziekte en sterfte van zuigelingen aan bronchitis etc. abnormaal groot in aantal, terwijl toch voedings­stoornissen al véél minder voorkomen. Het bureau is zeer populair. „Ze hadden er al veel eerder mee moeten beginnen!" zeggen de moeders. Van een half uur rijden ver en langer komen ze met den wagen naar het bureau. Maar aan rust en koelte in de zomermaanden, aan gelijkmatige verwarming in den winter ontbreekt nog heel wat voor de jongste generatie.” [(Knapper, 1935, p. 84)](zotero://open-pdf/library/items/SJ9MWPA3?page=84)
+
+This implies that some belief systems oppose prevention, but that the problem of child mortality helped legitimise perceived urgency.
+
+![](file:///C:\Users\vdmee\Zotero\storage\RAKYD8YX\image.png)
+
+![](file:///C:\Users\vdmee\Zotero\storage\282IMV54\image.png)
+
+![](file:///C:\Users\vdmee\Zotero\storage\BV52KR5I\image.png)
+
+> “Het trappenhuis naar de bovenverdieping is door een provisoire deur afgesloten en ook de gang zelf des winters verwarmd, teneinde warmteverlies uit de kamers te voorkomen. In dit eenvoudige, maar doelmatige complex komen driemaal per week minstens honderd moeders met hare zuigelingen raad vragen.” [(Knapper, 1935, p. 87)](zotero://open-pdf/library/items/SJ9MWPA3?page=87)
+
+This reveals that the consultation office is mostly about actual consultation.
+
+> “Dan weet ik ergens in een Ghetto een houten gebouw temidden van de overmatig&nbsp; drukke' woe,if?e bevolking. De dokterskamer ziet uit op een groote kinderspeelplaats, waar de jeugd zich luidruchtig vermaakt. Onverzwakt dringt tot hier door het lawaai van de markt, die rondom het speelterrein gehouden wordt. In de uitkleedkamertjes vermengt zich het geroezemoes der praatgrage moeders en het getier der kleintjes met de conversatie der oud-kleerkoopers, die vlakbij den ingang hun kostelijk bezit omruilen of verkoopen. Het is een bijenkorf binnen en buiten! Toch wordt hier uitstekend werk verricht. Het bureau is juist op die plaats, in dit milieu onmisbaar en wordt dan ook druk bezocht. De staf, die er werken moet, heeft er de meerdere inspanning graag voor over.” [(Knapper, 1935, p. 87)](zotero://open-pdf/library/items/SJ9MWPA3?page=87)
+
+> “Maar bevoorrecht zijn toch zij, die het werk mogen doen in een der nieuwste gebouwen van den G.G.D. in hoofdstad, zooals zij daar liggen op ruime pleinen of in stille parken en toch zoo dicht mogelijk aanleunend aan de wijken, welke zij bestrijken. Hier is alles ruim, frisch, doelmatig, sierlijk, getuigend van den goeden smaak der ontwerpers. Hierin is de eigene sfeer van de „zuigelingenzorg zooals het groote publiek haar noemt, wel het best benaderd. Groote parkeerruimten binnen, verwarmde wachthallen, uitkleedkamers, quarantainekamertjes met boxen, ruime en toch gezellig ingerichte dokterskamers, storingvrij en voorzien van alles wat noodig is, maar ook niet meer. Van deze localiteiten alléén reeds moeten de bezoeksters een prettigen indruk mee naar huis nemen. Het is verheugend dat dit ook reeds elders in het land tot navolging leidde. Navolging óók ten opzichte van het zwangeren-onderzoek,dat indergelijke ruime bureaux zonder bezwaar gelijktijdig met de zuigelingen­consultatie kan geschieden.” [(Knapper, 1935, p. 87)](zotero://open-pdf/library/items/SJ9MWPA3?page=87)
+
+Interesting how this is portrayed as an "ideal situation". It thus seems that scale is really a top-priority. Fascinating that the Amsterdam lead was not followed.
+
+> “De weegschaal! De pièce de résistance van elk [[consultatiebureau]]. Voor de moeder of verzorgster van het kind méér nog ^an voor dokter en zuster. Waar ik ook kwam en mee luisterde, overal was de eerste vraag: „hoeveel is het aangekomen?" En of het nu betrof de vrouw van den onderwijzer of van den predikant, van den winkelier, van den landbouwer, visscher, straatventer, altijd weer, honderd keer op een dag, moet dan dokter verzekeren dat het toch allerminst noodzakelijk is, dat de kleine altijd maar door evenveel in gewicht toeneemt, dat er zooveel andere, waardevollere fac­toren zijn, waarmede rekening mag worden gehouden. Moet niet juist een sterke gewichtstoename met een zekeren argwaan beschouwd worden? De natuur gaat immers haar eigen weg, geheel buiten dressuur en cultuur om!” [(Knapper, 1935, p. 88)](zotero://open-pdf/library/items/SJ9MWPA3?page=88)
+
+This is great stuff, it shows the DEMAND for measurement; great argument AGAINST medicalisation!
+
+> “Ik trof leiders die deze klip trachtten te omzeilen door in 't geheel niet met de moeders over 't gewicht te spreken of het hoogstens op een kaart ingevuld mee naar huis te geven. Het eerste laat zich slechts toepassen in zeer bijzondere gevallen, het laatste verschuift de moeilijkheid naar een oogenblik, waarop het niet meer mogelijk is om geruststellend of corrigeerend op te treden.” [(Knapper, 1935, p. 88)](zotero://open-pdf/library/items/SJ9MWPA3?page=88)
+
+> “Neen, met deze eigenaardige, zeer verklaarbare en vergeeflijke instelling der moeders moet de leiding van het bureau nu eenmaal rekening houden, wil zij haar populariteit niet verliezen.” [(Knapper, 1935, p. 88)](zotero://open-pdf/library/items/SJ9MWPA3?page=88)
+
+OMG - this reveals that meassurement had as its social function to gain popularity (it did not serve another purpose)?
+
+> “In enkele der grootste bureaux vond ik de superieure snelweegschalen, van Berkei's patent e.a. Zij zijn vrij kostbaar, te duur zeker in dezen tijd, behooren zuiver te worden afgesteld en zijn dus zeer ge­ voelig voor verplaatsing, veel minder voor slijtage. Het groote voordeel is, dat zij zeer nauwkeurig zijn, van beide zijden af­ leesbaar en zeer stabiel, zoodat vergissingen zoo goed als buiten­ gesloten zijn. Noodzakelijk zijn ze echter niet, zelfs niet aan de bureaux met grooten toeloop. Met de z.g.n. Babyweegschalen, mits van qualiteitsmerk, goed opgesteld en niet ingesleten, kan men het uitstekend doen.” [(Knapper, 1935, p. 88)](zotero://open-pdf/library/items/SJ9MWPA3?page=88)
+
+> “or het wegen in de wijk door de zuster of de vroed­ vrouw. Daarentegen bevat de instructie van de gemeentelijke vroedvrouw in de hoofdstad het advies om den pasgeborene aan huis niet te wegen; ten deele wegens gevreesde onnauwkeurigheid met slecht weegmateriaal, ten deele om te voorkomen dat de z.g.n. physiologische gewichtsdaling kort na de geboorte, de moeders te veel zou verontrusten.” [(Knapper, 1935, p. 89)](zotero://open-pdf/library/items/SJ9MWPA3?page=89)
+
+> “Wel zag ik aan enkele doktersbureaux, maar ook tot mijn verwondering aan een enkel grootestadsbureau, een weegschaal in gebruik, die zelfs bij de meest volmaakte handigheid, bij het grootste geduld, geen juist gewicht kon aangeven, aangezien zij krachtens haar constructie enkel geschikt bleek voor levenloos of liever bewegingloos materiaal; groenten, vleesch enz. Dit nu acht ik principieel fout. Zoodra er bij het wegen maar „een slag in geslagen" moet worden, is het vertrouwen der moeders verloren. En vraag niet hoe zich het wantrouwen in iets wat zij nu eenmaal als het gewichtigste beschouwen, verspreidt.... als een olievlek!” [(Knapper, 1935, p. 89)](zotero://open-pdf/library/items/SJ9MWPA3?page=89)
+
+Fascinating - measurement seems to serve the purpose of gaining TRUST. It negotiated the relationship between caretakers and mothers.
+
+> “Teneinde rustig te kunnen werken en ook wel om tijd te sparen bij druk bezoek geven vele leiders er de voorkeur aan, dat het wegen in de [[wachtkamer]] of uitkleedkamer geschiedt door de zuster, een assistente of door de secretaresse. Kleine fouten kunnen dan weliswaar niet onmiddellijk gecorrigeerd worden ieder leider beseft dat dit voor een enkel keer er niet op aan komt — en de grootere verschillen, onverwacht en onverklaar­ baar, blijven den dokter evengoed opvallen.” [(Knapper, 1935, p. 90)](zotero://open-pdf/library/items/SJ9MWPA3?page=90)
+
+> “Mij persoonlijk deed rust en orde in de consultatiekamer toch altijd het weldadigst aan. Iedere moeder moet zoo veel als doenlijk ervaren, dat zij haar wenschen, haar klachten, al haar kleine zorgen, die zij dikwijls van te voren zorgvuldig gememoreerd of genoteerd heeft — denk maar eens aan de lange lijstjes! — eventjes rustig aan den dokter kan voorleggen en dat zij zijn advies kalm verwerken kan.” [(Knapper, 1935, p. 90)](zotero://open-pdf/library/items/SJ9MWPA3?page=90)
+
+It seems that consultation office care is much based on demand, not necessarily on justifying supply.
+
+> “Behalve aan een bureau in de Hofstad. Daar staan de weeg­ tafels in het midden van de zaal, de moeders zitten langs den wand rondom. Het kan zijn dat de macht der gewoonte veel overwint, maar anders schijnt het mij bijna ondoenlijk voor de moeders om te luisteren, voor de doctoren om te onderrichten. Iets aparts maakte ik mee aan het bureau in een visschersplaats, gehouden door een [[kinderarts]] uit de „stad", die bekend staat om zijn ongeremd enthousiasme voor dezuigelingenbescherming. Zoodra de zuster of hijzelf bespeurt, dat een moeder haar „eigen bezwaren" heeft, laat hij haar op een rustiger oogenblik terugkomen of indien dit niet gaat, laat hij voor een oogenblik de kamer geheel ontruimen, sluit de deur en laat de moeder haar hart eens vrijelijk uitstorten, ook al duurt hierdoor het „consult" bedenkelijk lang!” [(Knapper, 1935, p. 91)](zotero://open-pdf/library/items/SJ9MWPA3?page=91)
+
+> “Mijn collega V. D. ZANDE heeft indertijd (1924) in het Tijdschrift v. Sociale Geneeskunde een uitvoerig plan geschetst voor een ideaal-zuigelingenbureau en daarbij juist aan het voorkomen van contact-infectie zijn bijzondere aandacht geschonken.” [(Knapper, 1935, p. 91)](zotero://open-pdf/library/items/SJ9MWPA3?page=91)
+
+Shows a bigger focus on infectious disease instead of nutrition.
+
+> “Terecht wijst V. D. ZANDE in bovengenoemd artikel op de wenschelijkheid van een rustig zoogkamertje, ' waar dokter of zuster de zoogtechniek, de zog­capaciteit kan beoordeelen, dit laatste vooral in die gevallen waar uitstel toteen volgend bezoek ongewenscht is.” [(Knapper, 1935, p. 92)](zotero://open-pdf/library/items/SJ9MWPA3?page=92)
+
+> “Ik herinner mij, hoe ergens in Zeeland dit ongerief de eenige reden van slecht bezoek was; nauwlijks was er in voorzien of het bezoek nam toe. Als een bijzonder voordeel van een ruime, overdekte parkeergelegenheid noemde mij een wijkzuster, dat de moeders dan niet doorloopend de kinderen op schoot be­ hoeven te houden. In den wagen zijn ze nu eenmaal gewend en dus eerder rustig. Op de Hygiënische Tentoonstelling van het Groene Kruis in Utrecht zag ik het model van een G. K.gebouw met [[consultatiebureau]], waar speciaal aan een overdekte parkeerruimte voor kinderwagens gedacht was.” [(Knapper, 1935, p. 93)](zotero://open-pdf/library/items/SJ9MWPA3?page=93)
+
+> “Indien de uitkleedkamer niet ruim is en geriefelijk ingericht, dan duurt de voorbereiding veel te lang.” [(Knapper, 1935, p. 93)](zotero://open-pdf/library/items/SJ9MWPA3?page=93)
+
+Problematic, because not efficient
+
+> “En herhaaldelijk uitstel tot een volgende zitting . . . dat zou eerst recht de populariteit kunnen schaden! Ik ken bureaux in de zuidelijke provincies, juist daar waar een goede zuigelingen­ zorg in staat is om de volkskracht aanzienlijk op te voeren, gesteund als zij wordt door geestelijkheid en overheid, waar op één enkele zitting in een paar uren tijd honderd en méér zuigelingen de revue passeeren.” [(Knapper, 1935, p. 94)](zotero://open-pdf/library/items/SJ9MWPA3?page=94)
+
+First time I have seen the necessity of "Volkskracht"
+
+> “Het is geen uitzondering dat de bevolking van 30—36 (ring-) dorpen en gemeenten op één Centraal bureau aangewezen is. Indertijd _ ... (T. v. Soc. Geneesk. 1926) heeft v. D. ZANDE De een plan gemaakt en een ontwerp voor een Rondreizend [[Consultatiebureau]], naar het voorbeeld van Ontario (Canada), waar reeds sinds verscheidene jaren een Reizend [[Consultatiebureau]] met groot succes werkzaam is (mevrouw J. v. HOOGENHOUCK TULLEKEN—DIGNAM).” [(Knapper, 1935, p. 94)](zotero://open-pdf/library/items/SJ9MWPA3?page=94)
+
+Interesting that a driving consultation office was inspired by the example of Ontario.
+
+> “ier en daar, waar de verhoudingen er zich toe leenen, zou men nog kunnen probeeren met de oprichting van zoogenaamde weeg­ stations, zooals deze voor tien jaar reeds door Weegstations? KOENEN werden aanbevolen. In de ringdorpen dus, door wijkzuster of vroedvrouw geleid, en van waaruit de zuigelingen slechts van tijd tot tijd naar het C.B. behoeven af te vloeien. Er kleven echter aan dit systeem vele bezwaren. Overal liggen voetangels en klemmen!” [(Knapper, 1935, p. 96)](zotero://open-pdf/library/items/SJ9MWPA3?page=96)
+
+> “Maar dan zal men toch op den duur moeten overgaan,eenerzijds tot een behoorlijke geldelijke vergoeding naar&nbsp; verhouding van de praestaties, anderzijds tot brengen van al deze dorpsartsenbureaux binnen een zelfde organisch verband. Langs een geheel anderen weg zou de genoemde beperking nog wel te omzeilen zijn. Ik wil niet nalaten om dezen te noemen, echter zonder te bedoelen, dat ik er mee sympathiseer. Dat is het heffen van een zekere betaling per keer, per maand, per jaartoezicht.” [(Knapper, 1935, p. 96)](zotero://open-pdf/library/items/SJ9MWPA3?page=96)
+
+How to fund these practices
+
+> “Hier en daar zag ik wel busjes geplaatst, waarin, geheel onverplicht, de moeder iets storten kan, bijvoorbeeld voor uitgeleend of verstrekt verpleegmateriaal, voor een enkel zalfje, een smeerseltje, een pleisterstrook e.d.” [(Knapper, 1935, p. 96)](zotero://open-pdf/library/items/SJ9MWPA3?page=96)
+
+> “Aan enkele bureaux van particuliere vereenigingen, die reeds van den aanvang af zonder overheidssubsidie werken, of waar de subsidie van een” [(Knapper, 1935, p. 96)](zotero://open-pdf/library/items/SJ9MWPA3?page=96)
+
+> “zekere betaling afhankelijk is gesteld (Den Haag), wordt een soort knipkaarten afgegeven tegen een billijke vergoeding, of anders maandkaarten.” [(Knapper, 1935, p. 97)](zotero://open-pdf/library/items/SJ9MWPA3?page=97)
+
+> “Overigens kan men zeggen, dat tot nu toe de toegang tot deze voorzorg over het geheele land voor iedere moeder met haar kind kosteloos is, vrij van eenige beperking en in volkomen gelijkstelling. Beschouwd als maatregel van sociaal-hygiënische strekking, kan men zich hierover slechts verheugen. Collega BRENKMAN laat niet na om telkens weer op de bijzondere voor­ deden te wijzen. Maar . . . zal het zoo kunnen blijven, nu aller­ wegen staats-, provincie-, gemeente- en particulierebijdragen zich in dalende lijn bewegen?” [(Knapper, 1935, p. 97)](zotero://open-pdf/library/items/SJ9MWPA3?page=97)
+
+> “Dr. PLANTENGA liet zich in zijn jongste rede te Utrecht dienaangaande stellig niet hoopvol uit. Het is mij bekend, dat zelfs voor de grootste instellingen op dit gebied het aanboren van deze bronnen van inkomsten in ernstige overweging moet genomen worden” [(Knapper, 1935, p. 97)](zotero://open-pdf/library/items/SJ9MWPA3?page=97)
+
+> “Men voelt de tegenstelling: eenerzijds de drang tot het verleenen van onbaatzuchtige hulp naar socialen eisch, anderzijds een minstens even goed verdedig­ baar bestaansrecht van de honderden werkers en werksters, die er hun tijd en moeite aan geven en van de gevestigde genees­ kundigen, specialisten zoowel als huisartsen, die niet altijd zonder bezorgdheid voor 't eigen bestaan de snelle en ruime ontplooiing der organisatie gadeslaan, ook al heeft deze in den grond hunne instemming.” [(Knapper, 1935, p. 97)](zotero://open-pdf/library/items/SJ9MWPA3?page=97)
+
+So here are perceived conflicting interests: social demands and
+
+> “Daar is al een [[[[kinderarts]]|[[kinderar]]ts]] of een door dezen opgerichte vereeniging, die per advertentie en circulaire zuigelingenzorg aanbiedt tegen „jaarabonnement". De vorm, waarin dit geschiedt, noopt mij om er verder het zwijgen toe te doen.” [(Knapper, 1935, p. 97)](zotero://open-pdf/library/items/SJ9MWPA3?page=97)
+
+> “uist in volkomen gelijkstelling van alle bezoeksters aan de kostelooze bureaux zonder eenige voorkeur naar rang of stand, zie ik de mogelijkheid besloten (althans een der vele) om rechtvaardig te blijven.” [(Knapper, 1935, p. 98)](zotero://open-pdf/library/items/SJ9MWPA3?page=98)
+
+> “dat er — zooals ik heb meegemaakt een „Mevrouwenkamertje" beschikbaar is of een aparte „Mevrouwendag" ... ik ben blij, dat ik het slechts éénmaal aantrof! Aan elk bureau kan men de selectie gerust aan de „bevolking" zelve overlaten. De meer ontwikkelde, de beter gesitueerde, schikt zich naar de voorschriften van orde en regel. Kan zij dit niet of wil zij dat niet, dan blijft ze weg, maar zal niet nalaten om elders „particulier" deskundigen raad te vragen. En daar is het toch ten slotte om te doen nietwaar, om den raad zelf” [(Knapper, 1935, p. 98)](zotero://open-pdf/library/items/SJ9MWPA3?page=98)
+
+Fascinating how consultation bureau care clearly had a social-democratic tendency, and the author of the book clearly dislike social differences.Als interesting that the goal "providing adivise" is considered most important.
+
+> “Voor de minder ontwikkelden, voor de slechtbedeelden gaat van een gemengd bureau een zekere opvoedende kracht uit. Zij gaan er prijs op stellen, dat vergelijking van haar kind met anderen, wat lichamelijke verzorging betreft, niet in haar nadeel uitvalt. Zij willen wedijveren, willen meedoen, zooveel, ja soms wel méér dan zij kunnen. „Daar hebben de na„oorlogsche democratische opvattingen veel toe bijgedragen," verzekerde mij een wijkzuster met veel menschenkennis en ervaring in een kleine industrieplaats. „Vroeger zei de arbei­ dersvrouw, als het ging om hygiënische maatregelen: „dat is niets voor ons, dat is goed voor de patroons." Nu zegt zij: „dat kunnen wij evengoed als de grootheid.” [(Knapper, 1935, p. 99)](zotero://open-pdf/library/items/SJ9MWPA3?page=99)
+
+NICE! This clearly shows an ideal society as institutionalised through consultation offices. It is meant to emancipate less wealthy.
+
+> “Vooral in de zuidelijke provincies weten doctoren en zusters de gemoedelijke wijze te waardeeren, waarop de verschillende standen aan 't bureau met elkaar omgaan. Daar heerscht in de dorpen van Zeeuwsch-Vlaanderen en in de provinciesteden van N. Brabant en Limburg een genoegelijke toon. De vrouw van den notabele en den neringdoende, de vrouw van den landbouwer en van den fabrieksarbeider kennen elkaar en waardeeren elkaar wederkeerig in belangstelling voor het kind. Ook de omgang met dokter en zuster is veelal gemakkelijk.” [(Knapper, 1935, p. 99)](zotero://open-pdf/library/items/SJ9MWPA3?page=99)
+
+> “Meer en meer neemt de ervaring toe, dat de vrouwen aan de consultatiebureaux meer het goede dan het kwade van elkaar overnemen (vroeger vreesde men juist 't omgekeerde). Te Amsterdam is het voorgekomen, dat onderwijzeres-moeders zelfstandige moederlessen gaven aan vrouwen, die zij op 't bureau ontmoet hadden.” [(Knapper, 1935, p. 99)](zotero://open-pdf/library/items/SJ9MWPA3?page=99)
+
+!!!!!!
+
+> “Tenslotte zal er altijd en overal een groep van moeders over­ blijven, de armsten, die juist het meest raad behoeven, maar die zich geneeren tegenover de betergesitueerden en die daarom wegblijven van de consultatiebureaux en kinderzorglessen” [(Knapper, 1935, p. 100)](zotero://open-pdf/library/items/SJ9MWPA3?page=100)
+
+> “En dan nog de volkomen a-socialen, die zich op geen enkel bureau op haar gemak gevoelen, die geen enkelen raad willig aannemen, die al te gemakkelijk weg­blijven — het „grondsop" als ik 't zoo noemen mag, dat door geen enkelen beschermenden maatregel kan gezuiverd worden. Tenzij misschien op den langen duur, door generaties heen. Conditio sine qua non is en blijft echter, dat het milieu gunstig meewerkt. Daarom veroorloofde ik mij deze uitweiding.” [(Knapper, 1935, p. 100)](zotero://open-pdf/library/items/SJ9MWPA3?page=100)
+
+> “Vroeger was de combinatie [[consultatiebureau]]-[[melkkeuken]] vrij algemeen. Nu treft men het bijna nergens meer en in 't geheel niet meer in den ouden vorm, d.w.z. op sociale indicatie. Een echte [[melkkeuken]] in werking zag ik slechts eenmaal bij een particuliere instelling in een bekend visschersdorp, bestemd voor debiele zuigelingen uit gezinnen, waar de moeders hetzij door volslagen onkunde of volhandigheid, dan wel tijdelijk door ziekte of iets dergelijks, niet in staat zijn om eenig, volstrekt aan­ gewezen kunstvoedsel op de juiste wijze gereed te maken. Meer op medische dan op sociale indicatie dus. Ongeveer een tiende der nieuw ingeschrevenen maakt er gebruik van: porties karne­ melk, karnemelkbotermeelsoep, eiwitmelk wordt door twee helpsters in de ochtenduren in de keuken toebereid en des middags in blikken draagbussen van zes weggehaald. Betaling naar draagkracht. Op het zoogen heeft het geen noemenswaarden invloed. Wel blijven nog al wat moeders weg, zoodra de dokter met de fleschjes is opgehouden.” [(Knapper, 1935, p. 100)](zotero://open-pdf/library/items/SJ9MWPA3?page=100)
+
+This is a complicated passage: it seems to suggest that medical motives replaced social motives to attract mothers to milk kitchens.
+
+> “Overigens kan men het hulpmiddel [[melkkeuken]] als schakel in een gesloten voorzorgsysteem gerust schrappen. Als lokmiddel heeft het geheel afgedaan; niet enkel bij ons, ook bij onze buren. In 1929 kwamen te Berlijn reeds 75 % van alle moe­ ders zonder eenig lokmiddel aan de bureaux en dit getal stijgt steeds.” [(Knapper, 1935, p. 100)](zotero://open-pdf/library/items/SJ9MWPA3?page=100)
+
+Reveals how milk kitchens were explicitly intended to be incentives
+
+
+## De leider (leidster) van het [[Consultatiebureau]][ ](zotero://open-pdf/library/items/SJ9MWPA3?page=102)
+
+> “Ergens in zijn levensbeschrijving heeft de grootindustrieel en sociale werker FORD geschreven: Er is in de geneeskunst niets dat hooger staat dan het dienen. Zonder twijfel geldt dit voor de leiding van een [[Consultatiebureau]]. Hier wordt niet in de eerste plaats gevraagd naar groote geleerdheid, niet naar geniale in­ vallen, hier komen scherpzinnig gekozen behandelingsmethoden niet tot hun recht. Zelfs toepassing van de nieuwste techniek evenmin als de meest moderne therapeutica vinden hier dank­ baar afzetgebied, al zal dan ook vooral in de toekomst de goede consultatiebureauleider zijn vakliteratuur moeten bijhouden en zijn ervaring wetenschappelijk verwerken.” [(Knapper, 1935, p. 102)](zotero://open-pdf/library/items/SJ9MWPA3?page=102)
+
+Science and [[specialisation]] is important in the SECOND instance
+
+> “Voor het welslagen van zijn werk hebben vóór alles&nbsp; waarde: vriendelijkheid en welwillendheid, op z'n tijd 'n weinig lankmoedigheid en dan mededoogen, belangstelling, gepaard aan een rijpe ervaring, een bezonken inzicht in alles wat zich op het gebied van [[voeding]] en verzorging van den zuigeling kan voordoen.” [(Knapper, 1935, p. 102)](zotero://open-pdf/library/items/SJ9MWPA3?page=102)
+
+> “Maar wederkeerig moeten dezen zich te zijner tijd wel degelijk kunnen openstellen om te leeren van de moeder, ja zelfs van het kind! Enkel hierdoor mag een zekere graad van zelfverzekerdheid ontstaan, die bij de moeders vertrouwen inboezemt en er haar toe brengt om hun raad te verkiezen boven den menigmaal goed bedoelden, maar even zoovele malen minderwaardigen of averechtschen van vrienden en verwanten.” [(Knapper, 1935, p. 103)](zotero://open-pdf/library/items/SJ9MWPA3?page=103)
+
+> “Sociaal gevoel en sociale belangstelling zijn voorts onmisbare eigenschappen. „Een goed C. B. arts moet" — zooals Dr. v. D. KASTEELE het in een jubileumrede zoo treffend uitdrukte „ruimschoots maatschappelijk gevormd zijn.” [(Knapper, 1935, p. 103)](zotero://open-pdf/library/items/SJ9MWPA3?page=103)
+
+> “Waaruit men allerminst behoeft af te leiden, dat er een formeele scheiding moet of mag zijn tusschen den klinischen en den sociaalwerken­ den zuigelingenarts. Integendeel, in eiken geneesheer, behoudens enkele uitersten, bestaat toch weleen mengeling van verschillende eigenschappen. Van de opvatting van zijn plicht, van zijn aanleg ten opzichte van de taak, die hem is opgedragen of die hij gekozen heeft, hangt het af of hij de eene dan wel de andere meer op den voorgrond brengt.” [(Knapper, 1935, p. 103)](zotero://open-pdf/library/items/SJ9MWPA3?page=103)
+
+> “De C. B. arts in de grootere bevol­kingscentra, aangesteld door de overheid of door plaatselijke sociale vereenigingen, behoort te voelen voor de volkswelvaart in 'l alSerneen-” [(Knapper, 1935, p. 103)](zotero://open-pdf/library/items/SJ9MWPA3?page=103)
+
+Interesting that this social dimension is clearly stipulated as "sociaalvoelend".Again, child health care is primarily a social project.
+
+> “Ik sprak met dorpsgeneesheeren, die mij oprecht verzekerden, dat de enkele uren van het [[Consultatiebureau]] tot de aangenaamsten en leerrijksten behoorden; een aantrekkelijke afwisseling in de dagelijksche sleur met hare zorgen en verdrietelijkheden. Er is niets tegen, dat zijn eigenbelang hierin óók een woordje mee­ spreekt. Hoe dikwijls heb ik het niet gehoord van den dorpsarts, na afloop van het bureau, in gesloten kring: „Sinds ik bureau” [(Knapper, 1935, p. 103)](zotero://open-pdf/library/items/SJ9MWPA3?page=103)
+
+> “„houd voor mijn „eigen" zuigelingen en daaraan wat meer „tijd en moeite besteed, heb ik het vrijwat gemakkelijker ge„kregen. Veel minder dan vroeger word ik bij nacht en ontijd ^uitgehaald voor de beruchte zomerdiarrhoea en voor de „angstwekkende stuipjes. Ook behoef ik mij allengs minder „te ergeren aan betweterige familieleden en buurvrouwen, die "nu immers zelf uit hare schadelijke onwetendheid opkomen. ',',Ook behoef ik veel minder voor te schrijven — de altijd „weer terugkeerende ergernis van den fonds- en armenarts. ',Ik kan de moeder nu tenminste leeren inzien om met den „enkelen raad te volstaan.” [(Knapper, 1935, p. 104)](zotero://open-pdf/library/items/SJ9MWPA3?page=104)
+
+> “. Het euvel van een te druk bureau is wel het aanschouwelijkst vastgelegd door de gevoelige en geestige schrijfster van een „Dagboek, overpein­ zingen van een zuigelingenarts" in het Tijdschrift v. Sociale Geneeskunde A° 1934-” [(Knapper, 1935, p. 104)](zotero://open-pdf/library/items/SJ9MWPA3?page=104)
+
+This is cool stuff!! #todo look this up.
+
+> “Voor 't overige, indien de verhoudingen aan het bureau gunstig zijn te noemen, dan doet het er in den grond niet&nbsp; zooveel aan af, of het geleid wordt door den districtskinderarts, den gemeentearts-ambte­naar, of door den dorpsgeneesheer.” [(Knapper, 1935, p. 105)](zotero://open-pdf/library/items/SJ9MWPA3?page=105)
+
+So it could be many things!
+
+> “Is eerder een mannelijke of liever een vrouwelijke leiding op hun plaats? Ook dit hangt af van de landstreek' waar gewerkt wordt, van den aard van de bevolking en van de persoon, die leiding geeft. Hier is de vrouw óf niet gewild, óf te meegaand, te slap in haar optreden, elders de mannelijke leiding te streng, te kort, toont te weinig tact. En omgekeerd! Wel meen ik te hebben opgemerkt — en was dit al niet te voorzien? — dat de vrouwelijke raadgeefster de kleine klachten en zorgen, de meer subtiele bezwaren der moeders gemakkelijker en zuiverder aan­voelt en het menschelijke, vrouwelijke hierin bij haar wel eerder en gevoeliger aanspreekt.” [(Knapper, 1935, p. 105)](zotero://open-pdf/library/items/SJ9MWPA3?page=105)
+
+The hierarchical position is mostly legitimised by preconceived gender relations.
+
+> “Een goed leider moet niet alleen het gezonde kind in al zijn nuances kennen, maar moet ook veel van het geestelijk en lichamelijk afwijkende kind weten. En dat kan men nu eenmaal niet verwachten van een verpleegster, hoe gedegen ook haar kennis van verpleging en verzorging zijn mag.” [(Knapper, 1935, p. 106)](zotero://open-pdf/library/items/SJ9MWPA3?page=106)
+
+> “Tien, vijftig, honderd maal eenzelfde advies te moeten plaatsen, steeds weer op hetzelfde aambeeld te moeten hameren, vermoeiend dikwijls hetzelfde te moeten neerschrijven, in eenzelfden vrij beperkten gedachtengang zich uren lang te moeten bewegen, te schouwen binnen een betrekkelijk kleinen gezichtskring! Maar is ons, medici, dan in de verdere uren van den dag wel zoo veel meer, zooveel anders beschoren? In dit werk aan het [[consultatiebureau]] is toch immers — ik noemde het reeds — een opwekkend accent; er kan zoo gemakkelijk een sfeer van opgewektheid en blijmoedigheid heerschen; er kan wederkeerig dankbaarheid en voldoening zijn! Indien men slechts de gunstige oogenblikken weet te treffen en vast te leggen! Menig leider doet tijdens het raadplegingsuur lessen van levenswijsheid op.” [(Knapper, 1935, p. 107)](zotero://open-pdf/library/items/SJ9MWPA3?page=107)
+
+> “Hoe onnoozel ze hem of haar ook schijnen, voor de moeders is de beantwoording van hare vragen toch een belang van de eerste orde, speciaal voor de jonge, onervarene, en daardoor overbezorgde. Dat de moeders, die het beter weten konden, ook wel eens enkel vragen „uit lust tot vragen", wil ik geenszins ont­ kennen, maar bij de meesten is het toch eerder de natuurlijke reactie op een te groote belangstelling, te overmatige bezorgdheid, welke familie en bekenden op haar „plegen", die haar uit het evenwicht slaat en stuurloos maakt.” [(Knapper, 1935, p. 107)](zotero://open-pdf/library/items/SJ9MWPA3?page=107)
+
+so it is to adivise mothers on based on an expert/experience-based expert-viewpoint.
+
+> “In waarheid, overal, in de meest geïsoleerde streken te midden eener bevolking waar ik het 't minst verwacht&nbsp; had, heb ik dikwijls verbaasd gestaan over datgene wat èn door 't bureau, èn door omgang met de zuster, tenslotte ook wel eens door onderlinge voorlichting en afkijken tot gemeenschappelijk bezit geworden was en dat dan ook auto­matisch, als van zelf sprekend plaats vond.” [(Knapper, 1935, p. 108)](zotero://open-pdf/library/items/SJ9MWPA3?page=108)
+
+> “Wie zou niet glimlachen om dat moedertje, dat liever niet meer aan 't bureau kwam... omdat de dokter dllr haar zoontje Jaapie genoemd had! „Hij hiette toch ommers geen Jaapie!" Wiens oogen niet even glanzen, zoodra hij dat coquette, preutsche mevrouwtje voor zich kreeg, die maar zoo aanstonds weten wilde, welk kunstpraeparaat zij geven zou, omdat ze „de borst zoo vies vond, goed voor mindere menschen!" In haar volle waardigheid ziet hij haar voor zich, de dorpsbaker, zooals V. D. ZANDE haar beschrijft, de zelfgenoegzame, levenswijze, de vraagbaak van alle moeders en aanstaande moeders in het dorp, waar zij honderden kindertjes gebakerd heeft, maar die dan ook „niets weten wil van al dat nieuwerwetsche gedoe" en die in 't verscholene — al lang gesignaleerd! — het bureau tegenwerkt. Totdat ze op een voor haar goeden dag noodgedwongen toch met een van haar jongste pleegkindertjes komt... en nadien tot de meest verknochte aanhangsters gaat behooren! Wie verkneuterde zich niet eens in stilte bij het tafreeltje van den nog héél jeugdigen, maar zéér zelfbewusten vader, die binnen komt vóór vrouw en kind en met hem een heele waschlijst vol vragen, die hij zelf, geheel alléén wil afwerken, zonder inmenging, verstaat ge! ongeacht het stille protest van vrouwlief? Is het niet aardig om nu óók eens zegevierend te glunderen over de verbazing van de moeder, die er de pap, de groenten, met geen mogelijkheid in kan krijgen, „er komt méér uit dan er in gaat" en. .. bij de zuster als klokspijs! En incasseerden wij allen niet een enkel keer met 'n beetje zelfvoldoening en trots de erkentelijkheid van moeder, die mèt haar allerjongste nu óók Pietje meebrengt, een echte bollebof, „u weet wel dokter, Pietje, die nog geen twee pond woog (sic!) en dien u er zoo fijn heeft doorgehaald!" Worden niet — tenslotte — de oirkonde, die vader calligrafeerde en 't nieuwste portretje van den eenjarige, beide in lijst, meteen vriendelijkbedankje minzaam aanvaard?” [(Knapper, 1935, p. 109)](zotero://open-pdf/library/items/SJ9MWPA3?page=109)
+
+Important that consultation offices actually replaced [[bakerzorg]]
+
+> “Heeft niet Dr. PLANTENGA — een onzer pioniers — de op zijn C.B. verkregen voedingsresultaten benut voor zijn interessante studie over de constitutioneele (harmo­ nische en disharmonische) eigenaardigheden, over bijzondere individueele gevoeligheid voor de vetten, eiwitten, koolhydraten, zouten, welke op familairen erfelijken grondslag blijken te berusten (trophallergie) en die — zooals Prof. HAVERSCHMIDT het ergens uitdrukte — „de algemeene welvaart nauwlijks” [(Knapper, 1935, p. 109)](zotero://open-pdf/library/items/SJ9MWPA3?page=109)
+
+Ah - interesting, so this data has been used to investigate hereditary traits.
+
+> “„storen, maar die toch door haar grilligheid, onberekenbaarheid „en onbeperktheid in vorm en herhaling buitengewoon onge„riefelijk kunnen zijn en heel wat zorg wekken!” [(Knapper, 1935, p. 110)](zotero://open-pdf/library/items/SJ9MWPA3?page=110)
+
+> “Reeds in 1925 publiceerde de Amsterdamsche Geneeskun­ dige Dienst het gedocumenteerde medisch-statistische onder­ zoek naar de gevolgen van rachitis bij de kinderen, die als zuigeling de bureaux bezochten.” [(Knapper, 1935, p. 110)](zotero://open-pdf/library/items/SJ9MWPA3?page=110)
+
+> “Ook voor Dr. CARSTENS was ongetwijfeld zijn zuigelingenbureau van belang bij zijn vóór­ onderzoekingen over de Engelsche ziekte en de erfelijke gevoeligheid voor een tekort aan vitamine D.” [(Knapper, 1935, p. 110)](zotero://open-pdf/library/items/SJ9MWPA3?page=110)
+
+> “Niet minder goed werk deed Dr. SOER, die tusschen 1930 en 1934 ge­ gevens uitwerkte over den invloed van rachitisprophylaxis op het melkgebit bij zijn [[consultatiebureau]]-cliëntjes te Dor­ drecht.” [(Knapper, 1935, p. 110)](zotero://open-pdf/library/items/SJ9MWPA3?page=110)
+
+> “Te Eindhoven profiteert Dr. SLOOF van het voorrecht dat hij over de beste Röntgen-apparaten beschikken kan om voorloopig enkel de kleuters, later (hoopt hij) ookalle zuigelingen systematisch door te lichten — een welkome methode van „generale preventie.” [(Knapper, 1935, p. 110)](zotero://open-pdf/library/items/SJ9MWPA3?page=110)
+
+> “In den jongsten tijd deed Dr. BECKING op zijn bureau te Utrecht uitvoerige onder­ zoekingen over aard en duur van de schedelverweeking bij zuigelingen.” [(Knapper, 1935, p. 110)](zotero://open-pdf/library/items/SJ9MWPA3?page=110)
+
+> “Het interessante studie-onderwerp (tweelingen-pathologie) van Dr. P. VOÜTE (Utrecht), hoe anders dan o.m. met behulp van de consultatiebureaux ware zulk een verbijsterend groot mate­ riaal te bereiken geweest!” [(Knapper, 1935, p. 110)](zotero://open-pdf/library/items/SJ9MWPA3?page=110)
+
+> “Tweehonderd gelijkslachtige tweeling­ paren, o.a.onderzocht op het voorkomen en den vorm vanrachitis en op het verband met erfelijkheid! En zoo maar voort!” [(Knapper, 1935, p. 110)](zotero://open-pdf/library/items/SJ9MWPA3?page=110)
+
+> “Avonden van honderd en meer deelneemsters zijn speciaal in de zuidelijke provincies geen uitzondering. Met lantaarnbeelden, epidiascoop, films, met practisch werk en met vraag- en antwoord wordt de theorie aangevuld. Voor de doctoren en de assisteerende zusters, die dikwijls al den ganschen dag hard gewerkt hebben, is 't wel eens te vermoeiend.” [(Knapper, 1935, p. 111)](zotero://open-pdf/library/items/SJ9MWPA3?page=111)
+
+> “Op mijn [[consultatiebureau]] trachtte ik goed waar te nemen en de ooren wijd open te zetten, voor wat de moeders 't meest aanging. Onderwerpen voor 't grijpen! En dan was ik bij voorbaat ver­zekerd van een belangstellend en begrijpend gehoor, eerder dan wanneer ik ze had beziggehouden met de ontwikkeling van de vrucht" of met de„samen stelling van verschillende melksoorten!" 't Best cursus met een liet zich dit afleiden uit 't geringe verloop sigaartje en een eQ ujt Je yragenstelling.” [(Knapper, 1935, p. 111)](zotero://open-pdf/library/items/SJ9MWPA3?page=111)
+
+![](file:///C:\Users\vdmee\Zotero\storage\XNL68V8W\image.png)
+
+> “Juist de jonge vader, die door zijn gebrek aan inzicht en kennis wel eens het „storende element" in de opvoeding dreigt te worden, behoort te worden voorgelicht. Mevrouw RIEMENSREURSLAG, die in Ons Huis in Rotterdam omstreeks 1920 [[moedercursussen]] gaf over opvoedkunde en lichamelijke ver­zorging, deelde mij mede dat reeds toen van de vrouwen zelf de wensch uitging dat ook de vaders deze lessen zouden bij­wonen.” [(Knapper, 1935, p. 112)](zotero://open-pdf/library/items/SJ9MWPA3?page=112)
+
+> “Dr. LUBSEN, die Januari 1923 met Dr. HEYBROEK: in een houten loods aan den overkant van het IJ den eersten Vadercursus in Amsterdam, misschien wel den eersten in Europa of in de beschaafde wereld hield, vertelt ons hoe duchtig hij zic” [(Knapper, 1935, p. 112)](zotero://open-pdf/library/items/SJ9MWPA3?page=112)
+
+> “Dezelfde ervaring deden ook wij op, de heer HOOGLAND en ik, die de volgende leergangen met niet al te vasten regelmaat hebben overgenomen. Dikwijls bij een ge­ hoor van vijftig en meer vaders, moesten wij aan het vragen paal en perk stellen; speciaal op sexueel gebied bestond een onbegrensde weetgierigheid!” [(Knapper, 1935, p. 113)](zotero://open-pdf/library/items/SJ9MWPA3?page=113)
+
+> “Dan is er tenslotte nog één gebied waarop de Consultatiebureauleider zich verdienstelijk maken kan: de opleiding van bezoekzusters, kraamverzorgsters en bakers.” [(Knapper, 1935, p. 113)](zotero://open-pdf/library/items/SJ9MWPA3?page=113)
+
+
+## De zuigelingenzuster.[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=115)
+
+> “Menigmaal is zij niet enkel in deze functie werkzaam. Dan is zij de ziekenverpleegster, de wijkzuster, aangesteld door een der Kruisvereenigingen; ook wel eens door de plaatselijke afdeeling van het Nut van 't Algemeen of door de Gemeente. Dikwijls is zij de aangewezene voor de Tuberculose-bestrijding, voor het Maatschappelijk Werk. Ook als schoolverpleegster en voor de tandprophylaxis doet zij dikwijls nuttig werk. En in den laatsten tijd wacht haar een nieuwe taak: de belangstelling in het lot der geestelijk en lichamelijk minderwaardigen. Maar voor de zuigelingbescherming is deze haar titel, waaronder zij algemeen erkend en gewaardeerd wordt.” [(Knapper, 1935, p. 115)](zotero://open-pdf/library/items/SJ9MWPA3?page=115)
+
+> “Neem de zuigelingenzuster uit de bescherming weg, neem weg haar huisbezoek, het contact met de moeder aan het [[consultatiebureau]] ... en het geheele systeem der zuigelingenzorg dreigt als een kaartenhuisje ineen te vallen! Onmisbaar is haar werk daar, waar de akker nog op ontginning wacht. Belangrijk, als aanvulling,&nbsp; haar taak als district-huisbezoekster, als en quêtrice, als begeleidster van den provincialen [[kinderarts]] bij zijn ronde door het district voor organisatie, inspectie, consultatie. Zelfstandig treedt zij op als docente aan kinderzorglessen, als inspectrice over en docente voor wijkverpleegsters, kraamverzorgsters, bakers, zoolang deze nog moeten worden ingevoerd en door het uitbrengen van rapporten en deelneming aan de beraadslagingen. Inderdaad, een mooie, veelomvattende werkkring, gepaard aan niet te moeilijk bereikbare populariteit.” [(Knapper, 1935, p. 115)](zotero://open-pdf/library/items/SJ9MWPA3?page=115)
+
+> “Maar, ter verlichting van haar taak, ook wel in gezinnen van de meer gegoeden, waar welvaart heerscht en orde en regelmaat en waar zij prettig mag doende zijn, omdat alles schijnt mee te werken. Schijnt... inderdaad, wanthoe dikwijls moet ook daar met de zuster „speuren naar&nbsp; grootere en kleinere tekortkomingen,vergrijpen! Beschaving moet haar diepste wezen zijn. Uiterlijk en innerlijk. Gepaste bescheidenheid, veel geduld en heel veel tact.” [(Knapper, 1935, p. 116)](zotero://open-pdf/library/items/SJ9MWPA3?page=116)
+
+![](file:///C:\Users\vdmee\Zotero\storage\UQKFL3GG\image.png)
+
+![](file:///C:\Users\vdmee\Zotero\storage\K2USSZBB\image.png)
+
+![](file:///C:\Users\vdmee\Zotero\storage\BMEDX473\image.png)
+
+> “Overmatig propagandistisch huisbezoek is ook verkeerd, dan gaan ze meenen, dat ze er de zuster een pleizier mee doen en dan . . . zou er wel wat achter kunnen zitten. Ze komen tegen­ woordig heusch wel zelf aan 't bureau, de ouders, zij zien het voordeel allang in!” [(Knapper, 1935, p. 119)](zotero://open-pdf/library/items/SJ9MWPA3?page=119)
+
+> “De cijfers van huisbezoek zijn dan ook sprekend: in 1933 aan 13 gemeenten” [(Knapper, 1935, p. 119)](zotero://open-pdf/library/items/SJ9MWPA3?page=119)
+
+> “5844 [[huisbezoeken]] door de Wit-Gele Rruiszusters, naast haar gewone werk, dikwijls over twee plaatsen over grooteren afstand verdeeld!” [(Knapper, 1935, p. 120)](zotero://open-pdf/library/items/SJ9MWPA3?page=120)
+
+> “Hartje zomer in den Gelderschen Achterhoek. Op een bovenhuisjein L. Een flinke, TT . ... nietmeerjongemoeder,dietienjarenwachtteophaareerste! Vol goeden wil en met uiterste zorg volgt zij zusters raad op. Daarnaast erg angstig voor haar kostelijk bezit... Daar ontdekt zuster aan de voetjes in wollen sokjes gestoken een warm kruikje... bij een temperatuur van 80° F. in de schaduw... Grootmoeder had 't nu eenmaal niet anders gewild. Evenzoo de dikke, wollen lendeluiers!” [(Knapper, 1935, p. 120)](zotero://open-pdf/library/items/SJ9MWPA3?page=120)
+
+> “uist door de moeders te leeren — zegt KOPPUIS terecht — krijgt haar werk hoogere beteekenis en meer blijvende waarde.” [(Knapper, 1935, p. 120)](zotero://open-pdf/library/items/SJ9MWPA3?page=120)
+
+> “Wederkeerig? Zeker! De liefde van de moeder voor haar kind en de liefde van de zuster voor haar werk verheffen elkaar wederkeerig tot een hooger plan! Liefde, toewijding, ijver. Inderdaad.” [(Knapper, 1935, p. 121)](zotero://open-pdf/library/items/SJ9MWPA3?page=121)
+
+blèèègh
+
+> “ten deele tegenspreken, zooals bijna onver­ mijdelijk is. Ieder, die meent, dat eenig onderdeel der maat­ schappelijke voorzorg afzonderlijk en zelfstandig kan worden behartigd, bespeurt vroeger of later dat hij het mis heeft. Maatschappelijke verhoudingen geven hier den doorslag en die storen zich zoo weinig aan afzonderlijke maatregelen. Niets is trouwens zoo moeilijk als constructieve welvaartspolitiek. (Kro­ niek van St. in „Tijdschr. v. Soc. Hyg.", Juni 19” [(Knapper, 1935, p. 121)](zotero://open-pdf/library/items/SJ9MWPA3?page=121)
+
+> “Juist in dezen tijd, nu de zuigelingen- en [[kleuterzorg]] steeds meer aan populariteit winnen, kan het een daad van noodzaak, maar daarnaast gelukkig óók een van wijs beleid en inzicht zijn om het eerder in de diepte dan in de breedte te zoeken. Woorden van Dr. PLANTENGA, die iedere verpleegster tot de hare maken mag!” [(Knapper, 1935, p. 122)](zotero://open-pdf/library/items/SJ9MWPA3?page=122)
+
+> “Persoonlijk heb ik de zuster nog al eens hooren klagen, dat er naar haar zin te weinig kwamen, dat zij daardoor niet genoeg „werk" had. Valt er dan voor haar, juist buiten 't bureau om, niet genoeg te doen? Laat zij dan eens opslaan en nalezen de artikelen „de Zuigelingenzuster", welke Dr. H. B. L. VOS in het „[[Tijdschrift voor Sociale Geneeskunde]]",Sept. 1929 schreef.” [(Knapper, 1935, p. 122)](zotero://open-pdf/library/items/SJ9MWPA3?page=122)
+
+> “Maar kennis moet met liefde „het oordeel vormen en aan de toewijding de goede richting „geven" — woorden van Mevrouw SANDBERG—GEISWEIT v. D. NETTEN. Dit wordt dan ook wel ingezien.” [(Knapper, 1935, p. 122)](zotero://open-pdf/library/items/SJ9MWPA3?page=122)
+
+> “In de groote steden zetelt de opleiding al lang op breeden grondslag. Reeds in 1912 pleitte ik in het Mbld. voor Ziekenverpleging voor meer belangstelling en inderdaad heeft zich in den loop der volgende jaren een staf van zuigelingenzusters ontwikkeld, aan wie zoowel overheid als voorzorgsvereeniging het werk in vertrouwen kun­ nen overlaten.” [(Knapper, 1935, p. 122)](zotero://open-pdf/library/items/SJ9MWPA3?page=122)
+
+> “heeft in Utrecht doorloopende cur­ sussen voor opleiding tot wijkverpleegster: i jaar theorie, i maand wijkverpleging, i maand stage op een [[Consultatiebureau]], geleid door een [[kinderarts]], i maand tuberculosebestrijding, i maand schoolverpleegstersdienst. Deze cursus levert ieder jaar ongeveer 40 gediplomeerden af en is reeds lang vooruit van aanvragen voorzien.” [(Knapper, 1935, p. 123)](zotero://open-pdf/library/items/SJ9MWPA3?page=123)
+
+> “Tot 1 Jan. I931 waren geviseerd 367 diploma's van kraamverzorgsters, 618 diploma's voor bakers. Helaas! op dit gebied bloeit nog welig het onkruid der zgn. „wüdekraamverzorgsters",zooals L.HEYERMANS&nbsp; ze terecht betitelt in zijn Hygiënische Kroniek jn „Het Volk" en er fel tegen te keer gaat.” [(Knapper, 1935, p. 124)](zotero://open-pdf/library/items/SJ9MWPA3?page=124)
+
+> “Jonge vrouwen, dikwijls met geheel onvoldoende voor-ontwikkeling worden in hoofdzaak theoretisch opgeleid door vroedvrouwen of andere personen, die zich daartoe beschikbaar stellen, oefenen zich korter of langer tijd in de praktijk onderde­ zelfde leiding en ontvangen tenslotte tegen betaling van het cursusgeld enz. een diploma van dezelfde opleidster; soms óók nog een nietszeggend insigne. Zóó ge­ wapend en zich „zuster" noemende, worden zij op de kraamvrouwen losgelaten en stichten veel meer onheil dan men denken zou, óók ten opzichte van het jonge” [(Knapper, 1935, p. 124)](zotero://open-pdf/library/items/SJ9MWPA3?page=124)
+
+> “kind. Nog erger maken het de schriftelijke cursussen, wier leiders de naïveteit óf de onbeschaamdheid hebben om te meenen dat zij inderdaad in staat zijn om iemand met schriftelijke lessen een vak te leeren, dat wel niet anders dan in hoofdzaak practisch kan worden geleerd. „Meer baat" is de naam waaronder een dezer instel­ lingen zich introduceert. Het blijft een open vraag wie er „meer baat" van hebben zal, de zoogenaamd opgeleide of... de leiding van dezen schriftelijken leergang.” [(Knapper, 1935, p. 125)](zotero://open-pdf/library/items/SJ9MWPA3?page=125)
+
+
+# HOOFDSTUK III Hoe denkt het publiek over de zuigelingenbescherming? Hoe de overheid? Hoe de geneeskundige?[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=127)
+
+> “Ik mag niet ontkennen, ik heb 't nog wel hier en daar aangetroffen, dat men min of meer afzijdig bleef, niet zoozeer uit afkeer van de organisatie zelve, maar om de een of andere politieke of confessioneele overweging. Dan kan men van bepaalde districtscentra uit trachten vasten voet te krijgen, telkens weer stuit dit dan af op passieven weerstand. Totdat het tenslotte nog gelukt om een bres te schieten of wel, de provinciale commissie waagt het er maar op om ergens een bureau te openen en dan is het ver­ rassend, verbluffend, hoe snel dan de populariteit toeneemt.” [(Knapper, 1935, p. 127)](zotero://open-pdf/library/items/SJ9MWPA3?page=127)
+
+> “De onverschilligheid van overheid of bevolking of beide omdat „het bij ons niet noodig is" of „omdat het hlef zoo goed is als het maar Z1Jn kan Wijkt voor belangstellend medeleven. Dit heb ik vroeger toch wel anders meegemaakt.” [(Knapper, 1935, p. 127)](zotero://open-pdf/library/items/SJ9MWPA3?page=127)
+
+> “Toen konden de moeders maar niet nalaten om een [[consultatiebureau]] als een „polikliniek" te beschouwen, aldus geneeskundige voorzorg verwarrende met geneeskundige verzorging, waarheen zij, bij voorkeur zelfs, haar zieke kind brachten voor geneeskundige behandeling. Aangezien dit speciaal in de grootere bevolkings­centra stelselmatig moest worden geweerd, gaf dit terdege&nbsp; ontstemming; de moeders hadden anders ver­wacht, zijtrokken zich terug en kwamen later ook niet meer.” [(Knapper, 1935, p. 127)](zotero://open-pdf/library/items/SJ9MWPA3?page=127)
+
+Interesting, consultation offices did not meet expectations because they were perceived to be curative institutions - their preventive practices lead to disappointment
+
+> “Alleen in Utrecht bestaat (of bestond tot voor kort) naast een C.B. voor gezonde zuigelingen (kosteloos) een voor zieke (betalend).” [(Knapper, 1935, p. 128)](zotero://open-pdf/library/items/SJ9MWPA3?page=128)
+
+> “Dan was er in de eerste jaren van den georganiseerden voorzorgsdienst een ander onderdeel wat moeilijkheden gaf: de [[melkkeuken]] (goutte de lait) op zich zelf, maar vooral de combinatie: [[consultatiebureau]] en [[melkkeuken]], het verschaffen van voedingsmiddelen, toebereid of in natura op medische of sociale indicatie met als bijoogmerk: de moeders aan te trekken.” [(Knapper, 1935, p. 128)](zotero://open-pdf/library/items/SJ9MWPA3?page=128)
+
+Again, distribution of milk was used to the attract mothers.
+
+> “Dit systeem gaf slechts schijnbare populariteit, het bevorderde slechts een verkeerde instelling der moeders en werkte allerlei misbruiken in de hand.” [(Knapper, 1935, p. 128)](zotero://open-pdf/library/items/SJ9MWPA3?page=128)
+
+Author criticised this practice as this "bought popularity" was not genuine.
+
+> “Over 't algemeen echter is juist dit een verheugend verschijnsel, dat geleidelijk méér moeders zonder eenig lokmiddel al zeer vroeg, in de eerste maand, ja reeds binnen de eerste veertien dagen na de geboorte, naar het bureau komen en dat een even-” [(Knapper, 1935, p. 128)](zotero://open-pdf/library/items/SJ9MWPA3?page=128)
+
+> “redig aantal stelselmatig tot aan het einde van den zuigelingen­ leeftijd het bureau komt bezoeken en dus als 't ware automatisch op de „[[kleuterzorg]]" overgaat.” [(Knapper, 1935, p. 129)](zotero://open-pdf/library/items/SJ9MWPA3?page=129)
+
+> “Ik heb het meegemaakt, in kleinere plaatsen, dat bijna 100 % van de zuigelingen ingeschreven waren; dit pleit voor een goede propaganda en voor een goede gezindheid, 'n Beetje gemakkelijk mag het ze dan wel gemaakt worden, met autobussen of doordat de boer zelf paard en wagen beschikbaar stelt, óók voor de buurkindertjes (Drente).” [(Knapper, 1935, p. 129)](zotero://open-pdf/library/items/SJ9MWPA3?page=129)
+
+In some cases, mothers were actively transported to the consultation offices.
+
+> “Dat spreekt boekdeelen. ,,'t Bureau is heel erg in trek" — ver­ nam ik dikwijls, ongevraagd op 't gemeentehuis of elders in de plaats. „Mijnentwege waren ze er al veel eerder mee begonnen". Zou het ook wel eens een bijkomstige reden hebben, een andere dus, dan enkel de zorg voor het kind ? . . . heb ik mij zelf, misschien wel eens 'n beetje ondeugend, afgevraagd.” [(Knapper, 1935, p. 129)](zotero://open-pdf/library/items/SJ9MWPA3?page=129)
+
+> “„Gaan jelui vanmiddag óók naar de Zuigelingensociëteit?" hoorde de assistente van Dr. V. D. ZANDE eens vragen. Nu, de zucht naar gezelligheid zal er wel eens bijkomen, dat kan men zich voorstellen, vooral op de landelijke bureaux, waar de vrouwen door de grootere afstanden en het vele huis- en landwerk, elkaar zeker niet al te veel ontmoeten.” [(Knapper, 1935, p. 129)](zotero://open-pdf/library/items/SJ9MWPA3?page=129)
+
+This also seems to be an important early motivation: "gezelligheid"
+
+> “De grootste, meestal welverdiende populariteit geniet de zuigelingenzuster. Heeft zij er den goeden slag van, dan kan zij heel wat gedaan krijgen en veel verzetten. Telkens trof mij — ik noemde het reeds — haar ingewijd zijn in de belangen van het gezin en niet minder de prettige omgangsvorm, vooral zoodra zij tijd heeft om eens rustig aan tafel „bij te schui­ ven". De C.B.-arts heeft weer zijn of haar eigen methoden en persoonlijke eigenschappen, waardoor zij de moeders aan t bureau weten te binden. Hier geniet de dorpsarts toch al reeds het vertrouwen, elders waardeert men meer den specialist­ [[kinderarts]] van elders, die „weer eens een anderen kijk op de kinderen heeft.” [(Knapper, 1935, p. 130)](zotero://open-pdf/library/items/SJ9MWPA3?page=130)
+
+the relationship between nurse and physician was important as well
+
+> “Het heeft leeren waardeeren: 1. dat het kind, van huis uit gezond, met veel minder ongerief en last en zorgen opgroeit dan vroeger; „Zonder huilen en kwijlen worden ze niet groot" was de oude bakerstroost, die danig geëxploiteerd werd; 2. dat voedingsstoornissen, speciaal die in de zomermaanden, te voorkomen zijn, even zoo goed als de ergere vormen van de Engelsche ziekte; 3. dat 't gemak de moeder dient, dus óók vereenvoudiging van de onderkleeding en het afschaffen of althans opschorten van de landelijke kleederdracht tot na de periode van het z.g.n. platte kind. In Zeeuwsch-Vlaanderen zijn reeds vele plaatsen waar 't jongste geslacht niet meer in 't „pak" komt en nooit meer in de plaatselijke kleeding; 4. dat orde en regelmaat in [[voeding]], in verdeeling van waken en slapen, zooals haar geleerd worden, niet enkel de lichame-” [(Knapper, 1935, p. 130)](zotero://open-pdf/library/items/SJ9MWPA3?page=130)
+
+> “ijke gezondheid bevorderen, maar als 't ware ongemerkt algemeene orde en tucht bijbrengen, de grondslagen van een evenwichtige, geestelijke opvoeding en karaktervorming.” [(Knapper, 1935, p. 131)](zotero://open-pdf/library/items/SJ9MWPA3?page=131)
+
+> “Een treffend staaltje deed zich in den voorzomer van 1934 voor in het plaatsje Ewijk, in het land van Maas en Waal. Het Wit-Gele Kruis, in den persoon van den zeer enthousiasten secretaris, nam het initiatief; men wilde niet langer achterblijven bij de omliggende gemeenten. De organisaties, welke eerst aangesproken werden, verklaarden dat zij het geld ervoor niet hadden en ook niet krijgen konden. Wachten dus, tot de „crisis voorbij was! Dat zou te lang duren. Toen kwam er een oor­ spronkelijk denkbeeld; de exploitatie van een openluchtspel „Wilhelm Teil". Het geheele dorp hielp mee aan de voorbereiding, bouwde het theater, ontwierp de décors, regelde de uitvoering. Later, tegen den zomer — ik herinner het mij nog goed brachten de couranten de aankondigingen en opwekking tot bijwoning. Zonder twijfel een unicum: een openlucht-drama van F. von Schiller in dienst van de zuigelingenzorg!” [(Knapper, 1935, p. 131)](zotero://open-pdf/library/items/SJ9MWPA3?page=131)
+
+This is a great anekdote! Wilhelm Teil for child health care
+
+> “Hoe staat in t algemeen de Overheid tegenover de zuigelingenbescherming? Ik bedoel niet hoe deze van Staatswege geregeld is; hierop geeft m.i. de door mij geschetste ontwikkeling voldoende ant­woord. Ook niet zoozeer de houding van de vroedschap der groote steden, die al sinds jaren overtuigd is. Niet enkel op hygiënische gronden, maar evengoed op financieele. De kosten aan dezen dienst besteed brengen hun rente dubbel en dwars op.” [(Knapper, 1935, p. 131)](zotero://open-pdf/library/items/SJ9MWPA3?page=131)
+
+Interesting that child health care in rural ares is perceived to be strong, but that it more interesting to look at the role of governments in smaller, rural areas.
+
+> “Neen, ik mag mij beperken tot de kleinere gemeenten, speciaal in de dun bevolkte gebieden. Hier staat de overheid dikwijls voor moeilijke problemen.” [(Knapper, 1935, p. 132)](zotero://open-pdf/library/items/SJ9MWPA3?page=132)
+
+> “Het gaat toch niet aan om nog langer achter te blijven, vooral niet jegens de buren, die al lang van het nut eener goede preventie overtuigd geraakten. TrouDe bevolking wens, de gemeentenaren beginnen er om te wenscht haar vragen| Maar . . . hier geeft een zekere politieke of confessioneele overweging den doorslag, ginds bestaat geen voldoende harmonie onder de dokters, die in de plaats zelf en in 't omgevend gebied praktiseeren en elders is zelfs geen geld beschikbaar om de eerste uitgaven te bekostigen, nog minder om de jaarlijksche kosten te dekken. Dan is 't maar goed dat indertijd de Regeering regelend heeft ingegrepen en dat zij dit ook nu nog doen wil waar het noodig is, zij het ook op veel bescheidener voet. En ook dat zij de verstandige geste heeft om de uitvoering in handen te blijven stellen van Kruisvereenigingen en dergelijke, die het klappen van de zweep kennen en dus met minder moeite, minder teleurstelling, organiseerend, leidend en steunend optreden. Ik bezocht verschillende plaatsen waar in de laatste jaren zoodoende een eind gemaakt is aan voor t oog allicht behoorlijke, maar inderdaad zeer onvoldoende toe­ standen.” [(Knapper, 1935, p. 132)](zotero://open-pdf/library/items/SJ9MWPA3?page=132)
+
+> “geredigeerde „[[Tijdschrift voor Sociale Geneeskunde]]" — dat wel onweersproken als de Tribuun op het gebied van de Hygiënische Voorzorg mag worden beschouwd — door te bladeren en nu en dan te lezen wat in het „Nederl. Tijdschrift voor Geneeskunde" en in het „Maandblad van de Nederl. Vereen, v. Huisartsen" erover gepubliceerd wordt.” [(Knapper, 1935, p. 133)](zotero://open-pdf/library/items/SJ9MWPA3?page=133)
+
+> “Op het Groene-Kruiscongres in Sept. 1930 te Utrecht, besprak o.a. Dr. C. MOL uit Etten de verhouding van den huisarts tot de sociale geneeskunde. Eenerzijds — zeide hij — toename van belangstelling, hetzij uit werkelijk inzicht dan wel enkel aangespoord door 't voorbeeld van de omgeving. Anderzijds angst dat de ontwikkeling der sociale geneeskunde den huisarts, speciaal den dorpsarts belemmeren zal in zijn praktijk, hem het werk en daarmee het vertrouwen van zijn dorpsgenooten uit de hand nemen zal. Wijkverpleging van gemeentewege; Schoolartsen en Schoolzuster in dienst der provincie; Zuigelingenarts en -zuster van Regeenngswege of door een Kruisvereeniging aangesteld; Kleuterconsultatie­ bureau; Tuberculosevoorzorgdienst; Toezicht op onvolwaardige, geestelijk en licha­ melijk achterlijken; Maatschappelijk Werk-zuster. Wat ploegt en zaait, wat maait en oogst men daar al niet om hem heen, in zijn dorp, waar hij toch telkens weer direct of indirect in betrokken wordt en zulks zonder dat hij er persoonlijk invloed op kan uitoefenen door leiding te geven aan de geheele” [(Knapper, 1935, p. 133)](zotero://open-pdf/library/items/SJ9MWPA3?page=133)
+
+> “&lt;&lt;organisatie! Ware het dan niet mogelijk, dat de huisarts weer zijn oude ideale positie ging innemen van vroeger, de geraadpleegde van zijn dorp over het geheele gebied der geneeskunst, de eerst aangewezene op het gebied der preventie? Sedert aan onze universiteiten over 't algemeen voortreffelijk onderwijs gegeven wordt in de kindergeneeskunde, geraakt de tijd voorbij, dat de gemiddelde arts op dit gebied incompetent moest verklaard worden.” [(Knapper, 1935, p. 134)](zotero://open-pdf/library/items/SJ9MWPA3?page=134)
+
+Physicians were not outspoken enthusiasts of child health care
+
+> “Een dringende categorische eisch echter is, dat de huisarts zich voor deze taak competent maken moet door zijn opleiding en blijven moet door onderhoud van het zich eigen gemaakte (Dr. PLANTENGA, rede 1935, Utrecht). De preventieve geneeskunst behoort zijn geestelijk eigendom te zijn.” [(Knapper, 1935, p. 134)](zotero://open-pdf/library/items/SJ9MWPA3?page=134)
+
+I need to find this lecture by Plantenga in Utrecht.
+
+> “„Tegenwerking — zegt W. — inzake voorzorg op hygiënisch gebied, is van geen „enkelen arts te verwachten, zoolang de inmenging geschiedt in overeenstemming „met de positie welke hij als arts behoort in te nemen. Medewerking zal ieder arts „dln verleenen zoolang zijn gewone arbeid hem daartoe den tijd en de gelegenheid „geeft. Voorzorgraden (consultatiebureaux voor zuigelingen en kleuters) behooren „door specialisten te worden geleid. De huisarts, die in deze Raden behoort te blijven „ingeschakeld, zal gaarne consulteeren met dien specialist in den ouden, goeden zin.” [(Knapper, 1935, p. 134)](zotero://open-pdf/library/items/SJ9MWPA3?page=134)
+
+> “Verbinden deze voorzorgraden zich met deskundigen op ander voorzorggebied, dan kunnen zij een krachtige organisatie vormen. Provinciale-districts-gemeentelijke gezondheidscommissies her­ vormd!” [(Knapper, 1935, p. 135)](zotero://open-pdf/library/items/SJ9MWPA3?page=135)
+
+> “n Dr. KOPPUIS acht het als vanzelfsprekend, dat men maar niet steeds van den huisarts onbezoldigd werk vragen mag. Arbeid moet betaald worden, dat is billijk en ook organisatorisch juist. Dr. BRENKMAN is reeds sinds jaar en dag de onvermoeide voorstander van het stelsel: specialist-[[kinderarts]] de leiding, praenatalezorg, zuigelingenzorg, [[kleuterzorg]] en toezicht op het schoolgaande kind alles liefst in één hand (Gezondhcidsarts).” [(Knapper, 1935, p. 135)](zotero://open-pdf/library/items/SJ9MWPA3?page=135)
+
+> “Bij voorloopig te kort aan specialist-kinderartsen zal zich op den duur het aanbod regelen naar de vraag, des te eer nu mettertijd de combinatie huisarts-[[kinderarts]] zal komen te vervallen” [(Knapper, 1935, p. 136)](zotero://open-pdf/library/items/SJ9MWPA3?page=136)
+
+> “Maar van één ding heb ik mij in den loop der jaren en speciaal op mijn speurtochten in het laatste jaar ten volle kunnen overtuigen: bij de doctoren heeft onverschilligheid plaats gemaakt voor belangstelling; antipathie week allengs meer voor sympathie. „Wat heeft 't voor zin?" hoor ik nog 'n collega mij smalend vragen, „de zusters jagen de moeders met de „zuigelingen op, hoe meer hoe liever. Ze hokken samen in „wachtkamers, babbelen onder elkaar en praten de kinderen „ziek, deze worden eventjes gewogen — de moeder gaat tevreden „naar huis en daarmee basta.” [(Knapper, 1935, p. 136)](zotero://open-pdf/library/items/SJ9MWPA3?page=136)
+
+Scepticism from doctors was the result of its unclear use. It made mothers happy, but it was unclear what it performed precisely.
+
+> “In een der oudste „Grietenijen" van Friesland mislukten de pogingen van een der dorpsgeneesheeren om een [[Consultatiebureau]] voor zuigelingen te openen telkens weer doordat geen voldoende samenwerking met de andere twee te verwachten was. De moeders, die het er voor over hadden, gingen met hare zuigelingen naar de nabije provinciestad op 10 K.M. afstand. Tenslotte greep in 1934 de Commissie voor de Kinderhygiëne in. Door den provincialen [[kinderarts]] of zijn assistente wordt nu een [[Consultatiebureau]] geleid in een ruime villa even buiten het dorp, die in vele opzichten uitstekend geschikt is. Het bezoek is goed, ook van plaatsen in de naaste omgeving. Iedereen, óók de doctoren, vinden thans dat het in een behoefte voorziet!” [(Knapper, 1935, p. 137)](zotero://open-pdf/library/items/SJ9MWPA3?page=137)
+
+Well, this seems as if it responded to a certain demand
+
+> “Tegenstanders van gisteren, medestanders van morgen! Stille mokkers van vroeger sturen nu zelf de zuigelingen uit hun praktijk naar de bureaux; het zijn ijverige propagandisten ge­ worden.” [(Knapper, 1935, p. 137)](zotero://open-pdf/library/items/SJ9MWPA3?page=137)
+
+It still remains clear WHY this happened?
+
+> “Tegenover de Zuigelingenbescherming als stelsel staannog slechts zeer enkelen. De overgroote meerderheid is er voor. 't Blijft nu maar de vraag, hoe, in welken vormieder zich deze wenscht. Dat moet de toekomst uitmaken. Voorloopig gaat het met de preventie nog steeds crescendo; de enkele bestrijders — zooals voor kort nog in de Telegraaf — vinden steeds minder aanhang. Wij zijn nog slechts aan het begin, maar tegenhouden laat zij zich allerminst. Een steun en troost mag zijn dat ook bij onze oostelijke en zuidelijke buren dezelfde moeilijkheden doorge­ maakt zijn of worden. Van Regeeringswege wordt daar uit­ voerig voorgelicht en zoo noodig krachtdadig ingegrepen. Zullen wij met gindsche ervaringen mettertijd nog eens ons voordeel kunnen doen?” [(Knapper, 1935, p. 137)](zotero://open-pdf/library/items/SJ9MWPA3?page=137)
+
+The controversy about starting consultation offices is a fascinating starting point.
+
+
+# HOOFDSTUK IV Het contact van de Zuigelingenbescherming met andere diensten van sociale [[hygiëne]] en voorzorg.[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=138)
+
+
+## I. KRAAMBESCHERMING.[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=138)
+
+
+## II. ZUIGELINGENBESCHERMING.[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=139)
+
+> “Bureau voor raad en hulp. 2. Huisbezoek door vakkundigen. 3. Voedselverschafflng, zoo noodig, aan moeder en kind. 4. Moederlessen in kinderverzorging. 5. Schriftelijke raadpleging en voorlichting. 6. Kleuter-bewaarplaatsen.” [(Knapper, 1935, p. 139)](zotero://open-pdf/library/items/SJ9MWPA3?page=139)
+
+> “Niet enkel, dat van de zuigelingenzorg straalsgewijs verbindingen uitgaan met andere instituten, maar bovendien&nbsp; treft de onderlinge samenhang van deze laatste.” [(Knapper, 1935, p. 139)](zotero://open-pdf/library/items/SJ9MWPA3?page=139)
+
+> “Reeds nu mag ik de aandacht vestigen op het verband, ZooalS dat SindS begin 1934 bl' den Amsterdamschen Gemeentelijken Geneeskundigen Dienst gelegd is tusschen zuigelingenzorg, [[kleuterzorg]] en hygiënisch schooltoezicht. Het behoorde reeds lang tot de wenschen, maar de uitvoering thans hangt ten nauwste samen met de over de geheele linie noodzakelijk geworden bezuiniging. In een achttal wijken is het werk van den schoolarts grootendeels teruggebracht tot de morgenuren, terwijl zijn middaguren dan bestemd zijn voor zuigelingen- en kleuter­consultatie, zooveel mogelijk in dezelfde wijk en met mede­werking van denzelfden staf van verpleegsters. Hiernaast bestaan voorloopig nog een zestal zuigelingenbureaux zelfstandig. Het is te vroeg, om nu reeds een oordeel te geven. Blijkt het echter” [(Knapper, 1935, p. 139)](zotero://open-pdf/library/items/SJ9MWPA3?page=139)
+
+![](file:///C:\Users\vdmee\Zotero\storage\2N6T7GST\image.png)
+
+> “&lt;&lt;practisch uitvoerbaar om zoo weinig mogelijk mutatie te brengen in den staf van dezen gecombineerden voorzorgdienst, om de bureaux niet te verplaatsen, om de wijkverdeeling zoo weinig mogelijk te veranderen, dan zal men over enkele jaren de balans der voor- en nadeelen kunnen opmaken.” [(Knapper, 1935, p. 141)](zotero://open-pdf/library/items/SJ9MWPA3?page=141)
+
+> “Meer uitvoerig kwam dit onderwerp ter sprake op het Tweede Kleuter-Congres (Juni 1932). „Alles loopt vlotter—zeide Dr. [[[[Suze van Veen]]|[[SUZE VAN VE]]EN]]—op een kleuterbureau, „zoodra dit aansluit aan zuigelingenbureaux." Maar het groeitempo der C. B. voor kleuters moet vooral niet te krachtig aangezet worden; het beste is, dat aan zulk een bureau reeds enkele jaren zuigelingenbureau voorafgaat,teneinde de moeders geleidelijk de grondslagen bij te brengen van lichamelijke zoowel als van geestelijke [[hygiëne]] en voor deze laatste zijn de plattelandsvrouwen nog altijd veel moeilijker toegankelijk dan de grootestadsbewoonsters. Het verwerken der statistische gegevens levert vele moeilijkheden op, maar dat er op den duur wel iets van waarde bereikt kan worden, blijkt reeds nu uit de vergelijkende sterftestatistiek der opvolgende leeftijden, waarmede over de tienjarige perioden 1880—89 tot en met 1921—30 een begin gemaakt is” [(Knapper, 1935, p. 141)](zotero://open-pdf/library/items/SJ9MWPA3?page=141)
+
+![](file:///C:\Users\vdmee\Zotero\storage\6J8YW5I3\image.png)
+
+> “ntieve geneeskunst voor de gemeenschap gespaard, verdiend? Jammer genoeg, ziekte­ statistieken zijn nog veel te onbetrouwbaar, dan dat men iets anders zeggen kan dan: ook hier zijn betere toestanden te ver­ wachten, getuige het onderzoekvan BRENKMAN opschoolkinderen, die te voren een C. B. bezochten.Een zeker gevoel van onvoldaan­ heid heerscht er dikwijls bij den staf van een zuigelingenbureau, wanneer na een jaar het contact moet verbroken worden. Slechts 'n enkele ontkomt er aan door aan zekere moeders toe te staan om nog in het tweede jaar terug te komen, nu en dan, maar dan toch altijd onregelmatig, ongeregistreerd. Groot is en blijft de aandrang van de ouders op 't regelmatig voortgezet toezicht, op den „verbindenden schakel" met het schooltoezicht. „Een front is niet sterker dan zijn zwakste punt", heeft onze pionier van de [[kleuterzorg]] Dr. C. M.MOL indertijd gezegd. Dit nu wordt aanzienlijk versterkt, de gaping wordt overbrugd. Eenzelfde toezicht, een zelfde deskundige als 't kan en waar dat nog niet kan, dan is daar toch altijd als blijvende waarde het begin van een „document humain", een „carnet sanitaire", dat kan worden meegedragen, uitgewisseld, geraadpleegd. Waar zulk een ge­ dachte nu eenmaal in de lucht zweeft, duurt het niet lang of zij vindt haar plaats om te verankeren.” [(Knapper, 1935, p. 142)](zotero://open-pdf/library/items/SJ9MWPA3?page=142)
+
+Shows that kleuterconsultatiebureaus form a missing link with school physicians.
+
+> “Gelukkig zijn de grondslagen goed, te zijner tijd kan er op worden voortgebouwd. Zoo zouden mijns in ziens de uitvoerige en nauwkeurige aanteekeningen op de lijsten der aansluitende bureaux en op de schoolkaart kunnen worden vereenigd tot een „carnet", een „zakboekje", dat in bruikbaren, duurzamen vorm aan de ouders ter hand gesteld van groote beteekenis zou blijken te zijn en den waardevollen grondslag kunnen vormen van een „docu­ment humain". Men behoeft het nog niet — zooals mijn collega L. POSTHUMA in een boekbeoordeeling zich uitdrukt — als een „menschelijk stamboek" te beschouwen, „dat ieder mensch van „zijn zuigelingleeftijd tot zijn 65e jaar zou moeten laten bijhou„den en in zijn zak meedragen om het bij elke gewichtige aan­gelegenheid te raadplegen, bij sollicitaties e.d. te vertoonen(!)" Daarmee zou het allicht veroordeeld zijn en dat verdient het m.i. allerminst. Als nasla-boekje heeft het ontegenzeggelijk waarde, indien het in beperkte mate gebruikt wordt.” [(Knapper, 1935, p. 143)](zotero://open-pdf/library/items/SJ9MWPA3?page=143)
+
+"Gezondheidsboekje" sounds fascinating.Does not seem to be supper popular: https://www.delpher.nl/nl/kranten/view?query=gezondheidszakboekje&coll=ddd&identifier=ddd:010019951:mpeg21:a0029&resultsidentifier=ddd:010019951:mpeg21:a0029&rowid=1
+
+> “District-kleuterbureaux zijn er ook al in de dorpen van Zuid-Limburg. Wie deze landstreek kent en weet hoe krachtig en vooruitstrevend men daar gewend is om aan te pakken, begrijpt dat de ideale com­ binatie praenatale zorg, zuigelingen en [[kleuterzorg]], hygiënisch schooltoezicht slechts een kwestie van tijd behoeft te zijn.” [(Knapper, 1935, p. 144)](zotero://open-pdf/library/items/SJ9MWPA3?page=144)
+
+> “In enkele grootere steden trof ik Zwangerenpoliklinieken in dezelfde gebouwen, naast de bureaux waar een C. B. voor Zuigelingen gehouden werd. Het contact wordt er door in de hand gewerkt. Er ontstaat uitwisseling van gedachten, bespreking en uitvoering van maatregelen door beide organisaties. Bijvoorbeeld: Zoodra te Amsterdam een aanstaande moeder in 't bezit is van een kaart voor gemeentelijke verloskundige hulp, verschijnt zij bij de gemeente-vroedvrouw van haar wijk, die in hetzelfde gebouw en op hetzelfde uur zitting houdt als de voorzorg-arts voor zuigelingen. Eventueel overleg met dezen wordt op de kaart vastgelegd. Te Utrecht is sinds 192&lt;i een organisatie in werking, waarbij iedere zwangere na de zevende maand om de 14 dagen op bepaalde punten onderzocht wordt, zoo noodig aan hare woning.” [(Knapper, 1935, p. 145)](zotero://open-pdf/library/items/SJ9MWPA3?page=145)
+
+> “In kleinere plaatsen blijft het beperkt tot persoonlijk optreden; eenig organisch verband ontbreekt meestal. Dokter en zuigelingenzuster, vroedvrouw en kraamverzorgster, wijkbaker, ieder voor zich zijn zich wel bewust van het groote belang, maar daar blijft het dan ook meestal bij. Niet in de laatste plaats, doordat de aanstaande moeder zelf zich niet voldoende bewust is. Her­ haaldelijk hoorde ik de klacht, dat de vrouwen veel te laat zelf de zwangerschap aankondigen, de verlossing komen bespreken. Soms eerst 10-14 dagen voordat ze uitgerekend zijn! Wat kan er op zulk een manier terecht komen van voorzorg? Propaganda, opsporingsdienst komen hier in 't geweer!” [(Knapper, 1935, p. 145)](zotero://open-pdf/library/items/SJ9MWPA3?page=145)
+
+> “De laatste loodjes wegen het zwaarst! De eerste dalingen in de zuigelingensterfte gingen glad ([[voeding]], zomerwarmte); de vol­ gende percenten vielen niet zoo vlot (infectie e.a.). Nu het gaat om de laatste percenten af te brokkelen: steeds langzamer, moei­ lijker, soms zelfs in resultaat nauwelijks merkbaar! Dertig jaren na het bekende onderzoek te Nijmegen is opnieuw een Com­ missie ter plaatse belast met het opsporen der hooge zuigelingsterfte in1929,door eenverslag over I93i-'34- zomertopis weg­ gevallen, acute infectieziekten eischen nog veel slachtoffers, het meest opvallend is de zgn. vroege sterfte (eerste 10 dagen).1/4 /3 van 't geheel.” [(Knapper, 1935, p. 146)](zotero://open-pdf/library/items/SJ9MWPA3?page=146)
+
+Alright so the causes of infant mortality are perceived to be staged (chronologically): first nutrituion and lack of sunlight, then infectious disease, other problems that indeed came later, are not mentioned yet.!! [[During the 1920s and 1930s, the emphasis shifted from improving nutrituion
+
+> “waard blijft! Zuigelingenbescherming zonder voorbehoeding tegen de besmetTuberculose en ting. met het gif der tuberculose kan men zich zuigelingenzorg moeilijk meer denken, nu wetenschappelijk vastgesteld is, dat juist de zuigeling en 't allermeest wel de pasgeborene aan contact-infectie gemakkelijk bloot staat. Hiernaast treedt de mogelijkheid van besmetting vóór de geboorte ver op den achtergrond; aan een zekere erfelijke dispositie kan slechts een zeer ondergeschikte rol worden toebedeeld. Ook de gevolgen van zulk een besmetting zijn buitengewoon funest; hoe jonger het kind, des te erger. De vormen, waaronder de ziekte zich openbaren kan, zijn veelvuldiger dan men zich oorspronkelijk gedacht had en dikwijls moeilijk te ontwarren. Vandaar ook dat o.a. Dr. v. D. KASTEELE reeds in 1918 in het Haagsche [[Consultatiebureau]] voor Tuber­ culose een begin maakte met een afzonderlijke zitting voor zuigelingen en kleine kinderen.” [(Knapper, 1935, p. 147)](zotero://open-pdf/library/items/SJ9MWPA3?page=147)
+
+Couple of interesting elements here:- hereditary explanation of tbc did not play any significant role (at the time of writing at least)- the connection between infant mortality and tb eradication is huge.
+
+> “Zegenrijk kan hier dan ook de reeds vroeger door mij genoemde B. C. G. [[vaccinatie]] werken, zooals deze o.a. door Dr. M. HEYNSIUS VAN DEN BERG toegepast en op de Maatschappij-vergadering in 1932 te Leeuwarden uiteengezet is. Sindsdien is deze methode doorgedrongen tot in de kleinste, meest afgelegen gemeenten. Hiervan heb ik mij persoonlijk kunnen overtuigen.” [(Knapper, 1935, p. 147)](zotero://open-pdf/library/items/SJ9MWPA3?page=147)
+
+This need more investigation - did this meeting result in the spread of vaccination practices through consultation offices?
+
+> “In het meer genoemde Hollandsche Veld bestaat tusschen het Zuigelingenbureau,” [(Knapper, 1935, p. 147)](zotero://open-pdf/library/items/SJ9MWPA3?page=147)
+
+> “&lt;&lt;dat door de doktersvrouw gehouden wordt, én het Tuberculosebureau te Hoogeveen «„ r„esamenwerking, b^rb.eld v» «en 4M&gt;.»«» mg«chr , n zuigelingen er 4 uit gezinnen met open tuberculose met het B. & G-vaccm tijd g geënt wérden!” [(Knapper, 1935, p. 148)](zotero://open-pdf/library/items/SJ9MWPA3?page=148)
+
+> “Niet altijd is er zulk een officieel contact. Dan hangt het er vanaf hoe de leiding het „aanvoelt". Een zuigelingenzuster met brains" — zeide mij een Limburgsche leider — kan het officieele heel goed vervangen. Met voldoening nam ik Pirquetreactie en Röntgen-doorlichting waar als opsporingsmiddelen. De Inspectie der Kinderhygiëne in Gelderland heeft juist ter bevordering eener stelselmatige samenwerking de inspectielijsten zoodanig ingericht, dat deze zoowel voor zuigelingenzorg als voor t.b.c.-bestrijding dienst kunnen doen. Bovendien heeft de huisbezoekster formeele opdracht om haar huisbezoek om de 3 maanden te herhalen, óók indien haar eerste pogingen falen en het gezin haar toch verdacht voorkomt.” [(Knapper, 1935, p. 148)](zotero://open-pdf/library/items/SJ9MWPA3?page=148)
+
+> “Teleurstellend was voor mij de mededeeling in een groote industriestad, dat de voorzorgdienst tegen tuberculose zoodanig met werk overladen was, dat er geen voldoende tijd overbleef voor het opsporen der contacten! Ergens in den Achterhoek beleefde ik zelf op een [[Consultatiebureau]], dat een pasgeborene niet gevaccineerd was, terwijl de vader aan erkend open longtuberculose leed. Het risico van infectie met virulente bactenen van den zieke zelf is toch wel enorm veel hooger dan de kans van ziek worden door [[vaccinatie]] met a-virulente! Gelukkig behoorde dit tot de groote uitzonderingen.” [(Knapper, 1935, p. 148)](zotero://open-pdf/library/items/SJ9MWPA3?page=148)
+
+ad-hoc [[vaccinatie]]
+
+> “In Amsterdam is er altijd door contact. Dan mag men niet vergeten, dat de voor kort opgerichte Vereeniging T A (ndheelkundige) V O (or en) N A (zorg) zonder twijfel ook haar arbeid, althans haar belangen­ sfeer zal moeten uitstrekken tot in den zuigelingenleeftijd, wil zij inderdaad afdoende preventief werken. Tot kleuter en school­ kind mag zij zich dan niet beperken.” [(Knapper, 1935, p. 149)](zotero://open-pdf/library/items/SJ9MWPA3?page=149)
+
+> “Met vereenigingen, die zich het lot der lichamelijk en geestelijk minderwaardigen aantrekken, krijgt de zuigelingenzuster vanzelf ook contact. In de groote bevolkingscentra draagt zij de zorg meestal over aan de sociale zuster, anders werd haar taak te veel omvattend.” [(Knapper, 1935, p. 149)](zotero://open-pdf/library/items/SJ9MWPA3?page=149)
+
+> “Maar in de provincie, in afgelegen streken, mag het Zuigelingenbureau zich dikwijls de verdienste aanrekenen, dat het voor het eerst de aandacht vestigt op aangeboren afwijkingen en den weg effent ter voorziening, voor zoover afwijkingen mogelijk.” [(Knapper, 1935, p. 149)](zotero://open-pdf/library/items/SJ9MWPA3?page=149)
+
+> “De zuigelingenzuster ziet haar werk juist hierdoor weer belangwekkender en vruchtdragender worden. Zij is een schakel in den opsporingsdienst, voor welke Dr. E. LA CHAPELLE (indertijd in Emmen), Dr. J. VAN ASSEN (Rotterdam) en Dr. W. WASSINK (Amsterdam) reeds van 1927 af bijzonder ijverden en die o.a. te Emmen geleid heeft en binnenkort ook te Assen leiden zal tot exploitatie van platte­ lands Groene-Kruisconsulatiebureaux voor gebrekkigen.” [(Knapper, 1935, p. 149)](zotero://open-pdf/library/items/SJ9MWPA3?page=149)
+
+This is seems to be about looking for hereditary defects in an organised manner.
+
+> “Dreigt haar taak wel eens te zwaar te worden, dan vindt zuster altijd steun bij toegewijde Groene-Kruisbestuursleden. In 1927 in de eerste 10 maanden na opening, ging het Bureau Emmen reeds over 100, in 1928 over 261, in 1933 over 127 gebrekkigen. Rotterdam heeft een eigen [[Consultatiebureau]] (Dr. J. v. ASSEN). Even daadwerkelijk is haar contact met de gezinnen, waar uit­ bestede kinderen ondergebracht zijn, nu eens direct, dan weer door tusschenkomst van den Armenraad, de F.I.O.M. (Fede-” [(Knapper, 1935, p. 149)](zotero://open-pdf/library/items/SJ9MWPA3?page=149)
+
+> “ratie van Instellingen voor de ongehuwde moeder en haar kind), of de U.V.O.M. (Unie van Vereenigingen voor Ongehuwde Moeders).” [(Knapper, 1935, p. 150)](zotero://open-pdf/library/items/SJ9MWPA3?page=150)
+
+> “De misstanden op dit gebied behoef ik niet te schetsen; de zgn. engeltjesmakerij behoort tot het verleden, op zichzelf staande gevallen van misdadige verwaarloozing worden streng nagegaan en uitgeroeid. Maar aangezien er een wettelijke regeling op het uitbesteden van kinderen nog altijd niet is, hoogstens een enkele gemeentelijke verordening, blijft een regelmatig toezicht der zusters met hulp en steun der bureaux van groot belang.” [(Knapper, 1935, p. 150)](zotero://open-pdf/library/items/SJ9MWPA3?page=150)
+
+> “In de hoofdstad en enkele andere steden blijft de leiding van het Zuigelingenbureau vrij regelmatig op de hoogte van alle uitbesteden, van elke verhuizing der pleegmoeder, van iedere overbrenging naar een ander milieu en zooveel mogelijk van het doen en laten der eigen moeder. In de eerste plaats om der wille van de [[borstvoeding]], maar daarnaast om tientallen andere redenen.. Deze bemoeiingen mogen dan wel eens als hinderlijk, lastig, belemmerend aangevoeld worden, met tact en menschenkennis toegepast, kunnen zij voor dit toch al mis­ deelde jonge menschenkind wel niet anders dan voordeel af­ werpen. Vooral in de zuidelijke provincies trof het mij, dat dit toezicht der bezoekzusters wel streng, maar daarnaast diep belangstellend was.” [(Knapper, 1935, p. 150)](zotero://open-pdf/library/items/SJ9MWPA3?page=150)
+
+Interesting how moving out of homes is conntected to "less worthy"citizens.
+
+
+# HOOFDSTUK V Toekomstwenschen[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=152)
+
+
+## 1. Vereenvoudigde organisatie[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=152)
+
+> “Er was voor 25 jaren te weinig systeem, te weinig samenwerking en overleg. Eenzelfde gedachtengang, die alles beheerschte, ontbrak niet enkel internationaal, óók binnen onze eigen lands­ grenzen” [(Knapper, 1935, p. 152)](zotero://open-pdf/library/items/SJ9MWPA3?page=152)
+
+> “Het mag niet voorkomen, dat&nbsp; verschillende organisaties, instellingen, personen gelijktijdig eenzelfde terrein bewerken, zonder elkaar daarin te kennen. Dat (een mijper­soonlijk bekend voorbeeld), bezoekzusters van verschillende bu­reaux, elkaar op grooten afstand van het centrum in dezelfde wijk ontmoeten, met gelijksoortige opdrachten!” [(Knapper, 1935, p. 152)](zotero://open-pdf/library/items/SJ9MWPA3?page=152)
+
+> “Zoo raadde Dr. H. KOENEN (Maastricht) in 1929 aan: „Bij uitbreiding van het „ziekenfondswezen ten plattelande ware te overwegen, dat de dorpsarts, tevens „ziekenfondsdeelnemer, zijn eigen [[consultatiebureau]] leidde in localiteiten, hem „door de fondsen ter beschikking gesteld. En hij zelf, voorzoover dit redelijk was, „door diezelfde verzekeringsinstellingen gehonoreerd. Dan blijft hij baas in eigen „huis, zijn werk wordt erdoor geordend en verlicht, 't publiek is er mee geholpen.” [(Knapper, 1935, p. 153)](zotero://open-pdf/library/items/SJ9MWPA3?page=153)
+
+Interesting role of Ziekenfondsen
+
+> “Welk een chaos dringt zich op, zoodra men waarneemt, dat in éénzelfde provinciestad: de schoolarts in dienst der provincie, een zuigelingenarts in dienst eener Kruisvereeniging werkt; een kleuterbureau-leider door een particuliere vereeniging, de Tuberculosearts door de Centrale Vereeniging aangesteld is. Dan, zoo komt het mij voor, is het wenschelijk, dat de oude Gezondheidscommissies in gewijzigden vorm herrijzen met ver­ tegenwoordiging zooveel als mogelijk is van alle groepen. Dr. BRENKMAN heeft er voordurend op gewezen en Dr. P. v. D. HEYDEN ('S Hertogenbosch) en Dr. H. SAUER (Winschoten) komen er in hunne proefschriften krachtig voor op de bres.” [(Knapper, 1935, p. 153)](zotero://open-pdf/library/items/SJ9MWPA3?page=153)
+
+Yet, this has been the situation until the 1980sShould also look into these dissertations
+
+
+## 2. Praenatale zorg. Actieve [[zoogpropaganda]][ ](zotero://open-pdf/library/items/SJ9MWPA3?page=153)
+
+> “Aangezien het toch altijd nog als een onomstootelijke waarheid gelden mag, dat in de eerste levensperiode en voor het overgroote meerendeel der kinderen niets hun weerstand méér verhoogt dan het voedsel van de eigen moeder, is er toch wel alle reden voor om hierop alle beschikbare krachten te concen­ treeren” [(Knapper, 1935, p. 154)](zotero://open-pdf/library/items/SJ9MWPA3?page=154)
+
+> “Hoe interessant ook, ik mag hierop niet verder ingaan. Het essentieele is tenslotte, dat het in de naaste toekomst mogelijk zijn zal om méér dan tot nu toe door aard der [[voeding]], oordeel­ kundige verdeeling der voedingsvitaminen (Prof. JANSEN) en levens­ wijs der aanstaande en jonge moeders invloed uit te oefenen op de qualiteit van het zog.” [(Knapper, 1935, p. 155)](zotero://open-pdf/library/items/SJ9MWPA3?page=155)
+
+> “Zoogpremies zijn terecht reeds lang afgeschaft. Maar indien het er toe mocht komen, dat aan deconsultatiebureaux toegangs­ geld moet geheven worden, dan zou men dit geld na eenigen tijd regelmatig bezoek aan de zoogende moeders kunnen terug geven of ze verder vrij stellen. Te Haarlem geschiedt dit reeds. Zooggelegenheid in fabrieken, crèches, doorgangshuizen e.a. blijft van beteekenis, ook al is de noodzaak minder dringend dan vroeger.” [(Knapper, 1935, p. 158)](zotero://open-pdf/library/items/SJ9MWPA3?page=158)
+
+
+## 3. Vermeerdering, verdieping van kennis[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=158)
+
+> “Nog vele moeders moeten tot bewustheid, tot 't juiste inzicht gebracht worden. Edoch: geen goed begrip zonder aangeleerde kennis. De laatste kwarteeuw heeft veel verbetering gebracht. Leiders en leidsters zijn toegerust en vaardig om te onderrichten. Maar de moeders, zijn die voldoende onderlegd? En de toe­ komstige? En het jonge meisje, dat toch bijna altijd in eenig tijdperk van haar verdere leven, in welken vorm dan ook, zal geroepen worden om het jonge kind te verzorgen? Hierop kan het antwoord nauwlijks „bevredigend" luiden.” [(Knapper, 1935, p. 158)](zotero://open-pdf/library/items/SJ9MWPA3?page=158)
+
+Education of mothers is important
+
+> “Ieder leider van een [[Consultatiebureau]] zal u kunnen verhalen van die jonge moedertjes, die zóó van de lagere school naar fabriek of kantoor of in een dienstje gingen en vandaar zóó in het huwelijk overstapten, die dan ook volstrekt onwetend staan tegenover veel, neen letterlijk tegenover alles wat het moeder­ schap van haar eischen kan. Behalve dan misschien een enkele losse opmerking, een halve waarheid, een verkeerde raad van moeder, tante, buurvrouw opgevangen. Het eerste en menig­ maal ook nog het volgende kleintje zijn dan de „proefkonijntjes" waarop het „vak" moet geleerd worden. Op de school komt 't gemiddelde jonge meisje niet veel verder dan eenig begrip van de algemeene [[hygiëne]], waarop zij 'in 't gunstigste geval later tenminste nog zal kunnen voortbouwen. Maar voor velen gaan zelfs de populaire kinderzorglessen al te hoog, terwijl ze die toch belangstellend en weetgierig trachten te volgen.” [(Knapper, 1935, p. 159)](zotero://open-pdf/library/items/SJ9MWPA3?page=159)
+
+> “Ik gevoel mij verlicht dat ik geen vast omlijnd leerplan behoef aan te geven, dat ik mij bepalen mag tot den algemeenen wensch: Laat ieder meisje in zeker tijdperk van haar ontwikkeling kennis vergaren aangaande de verzorging van kinderen, gedachtig aan de leus van Prof. Dr. SCHLOSSMANN: „De allerbeste bescher­ ming van den zuigeling is het bewuste inzicht, de juiste kennis van zijn verzorging!" en aan 't woord van AUGUST HITLER: Een goede moeder is de beste staatsburgeres!” [(Knapper, 1935, p. 161)](zotero://open-pdf/library/items/SJ9MWPA3?page=161)
+
+Righteouss motherhood results in a good citizen
+
+> “4e. Onderricht van de studenten in de geneeskunde in sociale voorzorg, speciaal kinderhygiëne.” [(Knapper, 1935, p. 161)](zotero://open-pdf/library/items/SJ9MWPA3?page=161)
+
+> “Juist in dit jaar worden vanwege het Instituut voor Preventieve Geneeskunde (Dr. D. BIJL) weer artsencursussen gegeven te Leiden in kindergenees­ kunde voor sociale doeleinden” [(Knapper, 1935, p. 161)](zotero://open-pdf/library/items/SJ9MWPA3?page=161)
+
+> “Se. Aanvullingscursussen voor gevestigde verloskun­ digen” [(Knapper, 1935, p. 161)](zotero://open-pdf/library/items/SJ9MWPA3?page=161)
+
+> “6e. Opleiding van kraamverpleegsters, kraamverzorg­ sters en bakers,” [(Knapper, 1935, p. 161)](zotero://open-pdf/library/items/SJ9MWPA3?page=161)
+
+> “6e. Regelmatige controle van den gezondheidstoestand van alle groepen van functionarissen,” [(Knapper, 1935, p. 162)](zotero://open-pdf/library/items/SJ9MWPA3?page=162)
+
+> “7e. Systematische voorlichting van zwangeren op poli­ klinieken, consultatiebureaux; door voordrachten, korte raadgevingen enz. Nuttige wenken aan toekomstige jonge vaders (Vadercursussen).” [(Knapper, 1935, p. 162)](zotero://open-pdf/library/items/SJ9MWPA3?page=162)
+
+> “8e. Verdieping van het werk van de Zuigelingenraadpleging,” [(Knapper, 1935, p. 162)](zotero://open-pdf/library/items/SJ9MWPA3?page=162)
+
+> “9e. Verbeterde, meer uitgebreide voorlichting van ouders zonder vast domicilie” [(Knapper, 1935, p. 162)](zotero://open-pdf/library/items/SJ9MWPA3?page=162)
+
+> “(schippers, kermisreizigers, reizende marskramers en handwerkslieden). Veelzijdige bekendmaking van de gelegenheid tot raad­ pleging (advertenties, radio, jaarboekjes, vlugschriften, vakblaadjes). Uitbreiding van de bureaux langs het vaarwater en op de knooppunten. Uitreiking van een brochure, een zakboekje, bestemd voor [[zoogpropaganda]], bevattende een lijst van betrouwbare voedingspraeparaten, hygiënische wenken en tevens dienende als carnet sanitaire, dat aan de opvolgende bureaux kan worden bijgehouden (Uitbreiding dus van de bestaande Consultatiebureaukaart en de Wenken voor ouders van schippers­ kinderen).” [(Knapper, 1935, p. 162)](zotero://open-pdf/library/items/SJ9MWPA3?page=162)
+
+> “10e. Meer aandacht voor de [[hygiëne]] van den zuigeling in verband met het toenemende verkeer,” [(Knapper, 1935, p. 162)](zotero://open-pdf/library/items/SJ9MWPA3?page=162)
+
+> “He. Lichamelijke gezondheidszorg voor het jonge meisje, teneinde het krachtig te houden tegen den tijd dat hoogere eischen eraan zullen gesteld worden. In de groote steden is hierin veel verbeterd” [(Knapper, 1935, p. 162)](zotero://open-pdf/library/items/SJ9MWPA3?page=162)
+
+> “12e. Zorgvuldige bewerking van ziekte- en sterftestatistieken,” [(Knapper, 1935, p. 162)](zotero://open-pdf/library/items/SJ9MWPA3?page=162)
+
+> “13e. Bij voorkeur plaatselijke en zgn. individueele, weten­ schappelijk gedocumenteerde overzichten.” [(Knapper, 1935, p. 163)](zotero://open-pdf/library/items/SJ9MWPA3?page=163)
+
+> “14e. Kraamverzekering, liever nog Moedèrschapsverzeke­ ring op ruimer schaal.” [(Knapper, 1935, p. 163)](zotero://open-pdf/library/items/SJ9MWPA3?page=163)
+
+> “Vooralsnog blijft men aangewezen op de bescherming, welke de Ziektewet aan de aanstaande en jonge moeders onder de loonarbeidsters verschaft en op het initiatief van Kruisvereenigingen en Ziekenfondsen.” [(Knapper, 1935, p. 163)](zotero://open-pdf/library/items/SJ9MWPA3?page=163)
+
+
+## NASCHRIFT.[ ](zotero://open-pdf/library/items/SJ9MWPA3?page=163)
+
+> “Veel is er bereikt. Maar meer nog blijft er te doen over! In een vlot geschreven, populair gehouden boek: „Voor Voor 't geluk ^ ^ onzer kinderen"" heeft mijn vriend onzer kinderen! „ j Dr. I. H. J. VOS, die zich zelf in de voorrede een „doodgewoon huisdokter" noemt, maar van wien ieder weet en erkent, dat hij als hoogstaande autoriteit een ruimen blik heeft op de sociale nooden en hunne bestrijding, nog eens gewezen op de wisselwerking tusschen het jonge kind en de gemeenschap. Hij onderschrijft dan ook in zijn boek — dat ik gaarne in handen van ieder ouder zou willen zien — ten volle de waardeering, welke de Voorzorgdienst in stijgende mate geniet. Een volk dat leeft bouwt aan zijn toekomst! Gaat het hier niet om de welvaart van de komende generatie; in laatste instantie „om het geluk onzer kinderen" ?” [(Knapper, 1935, p. 171)](zotero://open-pdf/library/items/SJ9MWPA3?page=171)
+
+Vos describes quite clearly how consultation care builts the future of a society. Then what society is enabled with these institutions?
+

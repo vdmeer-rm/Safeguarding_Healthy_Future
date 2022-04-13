@@ -7,7 +7,7 @@ Tags: #Utrecht #organisation
 
 - Founded in 1910 to oranise "het voorkomen en bestrijden van voedingsstoornissen bij zuigelingen in de gemeente Utrecht" for the non-catholic part, which was organised by the [[Wit-Gele Kruis Utrecht]]. It seemed that this association was first called [[Achter St. Pieter]] and later (1955) became responsible for operations together with the [[Groene Kruis Utrecht]] and [[Oranje-Groene Kruis Utrecht]] for everything not organised by the [[Wit-Gele Kruis Utrecht]].
 
-- A history of its funding structure is provided in [[Stukken samenwerking Oranje-Groene Kruis, de Groene Kruis en UtrechtseVereniging tot Bescherming van Zuigelingen]]
+- A history of its funding structure is provided in [[Stukken samenwerking stichting Oranje-Groene Kruis, de Groene Kruis en UtrechtseVereniging tot Bescherming van Zuigelingen]]
 
 - Apparently, in the 1960s, the association organised consultation offcies with specialist nurses (so-called [[Specifieke Zusters]]) focussed on child health in particular, as opposed to [[Polyvalente Zusters]] who took care for district nursing. This was a reason for a break with cross societies.
 
